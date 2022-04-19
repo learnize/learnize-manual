@@ -5,7 +5,7 @@ theme:
   features:
     - navigation.top
   palette:
-    primary: deep purple
+    primary: indigo
 nav:
   - 소개:
     - OpenOLAT에 대한 정보: info/info1.md
