@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-podcasts/resource_podcast1",
+  "id": "creating-podcasts/resource_podcast1",
+  "title": "팟캐스트를 위한 4단계",
+  "description": "이 지침의 도움으로 당신은 즉시 과정에 팟캐스트를 추가하고 첫 번째 에피소드를 만들 수 있을 것입니다.",
+  "source": "@site/docs/16. creating-podcasts/resource_podcast1.md",
+  "sourceDirName": "16. creating-podcasts",
+  "slug": "/creating-podcasts/resource_podcast1",
+  "permalink": "/docs/creating-podcasts/resource_podcast1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/16. creating-podcasts/resource_podcast1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "팟캐스트 제작",
+    "permalink": "/docs/category/팟캐스트-제작"
+  },
+  "next": {
+    "title": "팟캐스트 - 추가 구성",
+    "permalink": "/docs/creating-podcasts/resource_podcast2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "코스 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-제작-3",
+  "permalink": "/docs/category/코스-제작-3",
+  "navigation": {
+    "previous": {
+      "title": "전문가 모드에서 액세스 제한",
+      "permalink": "/docs/creating-courses/임시 폴더2/course_create5-3"
+    },
+    "next": {
+      "title": "코스 설정",
+      "permalink": "/docs/creating-courses/임시 폴더3/course_create7-1"
+    }
+  }
+}

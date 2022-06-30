@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2",
+  "id": "course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2",
+  "title": "강의 - 사용자 보기",
+  "description": "사용자는 개인 메뉴에서 자신의 부재를 열 수 있습니다.",
+  "source": "@site/docs/10. course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2.md",
+  "sourceDirName": "10. course-operation/임시 폴더/임시 폴더 2",
+  "slug": "/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2",
+  "permalink": "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "강의 및 결석",
+    "permalink": "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-1"
+  },
+  "next": {
+    "title": "강의 - 교사 보기",
+    "permalink": "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-3"
+  }
+}

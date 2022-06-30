@@ -1,0 +1,27 @@
+{
+  "unversionedId": "personal/personal-menu/personal-folders",
+  "id": "personal/personal-menu/personal-folders",
+  "title": "개인 폴더",
+  "description": "https://docs.openolat.org/manualuser/personal/assets/folder.png",
+  "source": "@site/docs/3. personal/personal-menu/personal-folders.md",
+  "sourceDirName": "3. personal/personal-menu",
+  "slug": "/personal/personal-menu/personal-folders",
+  "permalink": "/docs/personal/personal-menu/personal-folders",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/personal-menu/personal-folders.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "세션 시간 초과 및 로그아웃",
+    "permalink": "/docs/personal/personal-menu/calendar"
+  },
+  "next": {
+    "title": "이메일",
+    "permalink": "/docs/personal/personal-menu/email"
+  }
+}

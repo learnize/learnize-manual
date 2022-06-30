@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tests/tests2",
+  "id": "creating-tests/tests2",
+  "title": "테스트 또는 자체 테스트를 위한 4단계",
+  "description": "이 가이드를 사용하면 간단한 테스트 또는 자체 테스트를 코스에 빠르게 통합하고 학습자를 위한 코스를 활성화할 수 있습니다.",
+  "source": "@site/docs/22. creating-tests/tests2.md",
+  "sourceDirName": "22. creating-tests",
+  "slug": "/creating-tests/tests2",
+  "permalink": "/docs/creating-tests/tests2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/tests2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "테스트에 대한 일반 정보",
+    "permalink": "/docs/creating-tests/tests1"
+  },
+  "next": {
+    "title": "테스트 설정",
+    "permalink": "/docs/creating-tests/tests4"
+  }
+}

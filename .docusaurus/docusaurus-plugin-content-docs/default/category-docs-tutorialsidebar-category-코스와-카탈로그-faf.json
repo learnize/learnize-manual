@@ -1,0 +1,16 @@
+{
+  "title": "코스와 카탈로그",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스와-카탈로그",
+  "permalink": "/docs/category/코스와-카탈로그",
+  "navigation": {
+    "previous": {
+      "title": "그룹 관리",
+      "permalink": "/docs/group/group5"
+    },
+    "next": {
+      "title": "코스 찾기",
+      "permalink": "/docs/courses-and-catalog/course_and_catalog1"
+    }
+  }
+}

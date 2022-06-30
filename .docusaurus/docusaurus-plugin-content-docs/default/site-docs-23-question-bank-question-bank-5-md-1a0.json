@@ -1,0 +1,24 @@
+{
+  "unversionedId": "question-bank/question_bank5",
+  "id": "question-bank/question_bank5",
+  "title": "문제 풀 공유 옵션",
+  "description": "다른 사용자에게 질문 풀의 개인 질문 항목에 대한 액세스 권한을 부여하는 방법에는 여러 가지가 있습니다. 또한 사용자가 질문을 볼 수만 있는지 또는 질문을 변경할 수 있는지 여부도 결정할 수 있습니다.",
+  "source": "@site/docs/23. question-bank/question_bank5.md",
+  "sourceDirName": "23. question-bank",
+  "slug": "/question-bank/question_bank5",
+  "permalink": "/docs/question-bank/question_bank5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "검색",
+    "permalink": "/docs/question-bank/question_bank4"
+  },
+  "next": {
+    "title": "문제 은행 검토 프로세스",
+    "permalink": "/docs/question-bank/question_bank6"
+  }
+}

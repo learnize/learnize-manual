@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tests/tests4",
+  "id": "creating-tests/tests4",
+  "title": "테스트 설정",
+  "description": "시험 관리",
+  "source": "@site/docs/22. creating-tests/tests4.md",
+  "sourceDirName": "22. creating-tests",
+  "slug": "/creating-tests/tests4",
+  "permalink": "/docs/creating-tests/tests4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/tests4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "테스트 또는 자체 테스트를 위한 4단계",
+    "permalink": "/docs/creating-tests/tests2"
+  },
+  "next": {
+    "title": "코스 수준의 테스트",
+    "permalink": "/docs/creating-tests/tests5"
+  }
+}

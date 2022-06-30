@@ -1,0 +1,24 @@
+{
+  "unversionedId": "learning-activities/working-with-course-elements/learning_activities_in_course1-6",
+  "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-6",
+  "title": "위키로 작업하기",
+  "description": "https://docs.openolat.org/manualuser/learningactivities/assets/wiki.png",
+  "source": "@site/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-6.md",
+  "sourceDirName": "6. learning-activities/working-with-course-elements",
+  "slug": "/learning-activities/working-with-course-elements/learning_activities_in_course1-6",
+  "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "주제 할당 작업",
+    "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-5"
+  },
+  "next": {
+    "title": "추가 코스 기능",
+    "permalink": "/docs/learning-activities/learning_activities_in_course2"
+  }
+}

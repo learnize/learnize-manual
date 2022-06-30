@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tests/tests1",
+  "id": "creating-tests/tests1",
+  "title": "테스트에 대한 일반 정보",
+  "description": "OpenOlat 테스트는 표준화된 문서 형식 QTI 2.1에서 사용할 수 있습니다. QTI는 \"Question & Test Interoperability\"의 약자이며 온라인 테스트를 설계하는 데 사용되는 정의되고 표준화된 데이터 형식입니다. 이점은 이러한 표준화된 테스트가 표준을 지원하는 다양한 LMS 및 기타 시스템에서 사용될 수 있다는 것입니다. IMS 는 이러한 e-러닝을 위한 개방형 표준을 개발하기 위해 노력하고 있습니다.",
+  "source": "@site/docs/22. creating-tests/tests1.md",
+  "sourceDirName": "22. creating-tests",
+  "slug": "/creating-tests/tests1",
+  "permalink": "/docs/creating-tests/tests1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/tests1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "테스트 구성",
+    "permalink": "/docs/creating-tests/임시 폴더/tests3-4"
+  },
+  "next": {
+    "title": "테스트 또는 자체 테스트를 위한 4단계",
+    "permalink": "/docs/creating-tests/tests2"
+  }
+}

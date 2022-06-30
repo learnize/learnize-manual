@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/임시 폴더/course_create4-2",
+  "id": "creating-courses/임시 폴더/course_create4-2",
+  "title": "학습 경로 과정 만들기",
+  "description": "기존 및 학습 경로 과정의 생성은 \"내 항목\" 또는 \"즐겨찾기\" -> 만들기 -> 과정 아래의 작성자 영역에서 발생합니다. 그런 다음 원하는 코스 유형을 선택할 수 있습니다.",
+  "source": "@site/docs/8. creating-courses/임시 폴더/course_create4-2.md",
+  "sourceDirName": "8. creating-courses/임시 폴더",
+  "slug": "/creating-courses/임시 폴더/course_create4-2",
+  "permalink": "/docs/creating-courses/임시 폴더/course_create4-2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/임시 폴더/course_create4-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "개요",
+    "permalink": "/docs/creating-courses/임시 폴더/course_create4-1"
+  },
+  "next": {
+    "title": "렌파드 쿠르스",
+    "permalink": "/docs/creating-courses/임시 폴더/course_create4-3"
+  }
+}

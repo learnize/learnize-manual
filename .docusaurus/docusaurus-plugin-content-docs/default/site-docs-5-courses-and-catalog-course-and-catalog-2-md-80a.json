@@ -1,0 +1,24 @@
+{
+  "unversionedId": "courses-and-catalog/course_and_catalog2",
+  "id": "courses-and-catalog/course_and_catalog2",
+  "title": "정보 페이지",
+  "description": "각 코스와 각 OpenOlat 학습 리소스에는 정보 페이지가 있습니다. 코스의 경우 이 페이지를 \"코스 정보\" 페이지라고 합니다. 여기에 입력된 정보는 학습자가 코스 또는 학습 리소스를 예약하거나 입력하기 전에 이미 표시됩니다. 이러한 방식으로 교사는 대상 그룹에 미리 중앙 정보를 제공할 수 있습니다. 여기에는 예를 들어",
+  "source": "@site/docs/5. courses-and-catalog/course_and_catalog2.md",
+  "sourceDirName": "5. courses-and-catalog",
+  "slug": "/courses-and-catalog/course_and_catalog2",
+  "permalink": "/docs/courses-and-catalog/course_and_catalog2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5. courses-and-catalog/course_and_catalog2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 찾기",
+    "permalink": "/docs/courses-and-catalog/course_and_catalog1"
+  },
+  "next": {
+    "title": "코스 내 학습활동",
+    "permalink": "/docs/category/코스-내-학습활동"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/course_operation2",
+  "id": "course-operation/course_operation2",
+  "title": "추가 코스 기능 사용하기",
+  "description": "\"관리\" → \"설정\" 탭에서 다음 추가 기능을 구성할 수 있습니다.",
+  "source": "@site/docs/10. course-operation/course_operation2.md",
+  "sourceDirName": "10. course-operation",
+  "slug": "/course-operation/course_operation2",
+  "permalink": "/docs/course-operation/course_operation2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/course_operation2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 활동 기록",
+    "permalink": "/docs/course-operation/임시 폴더/course_operation1-8"
+  },
+  "next": {
+    "title": "하는 방법",
+    "permalink": "/docs/category/하는-방법"
+  }
+}

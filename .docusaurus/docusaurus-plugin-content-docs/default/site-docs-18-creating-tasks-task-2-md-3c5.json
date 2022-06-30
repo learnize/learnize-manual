@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tasks/task2",
+  "id": "creating-tasks/task2",
+  "title": "작업 - 추가 구성",
+  "description": "코스로 이동하여 코스 편집기를 열고 코스 요소 작업을 추가하거나 이미 삽입된 작업 요소로 이동합니다.",
+  "source": "@site/docs/18. creating-tasks/task2.md",
+  "sourceDirName": "18. creating-tasks",
+  "slug": "/creating-tasks/task2",
+  "permalink": "/docs/creating-tasks/task2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/18. creating-tasks/task2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "작업을 위한 3단계",
+    "permalink": "/docs/creating-tasks/task1"
+  },
+  "next": {
+    "title": "작업 평가",
+    "permalink": "/docs/creating-tasks/task3"
+  }
+}

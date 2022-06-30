@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/임시 폴더/portfolio2-4",
+  "id": "creating-portfolios/임시 폴더/portfolio2-4",
+  "title": "미디어 센터",
+  "description": "미디어 센터를 통해 다양한 미디어 파일 및 기타 아티팩트를 수집하여 다른 포트폴리오에서 사용할 수 있습니다. 미디어 센터에 요소를 추가하는 방법에는 몇 가지 옵션이 있습니다. 아래를 참조하십시오. 개별 아티팩트를 포트폴리오 바인더 로 컴파일 하여 구조화하고 추가 개발할 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/임시 폴더/portfolio2-4.md",
+  "sourceDirName": "19. creating-portfolios/임시 폴더",
+  "slug": "/creating-portfolios/임시 폴더/portfolio2-4",
+  "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/임시 폴더/portfolio2-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "내 항목",
+    "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-3"
+  },
+  "next": {
+    "title": "내가 공유함",
+    "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-5"
+  }
+}

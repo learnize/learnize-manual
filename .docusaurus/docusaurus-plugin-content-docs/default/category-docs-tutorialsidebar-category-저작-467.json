@@ -1,0 +1,16 @@
+{
+  "title": "저작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/저작",
+  "permalink": "/docs/category/저작",
+  "navigation": {
+    "previous": {
+      "title": "코스 문제 및 오류 메시지",
+      "permalink": "/docs/learning-activities/learning_activities_in_course4"
+    },
+    "next": {
+      "title": "다양한 유형의 학습 리소스",
+      "permalink": "/docs/authoring/authoring1"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "그룹",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/그룹",
+  "permalink": "/docs/category/그룹",
+  "navigation": {
+    "previous": {
+      "title": "테이블 작업",
+      "permalink": "/docs/personal/working with tables"
+    },
+    "next": {
+      "title": "그룹 생성",
+      "permalink": "/docs/group/group1"
+    }
+  }
+}

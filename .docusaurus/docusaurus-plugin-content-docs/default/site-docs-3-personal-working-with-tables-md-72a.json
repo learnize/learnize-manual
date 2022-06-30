@@ -1,0 +1,27 @@
+{
+  "unversionedId": "personal/working with tables",
+  "id": "personal/working with tables",
+  "title": "테이블 작업",
+  "description": "코스 섹션과 작성자 섹션(저자용)의 표는 다양한 필터 및 설정 옵션을 제공합니다.",
+  "source": "@site/docs/3. personal/working with tables.md",
+  "sourceDirName": "3. personal",
+  "slug": "/personal/working with tables",
+  "permalink": "/docs/personal/working with tables",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/working with tables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "수학 공식{: #formula}",
+    "permalink": "/docs/personal/math-formula"
+  },
+  "next": {
+    "title": "그룹",
+    "permalink": "/docs/category/그룹"
+  }
+}

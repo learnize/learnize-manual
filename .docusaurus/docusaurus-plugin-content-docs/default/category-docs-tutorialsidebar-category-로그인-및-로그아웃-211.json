@@ -1,0 +1,16 @@
+{
+  "title": "로그인 및 로그아웃",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/로그인-및-로그아웃",
+  "permalink": "/docs/category/로그인-및-로그아웃",
+  "navigation": {
+    "previous": {
+      "title": "게스트 액세스",
+      "permalink": "/docs/introduction/guest-access"
+    },
+    "next": {
+      "title": "로그인 페이지",
+      "permalink": "/docs/registration/login-page"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "위키 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/위키-제작",
+  "permalink": "/docs/category/위키-제작",
+  "navigation": {
+    "previous": {
+      "title": "CP 에디터",
+      "permalink": "/docs/creating-cp-learning-content/resource_cp2"
+    },
+    "next": {
+      "title": "위키를 만드는 4단계",
+      "permalink": "/docs/creating-wikis/resource_wiki1"
+    }
+  }
+}

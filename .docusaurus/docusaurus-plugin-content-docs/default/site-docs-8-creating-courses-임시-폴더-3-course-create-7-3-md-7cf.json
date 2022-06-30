@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/임시 폴더3/course_create7-3",
+  "id": "creating-courses/임시 폴더3/course_create7-3",
+  "title": "코스 및 코스 요소의 디자인 가능성",
+  "description": "미정",
+  "source": "@site/docs/8. creating-courses/임시 폴더3/course_create7-3.md",
+  "sourceDirName": "8. creating-courses/임시 폴더3",
+  "slug": "/creating-courses/임시 폴더3/course_create7-3",
+  "permalink": "/docs/creating-courses/임시 폴더3/course_create7-3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/임시 폴더3/course_create7-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스에 대한 LTI 액세스 구성",
+    "permalink": "/docs/creating-courses/임시 폴더3/course_create7-2"
+  },
+  "next": {
+    "title": "일반 정보",
+    "permalink": "/docs/creating-courses/course_create1"
+  }
+}

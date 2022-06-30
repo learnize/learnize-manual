@@ -1,0 +1,24 @@
+{
+  "unversionedId": "question-bank/question_bank4",
+  "id": "question-bank/question_bank4",
+  "title": "검색",
+  "description": "문제 은행 검색을 사용하면 탐색 중인 풀이나 데이터베이스에서 항목을 찾을 수 있습니다. 포괄적인 문제 은행 검색을 수행하는 것은 불가능합니다.",
+  "source": "@site/docs/23. question-bank/question_bank4.md",
+  "sourceDirName": "23. question-bank",
+  "slug": "/question-bank/question_bank4",
+  "permalink": "/docs/question-bank/question_bank4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "문제 은행 가능한 작업",
+    "permalink": "/docs/question-bank/question_bank3"
+  },
+  "next": {
+    "title": "문제 풀 공유 옵션",
+    "permalink": "/docs/question-bank/question_bank5"
+  }
+}

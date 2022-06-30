@@ -1,0 +1,24 @@
+{
+  "unversionedId": "learning-activities/working-with-course-elements/learning_activities_in_course1-3",
+  "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-3",
+  "title": "Welcome to MkDocs",
+  "description": "For full documentation visit mkdocs.org.",
+  "source": "@site/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-3.md",
+  "sourceDirName": "6. learning-activities/working-with-course-elements",
+  "slug": "/learning-activities/working-with-course-elements/learning_activities_in_course1-3",
+  "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포럼 작업",
+    "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-2"
+  },
+  "next": {
+    "title": "테스트 작업",
+    "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-4"
+  }
+}

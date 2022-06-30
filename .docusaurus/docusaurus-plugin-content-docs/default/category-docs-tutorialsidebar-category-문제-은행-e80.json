@@ -1,0 +1,16 @@
+{
+  "title": "문제 은행",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/문제-은행",
+  "permalink": "/docs/category/문제-은행",
+  "navigation": {
+    "previous": {
+      "title": "QTI 1.2에서 QTI 2.1로 변경",
+      "permalink": "/docs/creating-tests/tests6"
+    },
+    "next": {
+      "title": "데이터 관리 - 질문 만들기 또는 가져오기",
+      "permalink": "/docs/question-bank/question_bank1"
+    }
+  }
+}

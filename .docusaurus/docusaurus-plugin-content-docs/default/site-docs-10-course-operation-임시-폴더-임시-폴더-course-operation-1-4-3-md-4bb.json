@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/임시 폴더/임시 폴더/course_operation1-4-3",
+  "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-3",
+  "title": "학습자 평가",
+  "description": "이것은 사람의 평가 가능한 모든 과정 요소를 평가하는 방법입니다.",
+  "source": "@site/docs/10. course-operation/임시 폴더/임시 폴더/course_operation1-4-3.md",
+  "sourceDirName": "10. course-operation/임시 폴더/임시 폴더",
+  "slug": "/course-operation/임시 폴더/임시 폴더/course_operation1-4-3",
+  "permalink": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/임시 폴더/임시 폴더/course_operation1-4-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "평가 도구 - 탭: 사용자",
+    "permalink": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-2"
+  },
+  "next": {
+    "title": "코스 모듈 평가",
+    "permalink": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-4"
+  }
+}

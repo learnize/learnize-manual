@@ -1,0 +1,24 @@
+{
+  "unversionedId": "group/group2",
+  "id": "group/group2",
+  "title": "그룹 관리",
+  "description": "새 그룹을 만들면 자동으로 이 그룹의 코치가 됩니다. 그룹의 코치는 그룹의 메뉴에서 \"관리\" 링크를 얻습니다. 그룹을 관리할 수 있을 뿐만 아니라 사용자에게 코치를 알리고, 그룹을 삭제하고, 몇 가지 추가 설정을 구성할 수도 있습니다.",
+  "source": "@site/docs/4. group/group2.md",
+  "sourceDirName": "4. group",
+  "slug": "/group/group2",
+  "permalink": "/docs/group/group2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. group/group2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "그룹 생성",
+    "permalink": "/docs/group/group1"
+  },
+  "next": {
+    "title": "그룹에 대한 LTI 액세스 구성",
+    "permalink": "/docs/group/group3"
+  }
+}

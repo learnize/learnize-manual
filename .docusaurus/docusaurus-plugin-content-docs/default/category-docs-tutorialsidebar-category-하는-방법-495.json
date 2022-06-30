@@ -1,0 +1,16 @@
+{
+  "title": "하는 방법",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/하는-방법",
+  "permalink": "/docs/category/하는-방법",
+  "navigation": {
+    "previous": {
+      "title": "추가 코스 기능 사용하기",
+      "permalink": "/docs/course-operation/course_operation2"
+    },
+    "next": {
+      "title": "... 제출 작업에 대한 일괄 평가 생성",
+      "permalink": "/docs/how-to/how1"
+    }
+  }
+}

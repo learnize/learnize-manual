@@ -1,0 +1,22 @@
+{
+  "defaultLocale": "en",
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "currentLocale": "en",
+  "localeConfigs": {
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en-US",
+      "calendar": "gregory"
+    },
+    "ko": {
+      "label": "한국어",
+      "direction": "ltr",
+      "htmlLang": "ko-KR",
+      "calendar": "gregory"
+    }
+  }
+}

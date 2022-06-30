@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/임시 폴더/portfolio2-5",
+  "id": "creating-portfolios/임시 폴더/portfolio2-5",
+  "title": "내가 공유함",
+  "description": "이 \"내 공유로 이동\" 섹션에서는 역할, 바인더 유형 또는 바인더가 전체 또는 부분적으로 공유되어 댓글을 달거나 등급을 매길 수 있는지 여부에 관계없이 공유한 모든 바인더를 볼 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/임시 폴더/portfolio2-5.md",
+  "sourceDirName": "19. creating-portfolios/임시 폴더",
+  "slug": "/creating-portfolios/임시 폴더/portfolio2-5",
+  "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/임시 폴더/portfolio2-5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "미디어 센터",
+    "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-4"
+  },
+  "next": {
+    "title": "나와 공유됨",
+    "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-6"
+  }
+}

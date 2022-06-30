@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/course_create1",
+  "id": "creating-courses/course_create1",
+  "title": "일반 정보",
+  "description": "OpenOlat 과정은 강의, 세미나, 온라인 자습서 또는 그룹 퍼즐과 같은 다양한 이벤트 형식의 매핑은 물론 문제 기반 학습, 협동 학습, 자기 조직 학습 등과 같은 다양한 유형의 학습 구현을 가능하게 합니다. 최대의 유연성 선택한 순서에 따라 원하는 수의 코스 요소 를 사용함으로써 보장됩니다 . 따라서 교훈적인 개념을 실현하기 쉽습니다.",
+  "source": "@site/docs/8. creating-courses/course_create1.md",
+  "sourceDirName": "8. creating-courses",
+  "slug": "/creating-courses/course_create1",
+  "permalink": "/docs/creating-courses/course_create1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 및 코스 요소의 디자인 가능성",
+    "permalink": "/docs/creating-courses/임시 폴더3/course_create7-3"
+  },
+  "next": {
+    "title": "코스 편집기를 사용한 코스의 5단계",
+    "permalink": "/docs/creating-courses/course_create2"
+  }
+}

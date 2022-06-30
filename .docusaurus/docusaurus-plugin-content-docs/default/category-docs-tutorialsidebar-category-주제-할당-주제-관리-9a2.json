@@ -1,0 +1,16 @@
+{
+  "title": "주제 할당, 주제 관리",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/주제-할당-주제-관리",
+  "permalink": "/docs/category/주제-할당-주제-관리",
+  "navigation": {
+    "previous": {
+      "title": "역량 태그",
+      "permalink": "/docs/creating-portfolios/portfolio6"
+    },
+    "next": {
+      "title": "주제 생성 및 관리를 위한 3단계",
+      "permalink": "/docs/managing-topics/topic_assignment1"
+    }
+  }
+}

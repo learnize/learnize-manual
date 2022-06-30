@@ -1,0 +1,24 @@
+{
+  "unversionedId": "how-to/how3",
+  "id": "how-to/how3",
+  "title": "... 여러 코스에서 동일한 파일 사용",
+  "description": "예를 들어 연구 과정과 같이 여러 과정으로 교육 시나리오를 구현하고 모든 과정에서 많은 파일을 사용해야 하는 경우 이러한 파일을 학습 리소스 \"리소스 폴더\"에 중앙 집중식으로 저장한 다음 통합하는 것이 좋습니다. 원하는 코스. 파일을 한 번만 변경하면 연결된 모든 코스에서 자동으로 볼 수 있다는 장점이 있습니다. 이러한 파일의 일반적인 예로는 기본 프레임워크 조건, 일반 조건, 조직 정보, 일반 지원 및 담당자에 대한 정보 등이 있습니다.",
+  "source": "@site/docs/11. how-to/how3.md",
+  "sourceDirName": "11. how-to",
+  "slug": "/how-to/how3",
+  "permalink": "/docs/how-to/how3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. how-to/how3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "... CSS를 사용하여 코스 디자인 사용자 지정(전문가)",
+    "permalink": "/docs/how-to/how2"
+  },
+  "next": {
+    "title": "전자 평가",
+    "permalink": "/docs/category/전자-평가"
+  }
+}

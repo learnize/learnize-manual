@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/임시 폴더/course_create4-3",
+  "id": "creating-courses/임시 폴더/course_create4-3",
+  "title": "렌파드 쿠르스",
+  "description": "에디터](Learningpathcourse-Course_editor.md)",
+  "source": "@site/docs/8. creating-courses/임시 폴더/course_create4-3.md",
+  "sourceDirName": "8. creating-courses/임시 폴더",
+  "slug": "/creating-courses/임시 폴더/course_create4-3",
+  "permalink": "/docs/creating-courses/임시 폴더/course_create4-3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/임시 폴더/course_create4-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "학습 경로 과정 만들기",
+    "permalink": "/docs/creating-courses/임시 폴더/course_create4-2"
+  },
+  "next": {
+    "title": "렌파드 쿠르세",
+    "permalink": "/docs/creating-courses/임시 폴더/course_create4-4"
+  }
+}

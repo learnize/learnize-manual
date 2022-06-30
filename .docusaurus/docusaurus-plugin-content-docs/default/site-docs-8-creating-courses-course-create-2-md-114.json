@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/course_create2",
+  "id": "creating-courses/course_create2",
+  "title": "코스 편집기를 사용한 코스의 5단계",
+  "description": "코스 편집기에서 코스 요소 를 코스에 추가하고 이미 설치된 코스 요소를 설정 및 수정할 수 있습니다. 다음은 마법사를 사용하지 않고 코스를 생성하는 방법을 설명합니다.",
+  "source": "@site/docs/8. creating-courses/course_create2.md",
+  "sourceDirName": "8. creating-courses",
+  "slug": "/creating-courses/course_create2",
+  "permalink": "/docs/creating-courses/course_create2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "일반 정보",
+    "permalink": "/docs/creating-courses/course_create1"
+  },
+  "next": {
+    "title": "클릭 몇 번이면 코스 마법사가 OpenOlat 코스를 생성합니다.",
+    "permalink": "/docs/creating-courses/course_create3"
+  }
+}

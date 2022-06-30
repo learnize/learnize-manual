@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/임시 폴더/course_operation1-2",
+  "id": "course-operation/임시 폴더/course_operation1-2",
+  "title": "회원관리",
+  "description": "회원 관리에서 코스 소유자는 코스의 모든 사용자와 그룹을 보고 이를 종합적으로 구성할 수 있습니다(예: 특정 코스 관련 권한 할당, 참가자 연락 및 코스 그룹 구성). 권리 관리 및 코스 관련 이용 약관 또는 개인 정보 보호 정책에 대한 동의 관리도 여기에서 이루어집니다.",
+  "source": "@site/docs/10. course-operation/임시 폴더/course_operation1-2.md",
+  "sourceDirName": "10. course-operation/임시 폴더",
+  "slug": "/course-operation/임시 폴더/course_operation1-2",
+  "permalink": "/docs/course-operation/임시 폴더/course_operation1-2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/임시 폴더/course_operation1-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 도구 사용",
+    "permalink": "/docs/course-operation/임시 폴더/course_operation1-1"
+  },
+  "next": {
+    "title": "저장 폴더",
+    "permalink": "/docs/course-operation/임시 폴더/course_operation1-3"
+  }
+}

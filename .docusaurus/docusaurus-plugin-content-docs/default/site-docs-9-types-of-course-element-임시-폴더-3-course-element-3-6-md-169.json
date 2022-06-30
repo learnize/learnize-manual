@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/임시 폴더 3/course_element3-6",
+  "id": "types-of-course-element/임시 폴더 3/course_element3-6",
+  "title": "코스 요소 GoToMeeting",
+  "description": "(GoTo 교육)",
+  "source": "@site/docs/9. types-of-course-element/임시 폴더 3/course_element3-6.md",
+  "sourceDirName": "9. types-of-course-element/임시 폴더 3",
+  "slug": "/types-of-course-element/임시 폴더 3/course_element3-6",
+  "permalink": "/docs/types-of-course-element/임시 폴더 3/course_element3-6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/임시 폴더 3/course_element3-6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "자주 묻는 질문 - BigBlueButton",
+    "permalink": "/docs/types-of-course-element/임시 폴더 3/course_element3-5"
+  },
+  "next": {
+    "title": "코스 요소 OpenMeetings",
+    "permalink": "/docs/types-of-course-element/임시 폴더 3/course_element3-7"
+  }
+}

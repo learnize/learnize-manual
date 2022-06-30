@@ -1,0 +1,24 @@
+{
+  "unversionedId": "managing-topics/topic_assignment1",
+  "id": "managing-topics/topic_assignment1",
+  "title": "주제 생성 및 관리를 위한 3단계",
+  "description": "다음 지침은 과정 참가자를 관리하기 전에 과정 요소 \"주제 할당\"을 통해 주제를 제공하는 방법을 즉시 알려줄 것입니다.",
+  "source": "@site/docs/20. managing-topics/topic_assignment1.md",
+  "sourceDirName": "20. managing-topics",
+  "slug": "/managing-topics/topic_assignment1",
+  "permalink": "/docs/managing-topics/topic_assignment1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/20. managing-topics/topic_assignment1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "주제 할당, 주제 관리",
+    "permalink": "/docs/category/주제-할당-주제-관리"
+  },
+  "next": {
+    "title": "폼 제작",
+    "permalink": "/docs/category/폼-제작"
+  }
+}

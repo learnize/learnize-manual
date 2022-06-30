@@ -1,0 +1,16 @@
+{
+  "title": "테스크 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/테스크-제작",
+  "permalink": "/docs/category/테스크-제작",
+  "navigation": {
+    "previous": {
+      "title": "블로그 - 추가 구성",
+      "permalink": "/docs/creating-blogs/resource_blog2"
+    },
+    "next": {
+      "title": "작업을 위한 3단계",
+      "permalink": "/docs/creating-tasks/task1"
+    }
+  }
+}

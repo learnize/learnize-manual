@@ -1,0 +1,24 @@
+{
+  "unversionedId": "question-bank/question_bank7",
+  "id": "question-bank/question_bank7",
+  "title": "질문 은행 관리",
+  "description": "풀 관리자에 의한 구성",
+  "source": "@site/docs/23. question-bank/question_bank7.md",
+  "sourceDirName": "23. question-bank",
+  "slug": "/question-bank/question_bank7",
+  "permalink": "/docs/question-bank/question_bank7",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "문제 은행 검토 프로세스",
+    "permalink": "/docs/question-bank/question_bank6"
+  },
+  "next": {
+    "title": "커리큘럼 관리",
+    "permalink": "/docs/category/커리큘럼-관리"
+  }
+}

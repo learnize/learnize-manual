@@ -1,0 +1,16 @@
+{
+  "title": "전자 평가",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/전자-평가",
+  "permalink": "/docs/category/전자-평가",
+  "navigation": {
+    "previous": {
+      "title": "... 여러 코스에서 동일한 파일 사용",
+      "permalink": "/docs/how-to/how3"
+    },
+    "next": {
+      "title": "평가 모드",
+      "permalink": "/docs/e-assessment/e_assessment1"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "소개",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/소개",
+  "permalink": "/docs/category/소개",
+  "navigation": {
+    "next": {
+      "title": "Learnize란?",
+      "permalink": "/docs/introduction/about-learnize"
+    }
+  }
+}

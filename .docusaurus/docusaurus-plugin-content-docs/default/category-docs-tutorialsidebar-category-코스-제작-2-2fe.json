@@ -1,0 +1,16 @@
+{
+  "title": "코스 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-제작-2",
+  "permalink": "/docs/category/코스-제작-2",
+  "navigation": {
+    "previous": {
+      "title": "렌파드 쿠르세",
+      "permalink": "/docs/creating-courses/임시 폴더/course_create4-4"
+    },
+    "next": {
+      "title": "집단",
+      "permalink": "/docs/creating-courses/임시 폴더2/course_create5-1"
+    }
+  }
+}

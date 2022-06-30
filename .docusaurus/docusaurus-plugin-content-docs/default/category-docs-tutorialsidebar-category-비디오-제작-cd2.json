@@ -1,0 +1,16 @@
+{
+  "title": "비디오 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/비디오-제작",
+  "permalink": "/docs/category/비디오-제작",
+  "navigation": {
+    "previous": {
+      "title": "위키를 만드는 4단계",
+      "permalink": "/docs/creating-wikis/resource_wiki1"
+    },
+    "next": {
+      "title": "학습 자료: 비디오",
+      "permalink": "/docs/creating-videos/resource_video1"
+    }
+  }
+}

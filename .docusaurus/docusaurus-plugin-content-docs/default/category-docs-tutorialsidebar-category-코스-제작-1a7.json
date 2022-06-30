@@ -1,0 +1,16 @@
+{
+  "title": "코스 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-제작",
+  "permalink": "/docs/category/코스-제작",
+  "navigation": {
+    "previous": {
+      "title": "리소스 및 사용에 대한 기술 정보",
+      "permalink": "/docs/authoring/authoring5"
+    },
+    "next": {
+      "title": "코스 제작",
+      "permalink": "/docs/category/코스-제작-1"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "개인메뉴 및 컴포넌트",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/개인메뉴-및-컴포넌트",
+  "permalink": "/docs/category/개인메뉴-및-컴포넌트",
+  "navigation": {
+    "previous": {
+      "title": "세션 시간 초과 및 로그아웃",
+      "permalink": "/docs/registration/logout"
+    },
+    "next": {
+      "title": "개인메뉴",
+      "permalink": "/docs/category/개인메뉴"
+    }
+  }
+}

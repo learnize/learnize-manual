@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/course_create3",
+  "id": "creating-courses/course_create3",
+  "title": "클릭 몇 번이면 코스 마법사가 OpenOlat 코스를 생성합니다.",
+  "description": "코스](JustaFewClicksandtheCourseWizardWillCreateYourOpenOlatCourse.md)",
+  "source": "@site/docs/8. creating-courses/course_create3.md",
+  "sourceDirName": "8. creating-courses",
+  "slug": "/creating-courses/course_create3",
+  "permalink": "/docs/creating-courses/course_create3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 편집기를 사용한 코스의 5단계",
+    "permalink": "/docs/creating-courses/course_create2"
+  },
+  "next": {
+    "title": "코스 편집기 도구",
+    "permalink": "/docs/creating-courses/course_create6"
+  }
+}

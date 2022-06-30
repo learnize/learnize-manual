@@ -1,0 +1,16 @@
+{
+  "title": "팟캐스트 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/팟캐스트-제작",
+  "permalink": "/docs/category/팟캐스트-제작",
+  "navigation": {
+    "previous": {
+      "title": "동영상 업로드",
+      "permalink": "/docs/creating-videos/resource_video4"
+    },
+    "next": {
+      "title": "팟캐스트를 위한 4단계",
+      "permalink": "/docs/creating-podcasts/resource_podcast1"
+    }
+  }
+}

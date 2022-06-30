@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tests/임시 폴더/tests3-3",
+  "id": "creating-tests/임시 폴더/tests3-3",
+  "title": "테스트 질문 구성",
+  "description": "각 질문 유형 에 대해 다음 탭을 사용할 수 있습니다. 질문 유형 이름, 점수, 피드백, 미리보기 및 솔루션 미리보기. 다음에서는 시험 문제를 설정하기 위한 개별 탭에 대해 자세히 설명합니다.",
+  "source": "@site/docs/22. creating-tests/임시 폴더/tests3-3.md",
+  "sourceDirName": "22. creating-tests/임시 폴더",
+  "slug": "/creating-tests/임시 폴더/tests3-3",
+  "permalink": "/docs/creating-tests/임시 폴더/tests3-3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/임시 폴더/tests3-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tests3-2",
+    "permalink": "/docs/creating-tests/임시 폴더/tests3-2"
+  },
+  "next": {
+    "title": "테스트 구성",
+    "permalink": "/docs/creating-tests/임시 폴더/tests3-4"
+  }
+}

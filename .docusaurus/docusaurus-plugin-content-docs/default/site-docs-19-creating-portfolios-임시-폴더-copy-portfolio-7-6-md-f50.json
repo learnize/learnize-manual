@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/임시 폴더 copy/portfolio7-6",
+  "id": "creating-portfolios/임시 폴더 copy/portfolio7-6",
+  "title": "포트폴리오 할당: 채점",
+  "description": "학습자가 포트폴리오 작업을 편집하고 그 중 적어도 일부를 게시한 경우 바인더 또는 게시된 부분은 다른 사람이 댓글을 달고 (설정에서 허용하는 경우) 채점할 수 있습니다. 다음에서는 프로세스를 설명합니다.",
+  "source": "@site/docs/19. creating-portfolios/임시 폴더 copy/portfolio7-6.md",
+  "sourceDirName": "19. creating-portfolios/임시 폴더 copy",
+  "slug": "/creating-portfolios/임시 폴더 copy/portfolio7-6",
+  "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/임시 폴더 copy/portfolio7-6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 작업 및 할당: 수집 및 편집",
+    "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-5"
+  },
+  "next": {
+    "title": "포트폴리오 - 일반 정보",
+    "permalink": "/docs/creating-portfolios/portfolio1"
+  }
+}

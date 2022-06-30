@@ -1,0 +1,27 @@
+{
+  "unversionedId": "personal/portal-configuration",
+  "id": "personal/portal-configuration",
+  "title": "포털 구성",
+  "description": "관리자가 포털 기능을 활성화했다면 OpenOlat 사용자는 포털 페이지를 구성할 수 있습니다. 포털의 섹션은 그룹, 학습 리소스, 캘린더, 알림, 연재 만화 및 OpenOlat 일반 정보에 대한 다양한 바로 가기로 구성됩니다. 원하는 배열로 표시할 섹션을 선택할 수 있습니다.",
+  "source": "@site/docs/3. personal/portal-configuration.md",
+  "sourceDirName": "3. personal",
+  "slug": "/personal/portal-configuration",
+  "permalink": "/docs/personal/portal-configuration",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/portal-configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "채팅",
+    "permalink": "/docs/personal/chat"
+  },
+  "next": {
+    "title": "수학 공식{: #formula}",
+    "permalink": "/docs/personal/math-formula"
+  }
+}

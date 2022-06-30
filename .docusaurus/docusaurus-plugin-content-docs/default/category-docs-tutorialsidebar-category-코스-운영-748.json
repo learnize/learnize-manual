@@ -1,0 +1,16 @@
+{
+  "title": "코스 운영",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-운영",
+  "permalink": "/docs/category/코스-운영",
+  "navigation": {
+    "previous": {
+      "title": "다른",
+      "permalink": "/docs/types-of-course-element/course_element5"
+    },
+    "next": {
+      "title": "코스 운영",
+      "permalink": "/docs/category/코스-운영-1"
+    }
+  }
+}

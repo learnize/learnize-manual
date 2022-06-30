@@ -1,0 +1,16 @@
+{
+  "title": "CP 학습 컨텐츠 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/cp-학습-컨텐츠-제작",
+  "permalink": "/docs/category/cp-학습-컨텐츠-제작",
+  "navigation": {
+    "previous": {
+      "title": "코칭",
+      "permalink": "/docs/e-assessment/e_assessment3"
+    },
+    "next": {
+      "title": "콘텐츠 패키지를 위한 5단계",
+      "permalink": "/docs/creating-cp-learning-content/resource_cp1"
+    }
+  }
+}

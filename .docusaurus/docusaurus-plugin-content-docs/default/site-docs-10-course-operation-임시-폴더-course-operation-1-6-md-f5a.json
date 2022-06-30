@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/임시 폴더/course_operation1-6",
+  "id": "course-operation/임시 폴더/course_operation1-6",
+  "title": "코스 알림",
+  "description": "미리 알림 기능을 사용하여 규칙 목록을 생성하고, 이를 이행하면 이전에 정의된 메일이 규칙에 정의된 과정의 사용자 그룹으로 자동으로 전송됩니다. 빈도 및 전송 시간은 시스템 관리자가 시스템 전반에 걸쳐 정의합니다. 미리 알림은 구체적으로 트리거될 수도 있지만 모든 조건이 충족되는 것으로 간주되는 사용자에게만 알림이 전송됩니다.",
+  "source": "@site/docs/10. course-operation/임시 폴더/course_operation1-6.md",
+  "sourceDirName": "10. course-operation/임시 폴더",
+  "slug": "/course-operation/임시 폴더/course_operation1-6",
+  "permalink": "/docs/course-operation/임시 폴더/course_operation1-6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/임시 폴더/course_operation1-6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "저장 폴더",
+    "permalink": "/docs/course-operation/임시 폴더/course_operation1-3"
+  },
+  "next": {
+    "title": "데이터 보관",
+    "permalink": "/docs/course-operation/임시 폴더/course_operation1-7"
+  }
+}

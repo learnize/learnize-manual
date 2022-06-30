@@ -1,0 +1,24 @@
+{
+  "unversionedId": "group/group4",
+  "id": "group/group4",
+  "title": "그룹 도구 사용",
+  "description": "그룹 코치가 활성화한 도구에 따라 다음 도구를 사용할 수 있습니다. 협업 그룹 작업의 그룹 참가자로 사용할 수 있습니다.",
+  "source": "@site/docs/4. group/group4.md",
+  "sourceDirName": "4. group",
+  "slug": "/group/group4",
+  "permalink": "/docs/group/group4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. group/group4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "그룹에 대한 LTI 액세스 구성",
+    "permalink": "/docs/group/group3"
+  },
+  "next": {
+    "title": "그룹 관리",
+    "permalink": "/docs/group/group5"
+  }
+}

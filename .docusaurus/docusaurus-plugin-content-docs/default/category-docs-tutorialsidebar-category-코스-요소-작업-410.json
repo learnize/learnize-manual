@@ -1,0 +1,16 @@
+{
+  "title": "코스 요소 작업",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-요소-작업",
+  "permalink": "/docs/category/코스-요소-작업",
+  "navigation": {
+    "previous": {
+      "title": "코스 내 학습활동",
+      "permalink": "/docs/category/코스-내-학습활동"
+    },
+    "next": {
+      "title": "코스 요소 작업",
+      "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-1"
+    }
+  }
+}

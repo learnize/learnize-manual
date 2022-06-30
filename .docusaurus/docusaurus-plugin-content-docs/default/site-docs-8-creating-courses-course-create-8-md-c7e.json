@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/course_create8",
+  "id": "creating-courses/course_create8",
+  "title": "액세스 구성",
+  "description": "학습자가 코스를 볼 수 있으려면 먼저 코스를 게시해야 합니다. 코스가 모든 사용자에게 공개되는 경우 암호와 같은 예약 방법으로 액세스 권한을 추가로 제공할 수 있습니다.",
+  "source": "@site/docs/8. creating-courses/course_create8.md",
+  "sourceDirName": "8. creating-courses",
+  "slug": "/creating-courses/course_create8",
+  "permalink": "/docs/creating-courses/course_create8",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 편집기 도구",
+    "permalink": "/docs/creating-courses/course_create6"
+  },
+  "next": {
+    "title": "코스 요소 타입",
+    "permalink": "/docs/category/코스-요소-타입"
+  }
+}

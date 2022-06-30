@@ -1,0 +1,16 @@
+{
+  "title": "구성",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/구성",
+  "permalink": "/docs/category/구성",
+  "navigation": {
+    "previous": {
+      "title": "이메일",
+      "permalink": "/docs/personal/personal-menu/email"
+    },
+    "next": {
+      "title": "구성",
+      "permalink": "/docs/personal/configuration/overview"
+    }
+  }
+}

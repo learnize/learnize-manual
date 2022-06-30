@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-blogs/resource_blog1",
+  "id": "creating-blogs/resource_blog1",
+  "title": "블로그를 위한 4단계",
+  "description": "다음 지침의 도움으로 필요에 따라 조정하기 전에 과정에 대한 블로그를 만들 수 있습니다.",
+  "source": "@site/docs/17. creating-blogs/resource_blog1.md",
+  "sourceDirName": "17. creating-blogs",
+  "slug": "/creating-blogs/resource_blog1",
+  "permalink": "/docs/creating-blogs/resource_blog1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/17. creating-blogs/resource_blog1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "블로그 제작",
+    "permalink": "/docs/category/블로그-제작"
+  },
+  "next": {
+    "title": "블로그 - 추가 구성",
+    "permalink": "/docs/creating-blogs/resource_blog2"
+  }
+}

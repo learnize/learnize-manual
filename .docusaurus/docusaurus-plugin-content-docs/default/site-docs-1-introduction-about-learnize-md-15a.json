@@ -1,0 +1,27 @@
+{
+  "unversionedId": "introduction/about-learnize",
+  "id": "introduction/about-learnize",
+  "title": "Learnize란?",
+  "description": "이 사용자 매뉴얼은 Learnize의 기능을 철저히 설명하면서 Learnize에 익숙 해지도록 도와줍니다.",
+  "source": "@site/docs/1. introduction/about-learnize.md",
+  "sourceDirName": "1. introduction",
+  "slug": "/introduction/about-learnize",
+  "permalink": "/docs/introduction/about-learnize",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. introduction/about-learnize.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "소개",
+    "permalink": "/docs/category/소개"
+  },
+  "next": {
+    "title": "Learnize 작업 시 요구사항",
+    "permalink": "/docs/introduction/requirements"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/portfolio4",
+  "id": "creating-portfolios/portfolio4",
+  "title": "포트폴리오 편집기",
+  "description": "미정",
+  "source": "@site/docs/19. creating-portfolios/portfolio4.md",
+  "sourceDirName": "19. creating-portfolios",
+  "slug": "/creating-portfolios/portfolio4",
+  "permalink": "/docs/creating-portfolios/portfolio4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 바인더의 3단계",
+    "permalink": "/docs/creating-portfolios/portfolio3"
+  },
+  "next": {
+    "title": "항목의 다중 사용",
+    "permalink": "/docs/creating-portfolios/portfolio5"
+  }
+}

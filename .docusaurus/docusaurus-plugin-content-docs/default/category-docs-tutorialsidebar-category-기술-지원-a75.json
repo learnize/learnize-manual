@@ -1,0 +1,16 @@
+{
+  "title": "기술 지원",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/기술-지원",
+  "permalink": "/docs/category/기술-지원",
+  "navigation": {
+    "previous": {
+      "title": "커리큘럼 관리",
+      "permalink": "/docs/curriculum-management/curriculum_management1"
+    },
+    "next": {
+      "title": "WebDAV 사용",
+      "permalink": "/docs/supported-technologies/supported_tech1"
+    }
+  }
+}

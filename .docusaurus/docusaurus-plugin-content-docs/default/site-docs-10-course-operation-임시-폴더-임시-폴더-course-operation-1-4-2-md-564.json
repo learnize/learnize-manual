@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/임시 폴더/임시 폴더/course_operation1-4-2",
+  "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-2",
+  "title": "평가 도구 - 탭: 사용자",
+  "description": "학습자에 대한 실제 평가는 \"사용자\" 탭의 평가 도구에서 이루어집니다.",
+  "source": "@site/docs/10. course-operation/임시 폴더/임시 폴더/course_operation1-4-2.md",
+  "sourceDirName": "10. course-operation/임시 폴더/임시 폴더",
+  "slug": "/course-operation/임시 폴더/임시 폴더/course_operation1-4-2",
+  "permalink": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/임시 폴더/임시 폴더/course_operation1-4-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "평가 도구 - 개요",
+    "permalink": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-1"
+  },
+  "next": {
+    "title": "학습자 평가",
+    "permalink": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "폼 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/폼-제작-2",
+  "permalink": "/docs/category/폼-제작-2",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to MkDocs",
+      "permalink": "/docs/creating-forms/임시 폴더/forms3-3"
+    },
+    "next": {
+      "title": "Welcome to MkDocs",
+      "permalink": "/docs/creating-forms/임시 폴더 copy/forms4-1"
+    }
+  }
+}

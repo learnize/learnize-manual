@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/course_element4",
+  "id": "types-of-course-element/course_element4",
+  "title": "관리 및 조직",
+  "description": "- 1 관리 및 조직",
+  "source": "@site/docs/9. types-of-course-element/course_element4.md",
+  "sourceDirName": "9. types-of-course-element",
+  "slug": "/types-of-course-element/course_element4",
+  "permalink": "/docs/types-of-course-element/course_element4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/course_element4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "과정 요소 Microsoft Teams",
+    "permalink": "/docs/types-of-course-element/임시 폴더 3/course_element3-9"
+  },
+  "next": {
+    "title": "다른",
+    "permalink": "/docs/types-of-course-element/course_element5"
+  }
+}

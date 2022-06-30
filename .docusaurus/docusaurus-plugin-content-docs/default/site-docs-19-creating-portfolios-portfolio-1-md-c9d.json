@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/portfolio1",
+  "id": "creating-portfolios/portfolio1",
+  "title": "포트폴리오 - 일반 정보",
+  "description": "e-포트폴리오의 도움으로 학습자는 학습 및 개발 프로세스를 설계, 문서화 및 반영할 수 있습니다. OpenOlat의 Portfolio 2.0에서는 다양한 포트폴리오 유형을 구현할 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/portfolio1.md",
+  "sourceDirName": "19. creating-portfolios",
+  "slug": "/creating-portfolios/portfolio1",
+  "permalink": "/docs/creating-portfolios/portfolio1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 할당: 채점",
+    "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-6"
+  },
+  "next": {
+    "title": "포트폴리오 바인더의 3단계",
+    "permalink": "/docs/creating-portfolios/portfolio3"
+  }
+}

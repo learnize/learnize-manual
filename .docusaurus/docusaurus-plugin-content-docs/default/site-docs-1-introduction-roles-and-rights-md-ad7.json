@@ -1,0 +1,27 @@
+{
+  "unversionedId": "introduction/roles-and-rights",
+  "id": "introduction/roles-and-rights",
+  "title": "역할 및 권한",
+  "description": "전체 시스템의 역할과 권한",
+  "source": "@site/docs/1. introduction/roles-and-rights.md",
+  "sourceDirName": "1. introduction",
+  "slug": "/introduction/roles-and-rights",
+  "permalink": "/docs/introduction/roles-and-rights",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. introduction/roles-and-rights.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "기술 및 탐색",
+    "permalink": "/docs/introduction/technology"
+  },
+  "next": {
+    "title": "코치",
+    "permalink": "/docs/introduction/coach"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "포트폴리오 제작",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/포트폴리오-제작-2",
+  "permalink": "/docs/category/포트폴리오-제작-2",
+  "navigation": {
+    "previous": {
+      "title": "나와 공유됨",
+      "permalink": "/docs/creating-portfolios/임시 폴더/portfolio2-6"
+    },
+    "next": {
+      "title": "평가 포트폴리오 프로세스",
+      "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-1"
+    }
+  }
+}

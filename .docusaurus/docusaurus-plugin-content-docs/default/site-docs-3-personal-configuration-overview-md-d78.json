@@ -1,0 +1,27 @@
+{
+  "unversionedId": "personal/configuration/overview",
+  "id": "personal/configuration/overview",
+  "title": "구성",
+  "description": "구성을 통해 프로필, 설정 및 암호 메뉴에 액세스할 수 있습니다.",
+  "source": "@site/docs/3. personal/configuration/overview.md",
+  "sourceDirName": "3. personal/configuration",
+  "slug": "/personal/configuration/overview",
+  "permalink": "/docs/personal/configuration/overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/configuration/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "구성",
+    "permalink": "/docs/category/구성"
+  },
+  "next": {
+    "title": "코로나 증명서",
+    "permalink": "/docs/personal/configuration/covid-certificate"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/임시 폴더 3/course_element3-9",
+  "id": "types-of-course-element/임시 폴더 3/course_element3-9",
+  "title": "과정 요소 Microsoft Teams",
+  "description": "미정",
+  "source": "@site/docs/9. types-of-course-element/임시 폴더 3/course_element3-9.md",
+  "sourceDirName": "9. types-of-course-element/임시 폴더 3",
+  "slug": "/types-of-course-element/임시 폴더 3/course_element3-9",
+  "permalink": "/docs/types-of-course-element/임시 폴더 3/course_element3-9",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/임시 폴더 3/course_element3-9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 비테로",
+    "permalink": "/docs/types-of-course-element/임시 폴더 3/course_element3-8"
+  },
+  "next": {
+    "title": "관리 및 조직",
+    "permalink": "/docs/types-of-course-element/course_element4"
+  }
+}

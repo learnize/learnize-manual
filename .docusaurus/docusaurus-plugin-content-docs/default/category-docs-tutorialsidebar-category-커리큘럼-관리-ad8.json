@@ -1,0 +1,16 @@
+{
+  "title": "커리큘럼 관리",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/커리큘럼-관리",
+  "permalink": "/docs/category/커리큘럼-관리",
+  "navigation": {
+    "previous": {
+      "title": "질문 은행 관리",
+      "permalink": "/docs/question-bank/question_bank7"
+    },
+    "next": {
+      "title": "커리큘럼 관리",
+      "permalink": "/docs/curriculum-management/curriculum_management1"
+    }
+  }
+}

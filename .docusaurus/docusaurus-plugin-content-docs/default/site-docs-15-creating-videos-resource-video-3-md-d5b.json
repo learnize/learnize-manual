@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-videos/resource_video3",
+  "id": "creating-videos/resource_video3",
+  "title": "단일 페이지: 비디오 추가/편집",
+  "description": "https://docs.openolat.org/manualuser/resourcevideo/assets/addvideo.png",
+  "source": "@site/docs/15. creating-videos/resource_video3.md",
+  "sourceDirName": "15. creating-videos",
+  "slug": "/creating-videos/resource_video3",
+  "permalink": "/docs/creating-videos/resource_video3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/15. creating-videos/resource_video3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소: 비디오",
+    "permalink": "/docs/creating-videos/resource_video2"
+  },
+  "next": {
+    "title": "동영상 업로드",
+    "permalink": "/docs/creating-videos/resource_video4"
+  }
+}

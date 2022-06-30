@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-videos/resource_video4",
+  "id": "creating-videos/resource_video4",
+  "title": "동영상 업로드",
+  "description": "비디오의 주제는 많은 형식, 코덱, 컨테이너 및 운영 체제/브라우저로 인해 매우 복잡합니다.",
+  "source": "@site/docs/15. creating-videos/resource_video4.md",
+  "sourceDirName": "15. creating-videos",
+  "slug": "/creating-videos/resource_video4",
+  "permalink": "/docs/creating-videos/resource_video4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/15. creating-videos/resource_video4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "단일 페이지: 비디오 추가/편집",
+    "permalink": "/docs/creating-videos/resource_video3"
+  },
+  "next": {
+    "title": "팟캐스트 제작",
+    "permalink": "/docs/category/팟캐스트-제작"
+  }
+}

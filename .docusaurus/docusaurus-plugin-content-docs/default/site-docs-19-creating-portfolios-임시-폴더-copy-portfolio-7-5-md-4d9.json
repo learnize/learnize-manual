@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/임시 폴더 copy/portfolio7-5",
+  "id": "creating-portfolios/임시 폴더 copy/portfolio7-5",
+  "title": "포트폴리오 작업 및 할당: 수집 및 편집",
+  "description": "다음 섹션에서는 학습자가 코스에서 사용 가능한 포트폴리오 작업(포트폴리오 템플릿을 기반으로 한 과제가 있는 포트폴리오 바인더)을 수집하고 편집하는 방법을 설명합니다.",
+  "source": "@site/docs/19. creating-portfolios/임시 폴더 copy/portfolio7-5.md",
+  "sourceDirName": "19. creating-portfolios/임시 폴더 copy",
+  "slug": "/creating-portfolios/임시 폴더 copy/portfolio7-5",
+  "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/임시 폴더 copy/portfolio7-5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 작업 생성",
+    "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-4"
+  },
+  "next": {
+    "title": "포트폴리오 할당: 채점",
+    "permalink": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-6"
+  }
+}

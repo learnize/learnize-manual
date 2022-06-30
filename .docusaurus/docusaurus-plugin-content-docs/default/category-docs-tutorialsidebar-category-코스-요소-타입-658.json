@@ -1,0 +1,16 @@
+{
+  "title": "코스 요소 타입",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-요소-타입",
+  "permalink": "/docs/category/코스-요소-타입",
+  "navigation": {
+    "previous": {
+      "title": "액세스 구성",
+      "permalink": "/docs/creating-courses/course_create8"
+    },
+    "next": {
+      "title": "코스 요소 타입",
+      "permalink": "/docs/category/코스-요소-타입-1"
+    }
+  }
+}
