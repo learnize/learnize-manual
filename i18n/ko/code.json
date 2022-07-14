@@ -49,7 +49,7 @@
   },
   "theme.blog.post.readingTime.plurals": {
     "message": "약 {readingTime}분",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see http://www.unicode.co.kr/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMoreLabel": {
     "message": "{title} 에 대해 더 읽어보기",
@@ -73,7 +73,7 @@
   },
   "theme.blog.post.plurals": {
     "message": "{count}개 게시물",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see http://www.unicode.co.kr/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
     "message": "\"{tagName}\" 태그로 연결된 {nPosts}개의 게시물이 있습니다.",
@@ -121,7 +121,7 @@
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
     "message": "{count} 개 문서가",
-    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see http://www.unicode.co.kr/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
     "message": "{nDocsTagged} \"{tagName}\" 태그에 분류되었습니다",

@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "추가 코스 기능 사용하기",
-      "permalink": "/docs/course-operation/course_operation2"
+      "permalink": "/docs/course-operation/using-additional-course-features"
     },
     "next": {
       "title": "... 제출 작업에 대한 일괄 평가 생성",
-      "permalink": "/docs/how-to/how1"
+      "permalink": "/docs/how-to/create-a-bulk-assessment"
     }
   }
 }

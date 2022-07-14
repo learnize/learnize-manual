@@ -8,17 +8,20 @@
   "slug": "/creating-courses/course_create6",
   "permalink": "/docs/creating-courses/course_create6",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create6.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create6.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "클릭 몇 번이면 코스 마법사가 OpenOlat 코스를 생성합니다.",
-    "permalink": "/docs/creating-courses/course_create3"
+    "title": "전문가 모드에서 액세스 제한",
+    "permalink": "/docs/creating-courses/general-configuration/course_create5-3"
   },
   "next": {
-    "title": "액세스 구성",
-    "permalink": "/docs/creating-courses/course_create8"
+    "title": "코스 설정",
+    "permalink": "/docs/category/코스-설정"
   }
 }

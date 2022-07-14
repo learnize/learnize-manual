@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/three-steps-to-your-portfolio-binder",
+  "id": "creating-portfolios/three-steps-to-your-portfolio-binder",
+  "title": "포트폴리오 바인더의 3단계",
+  "description": "모든 Learnize 사용자는 코스 또는 저자 권한과 관계없이 자신의 포트폴리오 폴더를 만들 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/three-steps-to-your-portfolio-binder.md",
+  "sourceDirName": "19. creating-portfolios",
+  "slug": "/creating-portfolios/three-steps-to-your-portfolio-binder",
+  "permalink": "/docs/creating-portfolios/three-steps-to-your-portfolio-binder",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/three-steps-to-your-portfolio-binder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "나와 공유됨",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/shared-with-me"
+  },
+  "next": {
+    "title": "포트폴리오 편집기",
+    "permalink": "/docs/creating-portfolios/the-portfolio-editor"
+  }
+}

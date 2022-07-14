@@ -8,14 +8,14 @@
   "slug": "/creating-tests/tests5",
   "permalink": "/docs/creating-tests/tests5",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/tests5.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/tests5.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "테스트 설정",
-    "permalink": "/docs/creating-tests/tests4"
+    "permalink": "/docs/creating-tests/test-settings"
   },
   "next": {
     "title": "QTI 1.2에서 QTI 2.1로 변경",

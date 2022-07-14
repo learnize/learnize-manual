@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 # 게스트 액세스
 
-![https://docs.openolat.org/manual_user/general/assets/DE_gastlogin.png](https://docs.openolat.org/manual_user/general/assets/DE_gastlogin.png)
+![스크린샷 2022-07-12 오후 5 44 15](https://user-images.githubusercontent.com/68142821/178449130-fa1fd660-d113-4d43-8570-97c298ef1328.png)
 
 사용자 외에 게스트 액세스를 활성화할 수 있습니다. 게스트는 등록된 사용자가 아닌 익명으로 사용자 관리에서 관리할 수 없습니다.
 
@@ -17,7 +17,7 @@ sidebar_position: 6
 
 코스에서 코스 소유자는 게스트도 코스에 액세스할 수 있도록 "설정"→ "액세스" 탭에서 액세스 구성을 설정할 수 있습니다.
 
-![https://docs.openolat.org/manual_user/general/assets/guest_booking.png](https://docs.openolat.org/manual_user/general/assets/guest_booking.png)
+![스크린샷 2022-07-12 오후 5 48 07](https://user-images.githubusercontent.com/68142821/178449922-d0f43081-3c02-4555-a179-85c066734202.png)
 
 게스트는 다음 코스 요소를 볼 수 있습니다.
 
@@ -46,8 +46,8 @@ sidebar_position: 6
 
 게스트에게 코스에 대한 직접 액세스 권한을 부여하려면 코스에 대한 외부 링크를 보낼 수 있습니다. 액세스 구성에서 게스트에 대해 코스를 활성화하는 것이 중요합니다. 외부 링크는 과정의 정보 페이지에서 찾을 수 있습니다.
 
-![https://docs.openolat.org/manual_user/general/assets/en_guest_infopage.png](https://docs.openolat.org/manual_user/general/assets/en_guest_infopage.png)
+![스크린샷 2022-07-12 오후 5 48 50](https://user-images.githubusercontent.com/68142821/178450088-fb409f90-9cf7-47a1-b88b-4c53e42ef7a1.png)
 
 :::info
-[관리 설정은 로그인 → "손님 및 초대"](https://docs.openolat.org/manual_admin/administration/Guest_and_invitation/) 섹션 및 ["사용자 지정"](https://docs.openolat.org/manual_user/manual_admin/administration/Customizing.de.md) → "사이트 " 에서 OpenOlat 관리자가 수행합니다.
+관리 설정은 로그인 → "손님 및 초대" 섹션 및 "사용자 지정" → "사이트 " 에서 Learnize 관리자가 수행합니다.
 :::

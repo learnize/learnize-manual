@@ -8,7 +8,7 @@
   "slug": "/creating-courses/임시 폴더3/course_create7-3",
   "permalink": "/docs/creating-courses/임시 폴더3/course_create7-3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/임시 폴더3/course_create7-3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/임시 폴더3/course_create7-3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
@@ -18,7 +18,7 @@
     "permalink": "/docs/creating-courses/임시 폴더3/course_create7-2"
   },
   "next": {
-    "title": "일반 정보",
-    "permalink": "/docs/creating-courses/course_create1"
+    "title": "코스 편집기 도구",
+    "permalink": "/docs/creating-courses/course_create6"
   }
 }

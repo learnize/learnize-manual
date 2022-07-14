@@ -5,12 +5,12 @@
   "permalink": "/docs/category/코스-요소-타입-2",
   "navigation": {
     "previous": {
-      "title": "쿠르스바우슈타인 \"미디어사이트\"",
-      "permalink": "/docs/types-of-course-element/임시 폴더/course_element1-7"
+      "title": "평가",
+      "permalink": "/docs/types-of-course-element/assessment/overview"
     },
     "next": {
-      "title": "평가",
-      "permalink": "/docs/types-of-course-element/임시 폴더 2/course_element2-1"
+      "title": "자주 묻는 질문 - BigBlueButton",
+      "permalink": "/docs/types-of-course-element/communication-and-organisation/bbb-frequently-asked-question"
     }
   }
 }

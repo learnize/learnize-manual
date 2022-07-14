@@ -18,45 +18,51 @@ Learnize 매뉴얼은 다양한 이유로 사용하는 것뿐만 아니라 e-러
 
 ### 상황별 도움말
 
-![https://docs.openolat.org/manual_user/general/assets/help.png](https://docs.openolat.org/manual_user/general/assets/help.png)
+![스크린샷 2022-07-12 오후 4 45 56](http://user-images.githubusercontent.com/68142821/178437110-e80d461d-1008-4b5d-891a-eb47252e9f73.png)
 
 메뉴얼에서 제공하는 정보 이외에도 Learnize를 사용하면서 다음과 같은 도움말도 사용할 수 있습니다. 이 도움말 기능은 매뉴얼의 관련 위치를 열어서 특정 페이지에 있는 Learnize의 구성과 관련된 옵션을 설명합니다. 이 기능은 물음표 아이콘으로 알아볼 수 있습니다. 새 창에서 설명서를 열려면 해당 `아이콘을 클릭`하기만 하면 됩니다.
 
 ### 양식 도움말
 
-![https://docs.openolat.org/manual_user/general/assets/hover_help.png](https://docs.openolat.org/manual_user/general/assets/hover_help.png)
-
 그 이외에도 양식에서 더 많은 지원들을 찾을 수 있습니다. 단일 페이지에서는 간략한 정보를 제공하기도 합니다. 해당 아이콘 위에 마우스를 위치시키면 짧은 정보가 출력됩니다. 다음은 코스 편집기에서의 테스트 구성시의 예시입니다.
 
-![https://docs.openolat.org/manual_user/general/assets/example_Fragezeichen.jpg](https://docs.openolat.org/manual_user/general/assets/example_Fragezeichen.jpg)
+![스크린샷 2022-07-12 오후 4 50 43](http://user-images.githubusercontent.com/68142821/178438115-31447815-6af9-4365-8150-bf24929797e2.png)
 
 ### 필드 내 텍스트
 
-![https://docs.openolat.org/manual_user/general/assets/help_gui_demo.jpg](https://docs.openolat.org/manual_user/general/assets/help_gui_demo.jpg)
+:::danger
+이미지 한국어로 바꾸어야 함
+:::
+![http://docs.learnize.co.kr/manual_user/general/assets/help_gui_demo.jpg](http://docs.learnize.co.kr/manual_user/general/assets/help_gui_demo.jpg)
 
 필드 자체를 작성하는 데 도움이 됩니다.
 
 ### 필드 아래의 텍스트
 
-![https://docs.openolat.org/manual_user/general/assets/help_gui_demo1.png](https://docs.openolat.org/manual_user/general/assets/help_gui_demo1.png)
+![스크린샷 2022-07-12 오후 5 09 32](http://user-images.githubusercontent.com/68142821/178442024-4ceda57d-6d5f-4af3-b3a7-57204cd832c2.png)
 
 이는 필드 내 필요한 사항에 대한 정보를 제공합니다.
 
 ### 커뮤니티, 데모 사이트
 
-[커뮤니티 서버](https://community.openolat.org/) 와 [데모 서버](https://learn.olat.com/) 에서 데모 과정을 찾을 수 있습니다.
+[커뮤니티 서버](http://community.Learnize.co.kr/) 와 [데모 서버](http://learn.olat.com/) 에서 데모 과정을 찾을 수 있습니다.
 
 :::info
 페이지 머리글의 도움알 메뉴에 있는 Learnize 로그인 페이지 또는 머리글이나 바닥글의 폼에서 찾아 지원할 수 있습니다.
 :::
+
 ---
 
 ## 저작권
 
+:::danger
+저작권 내용 확인해보기
+:::
+
 **이것은 Creative Commons Attribution-NonCommercial-ShareAlike 라이선스** 하에 사용되는 "OLAT 7.1 - 사용자 매뉴얼"의 확장된 적응입니다 .
 
-2015년부터 이 매뉴얼은 [오픈 소스 LMS OpenOlat](https://www.openolat.org/) 뒤에 있는 회사인 [frentix GmbH 에서 자금을 지원하고 유지 관리합니다.](https://www.frentix.com/)
+2015년부터 이 매뉴얼은 [오픈 소스 LMS Learnize](http://www.Learnize.co.kr/) 뒤에 있는 회사인 [frentix GmbH 에서 자금을 지원하고 유지 관리합니다.](http://www.frentix.com/)
 
 이 매뉴얼의 오랜 역사에서 많은 사람들이 기여했습니다. 이 매뉴얼이 출판되는 데 사용되는 지적 재산권과 라이센스를 존중하십시오.
 
-일부 권리 보유! 이 문서는 Attribution-NonCommercial-ShareAlike Creative Commons 라이선스에 따라 아래에 나열된 소유자 및 회사의 저작권 보호를 받습니다. 자세한 내용은 [http://creativecommons.org/licenses/by-nc-sa/3.0/ch/에서 확인하십시오.](http://creativecommons.org/licenses/by-nc-sa/3.0/ch/)
+일부 권리 보유! 이 문서는 Attribution-NonCommercial-ShareAlike Creative Commons 라이선스에 따라 아래에 나열된 소유자 및 회사의 저작권 보호를 받습니다. 자세한 내용은 [http://creativecommons.co.kr/licenses/by-nc-sa/3.0/ch/에서 확인하십시오.](http://creativecommons.co.kr/licenses/by-nc-sa/3.0/ch/)

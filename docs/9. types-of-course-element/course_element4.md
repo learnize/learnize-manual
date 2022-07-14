@@ -9,11 +9,11 @@
 
 ## 과정 요소: 등록
 
-![https://docs.openolat.org/manual_user/course_elements/assets/enrolment.png](https://docs.openolat.org/manual_user/course_elements/assets/enrolment.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/enrolment.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/enrolment.png)
 
 코스 요소 "등록"은 코스 참가자가 하나 이상의 그룹에 등록할 수 있도록 하는 데 사용됩니다. 선택 목록에서 그룹의 순서를 정의할 수도 있습니다.
 
-이렇게 하려면 코스 참가자가 등록할 수 있는 **그룹** 및 그룹 수를 "구성" 탭에서 정의합니다 . 선택 목록에서 그룹의 순서를 정의할 수도 있습니다. 그룹을 아직 생성하지 않았거나 더 필요한 경우 "선택" 및 "생성"을 클릭하여 "구성" 탭에서 직접 생성할 수 있습니다. 기존 및 새로 생성된 그룹은 [회원 관리](https://docs.openolat.org/manual_user/course_operation/Members_management/) 에서 편집할 수 있습니다 .
+이렇게 하려면 코스 참가자가 등록할 수 있는 **그룹** 및 그룹 수를 "구성" 탭에서 정의합니다 . 선택 목록에서 그룹의 순서를 정의할 수도 있습니다. 그룹을 아직 생성하지 않았거나 더 필요한 경우 "선택" 및 "생성"을 클릭하여 "구성" 탭에서 직접 생성할 수 있습니다. 기존 및 새로 생성된 그룹은 [회원 관리](http://docs.learnize.co.kr/manual_user/course_operation/Members_management/) 에서 편집할 수 있습니다 .
 
 코스 참가자가 둘 이상의 그룹에 등록할 수 있도록 하려면 " **여러 등록 허용** " 필드를 사용합니다 .
 
@@ -23,7 +23,7 @@
 
 ## 코스 요소: 알림
 
-![https://docs.openolat.org/manual_user/course_elements/assets/infomessage.png](https://docs.openolat.org/manual_user/course_elements/assets/infomessage.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/infomessage.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/infomessage.png)
 
 이 코스 요소를 사용하면 코스 구조에 알림을 포함할 수 있습니다. 이러한 알림은 코스와 각 단일 사용자의 알림 섹션에서 볼 수 있습니다. 메시지는 짧은 정보 텍스트이거나 첨부 파일(최대 5MB)로 추가되는 광범위한 정보일 수 있습니다. 알림 생성 시 과정의 특정 사용자 그룹(구독자, 과정 소유자, 코치, 회원, 그룹)에 추가로 메시지를 이메일로 보내야 하는지 여부를 정의할 수 있습니다.
 
@@ -37,11 +37,11 @@
 
 메시지의 문자 수는 32,000자로 제한됩니다. 메시지 편집기의 오른쪽 하단 모서리에서 이미 사용된 문자 수에 대한 정보를 받게 됩니다. 허용된 문자 수를 초과하면 해당 메시지가 표시됩니다. 참고: 지정된 실제 문자 수는 실제 HTML 코드 수가 사용되기 때문에 표시되는 문자 수와 다릅니다.
 
-기능이 비슷하지만 특정 구성이 없는 요소는 도구 모음에서도 찾을 수 있습니다. " [참가자 정보](https://docs.openolat.org/manual_user/course_operation/Using_Additional_Course_Features/) " 입니다.
+기능이 비슷하지만 특정 구성이 없는 요소는 도구 모음에서도 찾을 수 있습니다. " [참가자 정보](http://docs.learnize.co.kr/manual_user/course_operation/Using_Additional_Course_Features/) " 입니다.
 
 ## 과정 요소: 이메일
 
-![https://docs.openolat.org/manual_user/course_elements/assets/contact.png](https://docs.openolat.org/manual_user/course_elements/assets/contact.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/contact.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/contact.png)
 
 코스 요소 "이메일"을 통해 코스 참가자에게 미리 정의된 수신자에게 이메일을 보낼 수 있는 가능성을 제공합니다.
 
@@ -119,27 +119,27 @@ $coursedescription
 
 코스 요소 "이메일"에 적절한 짧은 제목을 사용하여 코스 참가자에게 메시지를 보낼 수 있는 정보를 제공할 수 있습니다. 개인 정보 보호를 위해 그들은 귀하의 이메일 양식에서 받는 사람의 주소를 볼 수 없습니다.
 
-유사한 기능을 갖지만 특정 구성이 없는 "이메일" 요소는 [도구 모음](https://docs.openolat.org/manual_user/course_operation/Using_Additional_Course_Features/) 에서도 찾을 수 있습니다 .
+유사한 기능을 갖지만 특정 구성이 없는 "이메일" 요소는 [도구 모음](http://docs.learnize.co.kr/manual_user/course_operation/Using_Additional_Course_Features/) 에서도 찾을 수 있습니다 .
 
 ## 코스 요소: 캘린더
 
-![https://docs.openolat.org/manual_user/course_elements/assets/calendar.png](https://docs.openolat.org/manual_user/course_elements/assets/calendar.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/calendar.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/calendar.png)
 
 코스 요소 "Calendar"를 사용하여 코스 구조에 코스 캘린더를 포함할 수 있습니다. 코스에 동일한 캘린더의 여러 인스턴스를 추가하는 것도 가능합니다.
 
-이 코스 요소는 코스 도구 모음에서 찾을 수 있는 코스 캘린더의 대체 보기를 제공합니다(" [추가 코스 기능 사용하기](https://docs.openolat.org/manual_user/course_operation/Using_Additional_Course_Features/) " 참조). 코스 작성자와 중재자만 기본적으로 캘린더 항목을 만들 수 있습니다. 그러나 모든 과정 참가자는 항목을 읽을 수 있습니다.
+이 코스 요소는 코스 도구 모음에서 찾을 수 있는 코스 캘린더의 대체 보기를 제공합니다(" [추가 코스 기능 사용하기](http://docs.learnize.co.kr/manual_user/course_operation/Using_Additional_Course_Features/) " 참조). 코스 작성자와 중재자만 기본적으로 캘린더 항목을 만들 수 있습니다. 그러나 모든 과정 참가자는 항목을 읽을 수 있습니다.
 
-"캘린더 구성" 탭에서 코스의 참가자와 교사도 캘린더 항목을 설정하고 편집할 수 있는지 여부를 정의할 수 있습니다. 또한 코스 구조에서 코스 캘린더를 활성화할 때 표시할 날짜를 결정할 수 있습니다. 코스 캘린더는 코스 회원 의 [개인 캘린더](https://docs.openolat.org/manual_user/personal/Calendar/) 에 자동으로 추가됩니다 .
+"캘린더 구성" 탭에서 코스의 참가자와 교사도 캘린더 항목을 설정하고 편집할 수 있는지 여부를 정의할 수 있습니다. 또한 코스 구조에서 코스 캘린더를 활성화할 때 표시할 날짜를 결정할 수 있습니다. 코스 캘린더는 코스 회원 의 [개인 캘린더](http://docs.learnize.co.kr/manual_user/personal/Calendar/) 에 자동으로 추가됩니다 .
 
 캘린더에 특정 학기 주를 표시하고 코스 요소에 링크를 삽입하면 해당 캘린더는 해당 주의 모든 이벤트와 작업을 보여주는 일종의 개요 역할을 합니다.
 
-코스 요소 "캘린더"가 정말로 당신에게 최적의 선택인지 확인하십시오. 많은 경우, 특히 [학습 경로 과정](https://docs.openolat.org/manual_user/course_create/Learning_path_course/) 의 경우 설정 의 [도구 모음](https://docs.openolat.org/manual_user/course_operation/Using_Additional_Course_Features/) 에서 캘린더를 활성화하는 것이 더 합리적 입니다.
+코스 요소 "캘린더"가 정말로 당신에게 최적의 선택인지 확인하십시오. 많은 경우, 특히 [학습 경로 과정](http://docs.learnize.co.kr/manual_user/course_create/Learning_path_course/) 의 경우 설정 의 [도구 모음](http://docs.learnize.co.kr/manual_user/course_operation/Using_Additional_Course_Features/) 에서 캘린더를 활성화하는 것이 더 합리적 입니다.
 
 코스 편집기에서 "캘린더" 코스 요소를 찾을 수 없으면 시스템 관리자가 비활성화한 것입니다.
 
 ## 과정 요소: 약속 일정
 
-![https://docs.openolat.org/manual_user/course_elements/assets/dateentry.png](https://docs.openolat.org/manual_user/course_elements/assets/dateentry.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/dateentry.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/dateentry.png)
 
 코스 요소 Appointment Scheduling은 특정 약속에 대한 등록을 구성하고 약속을 찾는 데 사용할 수 있습니다. 일반적으로 여러 약속을 선택할 수 있는지 여부, 참가자 수에 제한이 있는지 여부, 참가자가 등록한 사람을 볼 수 있는지 여부, BigBlueButton 방을 할당해야 하는지 여부를 구성할 수 있습니다.
 
@@ -147,11 +147,11 @@ $coursedescription
 
 그러나 날짜의 실제 구성 및 설정은 편집기를 닫은 상태에서 코스 실행에서 수행됩니다. 이를 위해 먼저 "행사 생성" 버튼을 통해 신규 등록 또는 약속을 생성하고 기본 구성을 수행하고 약속을 입력합니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/create_occasion.png](https://docs.openolat.org/manual_user/course_elements/assets/create_occasion.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/create_occasion.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/create_occasion.png)
 
 "예약 추가" 버튼을 통해 나중에 이 투표에 더 많은 약속을 추가할 수도 있습니다. 또한 이미 생성된 약속은 3점 링크를 통해 다시 수정할 수 있습니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Termin_hinzufuegen.jpg](https://docs.openolat.org/manual_user/course_elements/assets/Termin_hinzufuegen.jpg)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Termin_hinzufuegen.jpg](http://docs.learnize.co.kr/manual_user/course_elements/assets/Termin_hinzufuegen.jpg)
 
 ### 약속: 생성 및 수정
 
@@ -187,12 +187,12 @@ BigBlueButton 또는 Teams가 활성화된 경우 BigBlueButton 또는 Teams 방
 
 생성된 "행사"는 나중에 톱니바퀴를 클릭하여 편집, 복제 또는 삭제할 수 있습니다. 이벤트 참가자 수는 특정 그룹으로 제한될 수도 있습니다. 이벤트 참가자 내보내기도 가능합니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Terminplanung_anlass.jpg](https://docs.openolat.org/manual_user/course_elements/assets/Terminplanung_anlass.jpg)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Terminplanung_anlass.jpg](http://docs.learnize.co.kr/manual_user/course_elements/assets/Terminplanung_anlass.jpg)
 
 이미 생성된 일정의 특정 날짜는 "약속 보기" 링크를 통해 더 자세히 볼 수 있으며 코스 소유자 또는 코치가 편집할 수 있습니다. 여기에서 참가자를 추가, 삭제, 다시 예약하고 설명을 조정하고 약속을 변경하거나 약속을 확인할 수 있습니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Terminfindung_punkte.jpg](https://docs.openolat.org/manual_user/course_elements/assets/Terminfindung_punkte.jpg)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Terminfindung_punkte.jpg](http://docs.learnize.co.kr/manual_user/course_elements/assets/Terminfindung_punkte.jpg)
 
 참가자는 "약속 선택" 링크를 사용하여 원하는 약속을 보고 선택할 수 있습니다. 약속이 확인된 경우 이 항목도 표시됩니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Terminfindung.png](https://docs.openolat.org/manual_user/course_elements/assets/Terminfindung.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Terminfindung.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Terminfindung.png)

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/storage-folder",
+  "id": "course-operation/using-course-tools/storage-folder",
+  "title": "저장 폴더",
+  "description": "과정의 편집기 도구 \"저장소 폴더\"는 과정에서 사용된 파일의 저장을 제공합니다(예: 사용된 모든 HTML 페이지 또는 폴더의 문서). 저장 폴더는 과정에 따라 다릅니다. 코스 관련 파일을 저장하는 중앙 장소입니다. 그러나 저장소 폴더의 내용은 학습자가 직접 볼 수 없지만 코스 요소 \"단일 페이지\" 또는 \"폴더\"를 통해 간접적으로 액세스할 수 있습니다. 저장소 폴더는 항상 코스에 따라 다릅니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/storage-folder.md",
+  "sourceDirName": "10. course-operation/using-course-tools",
+  "slug": "/course-operation/using-course-tools/storage-folder",
+  "permalink": "/docs/course-operation/using-course-tools/storage-folder",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/storage-folder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "회원관리",
+    "permalink": "/docs/course-operation/using-course-tools/member-management"
+  },
+  "next": {
+    "title": "평가 도구",
+    "permalink": "/docs/category/평가-도구"
+  }
+}

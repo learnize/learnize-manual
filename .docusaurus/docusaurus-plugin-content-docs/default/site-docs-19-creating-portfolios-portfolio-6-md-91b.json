@@ -8,17 +8,17 @@
   "slug": "/creating-portfolios/portfolio6",
   "permalink": "/docs/creating-portfolios/portfolio6",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio6.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio6.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "항목의 다중 사용",
-    "permalink": "/docs/creating-portfolios/portfolio5"
+    "permalink": "/docs/creating-portfolios/multiple-use-of-entries"
   },
   "next": {
-    "title": "주제 할당, 주제 관리",
-    "permalink": "/docs/category/주제-할당-주제-관리"
+    "title": "포트폴리오 편집기",
+    "permalink": "/docs/creating-portfolios/the-portfolio-editor"
   }
 }

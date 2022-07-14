@@ -6,12 +6,11 @@
 export default {
   "title": "Learnize Manual",
   "tagline": "Learnize 메뉴얼입니다.",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "http://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
   "projectName": "docusaurus",
   "i18n": {
     "defaultLocale": "en",
@@ -38,7 +37,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/heony/git/learnize-manual/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
           "customCss": "/Users/heony/git/learnize-manual/src/css/custom.css"
@@ -63,7 +62,7 @@ export default {
           "dropdownItemsAfter": []
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "http://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
         }
@@ -87,7 +86,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "http://github.com/facebook/docusaurus"
             }
           ]
         }

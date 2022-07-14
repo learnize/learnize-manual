@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Learnize Manual',
   tagline: 'Learnize 메뉴얼입니다.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,6 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -49,14 +48,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         // blog: {
         //   showReadingTime: true,
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        //     'http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -83,7 +82,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'http://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,15 +105,15 @@ const config = {
           //   items: [
           //     {
           //       label: 'Stack Overflow',
-          //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          //       href: 'http://stackoverflow.com/questions/tagged/docusaurus',
           //     },
           //     {
           //       label: 'Discord',
-          //       href: 'https://discordapp.com/invite/docusaurus',
+          //       href: 'http://discordapp.com/invite/docusaurus',
           //     },
           //     {
           //       label: 'Twitter',
-          //       href: 'https://twitter.com/docusaurus',
+          //       href: 'http://twitter.com/docusaurus',
           //     },
           //   ],
           // },
@@ -127,7 +126,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'http://github.com/facebook/docusaurus',
               },
             ],
           },

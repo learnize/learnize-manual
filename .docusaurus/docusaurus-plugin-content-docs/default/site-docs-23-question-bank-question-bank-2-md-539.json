@@ -8,14 +8,14 @@
   "slug": "/question-bank/question_bank2",
   "permalink": "/docs/question-bank/question_bank2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank2.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "데이터 관리 - 질문 만들기 또는 가져오기",
-    "permalink": "/docs/question-bank/question_bank1"
+    "permalink": "/docs/question-bank/data-management"
   },
   "next": {
     "title": "문제 은행 가능한 작업",

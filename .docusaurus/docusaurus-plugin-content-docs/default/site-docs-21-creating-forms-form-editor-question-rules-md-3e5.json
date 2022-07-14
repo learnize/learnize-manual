@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-forms/form-editor/question-rules",
+  "id": "creating-forms/form-editor/question-rules",
+  "title": "Welcome to MkDocs",
+  "description": "For full documentation visit mkdocs.co.kr.",
+  "source": "@site/docs/21. creating-forms/form-editor/question-rules.md",
+  "sourceDirName": "21. creating-forms/form-editor",
+  "slug": "/creating-forms/form-editor/question-rules",
+  "permalink": "/docs/creating-forms/form-editor/question-rules",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/21. creating-forms/form-editor/question-rules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to MkDocs",
+    "permalink": "/docs/creating-forms/form-editor/rubric"
+  },
+  "next": {
+    "title": "코스 내 폼",
+    "permalink": "/docs/category/코스-내-폼"
+  }
+}

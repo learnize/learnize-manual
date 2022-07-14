@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/data-archiving",
+  "id": "course-operation/using-course-tools/data-archiving",
+  "title": "데이터 보관",
+  "description": "아카이브 도구는 코스 관리에서 찾을 수 있습니다. 데이터 보관을 통해 코스 소유자는 코스의 다양한 코스 요소의 결과를 저장할 수 있습니다. 특히 실시한 설문조사, 시험, 자가진단, 과제, 그룹 과제, 강의 결과의 저장 결과는 강의가 끝날 때 반드시 저장해야 하는 중요한 요소입니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/data-archiving.md",
+  "sourceDirName": "10. course-operation/using-course-tools",
+  "slug": "/course-operation/using-course-tools/data-archiving",
+  "permalink": "/docs/course-operation/using-course-tools/data-archiving",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/data-archiving.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 알림",
+    "permalink": "/docs/course-operation/using-course-tools/course-reminders"
+  },
+  "next": {
+    "title": "코스 활동 기록",
+    "permalink": "/docs/course-operation/using-course-tools/record-of-course-activities"
+  }
+}

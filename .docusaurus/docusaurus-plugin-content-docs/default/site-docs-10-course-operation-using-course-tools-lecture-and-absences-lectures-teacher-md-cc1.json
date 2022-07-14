@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/lecture-and-absences/lectures-teacher",
+  "id": "course-operation/using-course-tools/lecture-and-absences/lectures-teacher",
+  "title": "강의 - 교사 보기",
+  "description": "강사는 해당 강좌의 툴바에서 결석확인을 열 수 있습니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/lecture-and-absences/lectures-teacher.md",
+  "sourceDirName": "10. course-operation/using-course-tools/lecture-and-absences",
+  "slug": "/course-operation/using-course-tools/lecture-and-absences/lectures-teacher",
+  "permalink": "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-teacher",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/lecture-and-absences/lectures-teacher.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "강의 - 사용자 보기",
+    "permalink": "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-user"
+  },
+  "next": {
+    "title": "코스 알림",
+    "permalink": "/docs/course-operation/using-course-tools/course-reminders"
+  }
+}

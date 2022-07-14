@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/competences-tags",
+  "id": "creating-portfolios/competences-tags",
+  "title": "역량 태그",
+  "description": "분류법의 도움으로 ePortfolio 항목을 키워드로 지정하는 데 사용할 수 있는 역량 구조 를 구축할 수 있습니다. 학습자는 사전 정의된 분류 구조의 다양한 역량을 포트폴리오 페이지에 독립적으로 할당할 수 있으므로 교육 중에 달성한 역량을 입증할 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/competences-tags.md",
+  "sourceDirName": "19. creating-portfolios",
+  "slug": "/creating-portfolios/competences-tags",
+  "permalink": "/docs/creating-portfolios/competences-tags",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/competences-tags.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "항목의 다중 사용",
+    "permalink": "/docs/creating-portfolios/multiple-use-of-entries"
+  },
+  "next": {
+    "title": "포트폴리오 평가 프로세스",
+    "permalink": "/docs/category/포트폴리오-평가-프로세스"
+  }
+}

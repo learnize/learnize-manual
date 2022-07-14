@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/course_element3-3",
+  "id": "types-of-course-element/communication-and-organisation/course_element3-3",
+  "title": "코스 요소 Adobe Connect",
+  "description": "제목 없음",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/course_element3-3.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/course_element3-3",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/course_element3-3",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/course_element3-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 타입",
+    "permalink": "/docs/category/코스-요소-타입-2"
+  },
+  "next": {
+    "title": "코스 요소 BigBlueButton",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course_element3-4"
+  }
+}

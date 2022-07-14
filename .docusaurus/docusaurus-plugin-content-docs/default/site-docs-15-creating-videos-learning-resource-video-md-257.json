@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-videos/learning-resource-video",
+  "id": "creating-videos/learning-resource-video",
+  "title": "학습 자료: 비디오",
+  "description": "http://docs.learnize.co.kr/manualuser/resourcevideo/assets/videosettings.png",
+  "source": "@site/docs/15. creating-videos/learning-resource-video.md",
+  "sourceDirName": "15. creating-videos",
+  "slug": "/creating-videos/learning-resource-video",
+  "permalink": "/docs/creating-videos/learning-resource-video",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/15. creating-videos/learning-resource-video.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "비디오 제작",
+    "permalink": "/docs/category/비디오-제작"
+  },
+  "next": {
+    "title": "코스 요소: 비디오",
+    "permalink": "/docs/creating-videos/course-element-video"
+  }
+}

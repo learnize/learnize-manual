@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-courses/course-of-study/course-of-study",
+  "id": "creating-courses/course-of-study/course-of-study",
+  "title": "학습 경로 과정",
+  "description": "에디터](Learningpathcourse-Course_editor.md)",
+  "source": "@site/docs/8. creating-courses/course-of-study/course-of-study.md",
+  "sourceDirName": "8. creating-courses/course-of-study",
+  "slug": "/creating-courses/course-of-study/",
+  "permalink": "/docs/creating-courses/course-of-study/",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course-of-study/course-of-study.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "학습 경로 과정 만들기",
+    "permalink": "/docs/creating-courses/course-of-study/creating-learning-path-courses"
+  },
+  "next": {
+    "title": "학습 경로 과정",
+    "permalink": "/docs/creating-courses/course-of-study/courses-of-study"
+  }
+}

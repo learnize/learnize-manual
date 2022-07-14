@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/componenets-of-the-portfolio/portfolio2-6",
+  "id": "creating-portfolios/componenets-of-the-portfolio/portfolio2-6",
+  "title": "나와 공유됨",
+  "description": "http://docs.learnize.co.kr/manualuser/portfolio/assets/portfolioshared.png",
+  "source": "@site/docs/19. creating-portfolios/componenets-of-the-portfolio/portfolio2-6.md",
+  "sourceDirName": "19. creating-portfolios/componenets-of-the-portfolio",
+  "slug": "/creating-portfolios/componenets-of-the-portfolio/portfolio2-6",
+  "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/portfolio2-6",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/componenets-of-the-portfolio/portfolio2-6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 구성 요소",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/overview"
+  },
+  "next": {
+    "title": "내가 공유함",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/shared-by-me"
+  }
+}

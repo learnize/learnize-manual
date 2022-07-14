@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/knowledge-transfer/overview",
+  "id": "types-of-course-element/knowledge-transfer/overview",
+  "title": "지식 이전",
+  "description": "코스 요소: 구조",
+  "source": "@site/docs/9. types-of-course-element/knowledge-transfer/overview.md",
+  "sourceDirName": "9. types-of-course-element/knowledge-transfer",
+  "slug": "/types-of-course-element/knowledge-transfer/overview",
+  "permalink": "/docs/types-of-course-element/knowledge-transfer/overview",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/knowledge-transfer/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "지식 이전",
+    "permalink": "/docs/category/지식-이전"
+  },
+  "next": {
+    "title": "코스 요소: 구조",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-structure"
+  }
+}

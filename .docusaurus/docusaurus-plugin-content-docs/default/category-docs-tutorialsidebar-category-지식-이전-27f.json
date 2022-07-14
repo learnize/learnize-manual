@@ -1,0 +1,16 @@
+{
+  "title": "지식 이전",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/지식-이전",
+  "permalink": "/docs/category/지식-이전",
+  "navigation": {
+    "previous": {
+      "title": "코스 요소 타입",
+      "permalink": "/docs/category/코스-요소-타입"
+    },
+    "next": {
+      "title": "지식 이전",
+      "permalink": "/docs/types-of-course-element/knowledge-transfer/overview"
+    }
+  }
+}

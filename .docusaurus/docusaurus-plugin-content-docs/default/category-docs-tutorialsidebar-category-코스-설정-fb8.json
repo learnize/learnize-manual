@@ -1,0 +1,16 @@
+{
+  "title": "코스 설정",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-설정",
+  "permalink": "/docs/category/코스-설정",
+  "navigation": {
+    "previous": {
+      "title": "코스 편집기 도구",
+      "permalink": "/docs/creating-courses/using-additional-course-editor-tools"
+    },
+    "next": {
+      "title": "코스 설정",
+      "permalink": "/docs/creating-courses/course-settings/overview"
+    }
+  }
+}

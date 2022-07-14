@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/assessment-tool/assessing-tests",
+  "id": "course-operation/using-course-tools/assessment-tool/assessing-tests",
+  "title": "테스트 평가",
+  "description": "여기에서 Learnize \"평가 도구\"를 사용하여 테스트를 평가하는 방법을 배우게 됩니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/assessment-tool/assessing-tests.md",
+  "sourceDirName": "10. course-operation/using-course-tools/assessment-tool",
+  "slug": "/course-operation/using-course-tools/assessment-tool/assessing-tests",
+  "permalink": "/docs/course-operation/using-course-tools/assessment-tool/assessing-tests",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/assessment-tool/assessing-tests.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "작업 및 그룹 작업 평가",
+    "permalink": "/docs/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks"
+  },
+  "next": {
+    "title": "평가 양식",
+    "permalink": "/docs/course-operation/using-course-tools/assessment-tool/the-assessment-form"
+  }
+}

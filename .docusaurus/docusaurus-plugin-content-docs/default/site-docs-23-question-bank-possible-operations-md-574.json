@@ -1,0 +1,27 @@
+{
+  "unversionedId": "question-bank/possible-operations",
+  "id": "question-bank/possible-operations",
+  "title": "문제 은행 가능한 작업",
+  "description": "http://docs.learnize.co.kr/manualuser/questionbank/assets/questionbankoperations.png.jpg",
+  "source": "@site/docs/23. question-bank/possible-operations.md",
+  "sourceDirName": "23. question-bank",
+  "slug": "/question-bank/possible-operations",
+  "permalink": "/docs/question-bank/possible-operations",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/possible-operations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "항목 상세보기",
+    "permalink": "/docs/question-bank/item-detailed-view"
+  },
+  "next": {
+    "title": "검색",
+    "permalink": "/docs/question-bank/search"
+  }
+}

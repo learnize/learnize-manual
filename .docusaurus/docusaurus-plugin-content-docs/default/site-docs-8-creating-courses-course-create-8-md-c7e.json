@@ -8,14 +8,17 @@
   "slug": "/creating-courses/course_create8",
   "permalink": "/docs/creating-courses/course_create8",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create8.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create8.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "코스 편집기 도구",
-    "permalink": "/docs/creating-courses/course_create6"
+    "title": "코스 설정",
+    "permalink": "/docs/creating-courses/course-settings/overview"
   },
   "next": {
     "title": "코스 요소 타입",

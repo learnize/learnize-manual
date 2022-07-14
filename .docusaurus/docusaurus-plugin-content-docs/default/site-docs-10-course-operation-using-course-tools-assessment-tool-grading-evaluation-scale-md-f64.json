@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/assessment-tool/grading-evaluation-scale",
+  "id": "course-operation/using-course-tools/assessment-tool/grading-evaluation-scale",
+  "title": "평가 척도 / 점수를 성적으로 환산",
+  "description": "일반적인",
+  "source": "@site/docs/10. course-operation/using-course-tools/assessment-tool/grading-evaluation-scale.md",
+  "sourceDirName": "10. course-operation/using-course-tools/assessment-tool",
+  "slug": "/course-operation/using-course-tools/assessment-tool/grading-evaluation-scale",
+  "permalink": "/docs/course-operation/using-course-tools/assessment-tool/grading-evaluation-scale",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/assessment-tool/grading-evaluation-scale.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "평가 양식",
+    "permalink": "/docs/course-operation/using-course-tools/assessment-tool/the-assessment-form"
+  },
+  "next": {
+    "title": "강의와 결석",
+    "permalink": "/docs/category/강의와-결석"
+  }
+}

@@ -29,15 +29,15 @@
           {
             "name": "Sébastien Lorber",
             "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
+            "url": "http://sebastienlorber.com",
+            "imageURL": "http://github.com/slorber.png",
             "key": "slorber"
           },
           {
             "name": "Yangshun Tay",
             "title": "Front End Engineer @ Facebook",
-            "url": "https://github.com/yangshun",
-            "imageURL": "https://github.com/yangshun.png",
+            "url": "http://github.com/yangshun",
+            "imageURL": "http://github.com/yangshun.png",
             "key": "yangshun"
           }
         ],
@@ -59,7 +59,7 @@
           "permalink": "/blog/mdx-blog-post"
         }
       },
-      "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+      "content": "[Docusaurus blogging features](http://docusaurus.io/docs/blog) are powered by the [blog plugin](http://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
     },
     {
       "id": "mdx-blog-post",
@@ -82,8 +82,8 @@
           {
             "name": "Sébastien Lorber",
             "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
+            "url": "http://sebastienlorber.com",
+            "imageURL": "http://github.com/slorber.png",
             "key": "slorber"
           }
         ],
@@ -106,7 +106,7 @@
           "permalink": "/blog/long-blog-post"
         }
       },
-      "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+      "content": "Blog posts support [Docusaurus Markdown features](http://docusaurus.io/docs/markdown-features), such as [MDX](http://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
     },
     {
       "id": "long-blog-post",
@@ -133,8 +133,8 @@
           {
             "name": "Endilie Yacop Sucipto",
             "title": "Maintainer of Docusaurus",
-            "url": "https://github.com/endiliey",
-            "imageURL": "https://github.com/endiliey.png",
+            "url": "http://github.com/endiliey",
+            "imageURL": "http://github.com/endiliey.png",
             "key": "endi"
           }
         ],
@@ -183,9 +183,9 @@
           {
             "name": "Gao Wei",
             "title": "Docusaurus Core Team",
-            "url": "https://github.com/wgao19",
-            "image_url": "https://github.com/wgao19.png",
-            "imageURL": "https://github.com/wgao19.png"
+            "url": "http://github.com/wgao19",
+            "image_url": "http://github.com/wgao19.png",
+            "imageURL": "http://github.com/wgao19.png"
           }
         ],
         "frontMatter": {
@@ -194,9 +194,9 @@
           "authors": {
             "name": "Gao Wei",
             "title": "Docusaurus Core Team",
-            "url": "https://github.com/wgao19",
-            "image_url": "https://github.com/wgao19.png",
-            "imageURL": "https://github.com/wgao19.png"
+            "url": "http://github.com/wgao19",
+            "image_url": "http://github.com/wgao19.png",
+            "imageURL": "http://github.com/wgao19.png"
           },
           "tags": [
             "hola",

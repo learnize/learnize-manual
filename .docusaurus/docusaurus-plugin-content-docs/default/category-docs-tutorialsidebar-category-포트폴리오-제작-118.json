@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "작업 평가",
-      "permalink": "/docs/creating-tasks/task3"
+      "permalink": "/docs/creating-tasks/assess-tasks"
     },
     "next": {
-      "title": "포트폴리오 제작",
-      "permalink": "/docs/category/포트폴리오-제작-1"
+      "title": "포트폴리오 - 일반 정보",
+      "permalink": "/docs/creating-portfolios/general-information"
     }
   }
 }

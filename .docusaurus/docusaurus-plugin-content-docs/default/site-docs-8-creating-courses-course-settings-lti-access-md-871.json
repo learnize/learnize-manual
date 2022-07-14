@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-courses/course-settings/lti-access",
+  "id": "creating-courses/course-settings/lti-access",
+  "title": "코스에 대한 LTI 액세스 구성",
+  "description": "베타 기능",
+  "source": "@site/docs/8. creating-courses/course-settings/lti-access.md",
+  "sourceDirName": "8. creating-courses/course-settings",
+  "slug": "/creating-courses/course-settings/lti-access",
+  "permalink": "/docs/creating-courses/course-settings/lti-access",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course-settings/lti-access.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 설정",
+    "permalink": "/docs/creating-courses/course-settings/overview"
+  },
+  "next": {
+    "title": "코스 및 코스 요소의 디자인 가능성",
+    "permalink": "/docs/creating-courses/course-settings/design-possibilities-of-courses"
+  }
+}

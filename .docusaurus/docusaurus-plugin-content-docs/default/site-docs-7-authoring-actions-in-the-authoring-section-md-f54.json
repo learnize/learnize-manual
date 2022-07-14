@@ -1,0 +1,27 @@
+{
+  "unversionedId": "authoring/actions-in-the-authoring-section",
+  "id": "authoring/actions-in-the-authoring-section",
+  "title": "'작성' 섹션의 작업",
+  "description": "http://docs.learnize.co.kr/manualuser/authoring/assets/actionsauthoring.png",
+  "source": "@site/docs/7. authoring/actions-in-the-authoring-section.md",
+  "sourceDirName": "7. authoring",
+  "slug": "/authoring/actions-in-the-authoring-section",
+  "permalink": "/docs/authoring/actions-in-the-authoring-section",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7. authoring/actions-in-the-authoring-section.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "다양한 유형의 학습 리소스",
+    "permalink": "/docs/authoring/various-types-of-learning-resources"
+  },
+  "next": {
+    "title": "학습 리소스의 상세 보기",
+    "permalink": "/docs/authoring/detailed-view-od-learning-resources"
+  }
+}

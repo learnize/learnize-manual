@@ -99,35 +99,41 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a2d'),
+    component: ComponentCreator('/docs', '7fc'),
     routes: [
       {
-        path: '/docs/authoring/authoring1',
-        component: ComponentCreator('/docs/authoring/authoring1', '06b'),
+        path: '/docs/authoring/actions-in-the-authoring-section',
+        component: ComponentCreator('/docs/authoring/actions-in-the-authoring-section', 'fe8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/authoring/authoring2',
-        component: ComponentCreator('/docs/authoring/authoring2', '432'),
+        path: '/docs/authoring/detailed-view-od-learning-resources',
+        component: ComponentCreator('/docs/authoring/detailed-view-od-learning-resources', 'a40'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/authoring/authoring3',
-        component: ComponentCreator('/docs/authoring/authoring3', '0df'),
+        path: '/docs/authoring/set-up-info-page',
+        component: ComponentCreator('/docs/authoring/set-up-info-page', 'fa4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/authoring/authoring4',
-        component: ComponentCreator('/docs/authoring/authoring4', '913'),
+        path: '/docs/authoring/technical-information-on-resources-and-usage',
+        component: ComponentCreator('/docs/authoring/technical-information-on-resources-and-usage', 'c52'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/authoring/authoring5',
-        component: ComponentCreator('/docs/authoring/authoring5', '595'),
+        path: '/docs/authoring/various-types-of-learning-resources',
+        component: ComponentCreator('/docs/authoring/various-types-of-learning-resources', '7cd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/강의와-결석',
+        component: ComponentCreator('/docs/category/강의와-결석', '9ed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -140,6 +146,12 @@ export default [
       {
         path: '/docs/category/개인메뉴-및-컴포넌트',
         component: ComponentCreator('/docs/category/개인메뉴-및-컴포넌트', '4d3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/과정-요소의-일반-구성',
+        component: ComponentCreator('/docs/category/과정-요소의-일반-구성', 'f98'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -192,6 +204,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/시험-에디터-qti-21',
+        component: ComponentCreator('/docs/category/시험-에디터-qti-21', 'd6d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/위키-제작',
         component: ComponentCreator('/docs/category/위키-제작', '731'),
         exact: true,
@@ -216,14 +234,44 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/지식-이전',
+        component: ComponentCreator('/docs/category/지식-이전', 'a54'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/커리큘럼-관리',
         component: ComponentCreator('/docs/category/커리큘럼-관리', '5b4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/커뮤니케이션과-조직',
+        component: ComponentCreator('/docs/category/커뮤니케이션과-조직', '0e2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/코스-내-폼',
+        component: ComponentCreator('/docs/category/코스-내-폼', 'c9d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/코스-내-학습활동',
         component: ComponentCreator('/docs/category/코스-내-학습활동', 'a73'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/코스-도구-사용',
+        component: ComponentCreator('/docs/category/코스-도구-사용', '7eb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/코스-설정',
+        component: ComponentCreator('/docs/category/코스-설정', '362'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -240,44 +288,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/코스-요소-타입-1',
-        component: ComponentCreator('/docs/category/코스-요소-타입-1', '8c7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-요소-타입-2',
-        component: ComponentCreator('/docs/category/코스-요소-타입-2', 'c8e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-요소-타입-3',
-        component: ComponentCreator('/docs/category/코스-요소-타입-3', '92a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/category/코스-운영',
         component: ComponentCreator('/docs/category/코스-운영', '8b3'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-운영-1',
-        component: ComponentCreator('/docs/category/코스-운영-1', '139'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-운영-2',
-        component: ComponentCreator('/docs/category/코스-운영-2', '84d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-운영-3',
-        component: ComponentCreator('/docs/category/코스-운영-3', '49f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -290,18 +302,6 @@ export default [
       {
         path: '/docs/category/코스-제작-1',
         component: ComponentCreator('/docs/category/코스-제작-1', 'a97'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-제작-2',
-        component: ComponentCreator('/docs/category/코스-제작-2', 'e44'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/코스-제작-3',
-        component: ComponentCreator('/docs/category/코스-제작-3', '908'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -324,14 +324,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/테스트-제작-1',
-        component: ComponentCreator('/docs/category/테스트-제작-1', 'b2c'),
+        path: '/docs/category/팟캐스트-제작',
+        component: ComponentCreator('/docs/category/팟캐스트-제작', 'b0e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/팟캐스트-제작',
-        component: ComponentCreator('/docs/category/팟캐스트-제작', 'b0e'),
+        path: '/docs/category/평가',
+        component: ComponentCreator('/docs/category/평가', '64a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/평가-도구',
+        component: ComponentCreator('/docs/category/평가-도구', 'e03'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -342,32 +348,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/포트폴리오-제작-1',
-        component: ComponentCreator('/docs/category/포트폴리오-제작-1', 'cf5'),
+        path: '/docs/category/포트폴리오-평가-프로세스',
+        component: ComponentCreator('/docs/category/포트폴리오-평가-프로세스', 'fb8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/포트폴리오-제작-2',
-        component: ComponentCreator('/docs/category/포트폴리오-제작-2', '781'),
+        path: '/docs/category/포트폴리오의-요소',
+        component: ComponentCreator('/docs/category/포트폴리오의-요소', '259'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/폼-에디터',
+        component: ComponentCreator('/docs/category/폼-에디터', '1e6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/category/폼-제작',
         component: ComponentCreator('/docs/category/폼-제작', 'b69'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/폼-제작-1',
-        component: ComponentCreator('/docs/category/폼-제작-1', '33e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/폼-제작-2',
-        component: ComponentCreator('/docs/category/폼-제작-2', '91c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -384,584 +384,578 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-1',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-1', '5ea'),
+        path: '/docs/course-operation/using-additional-course-features',
+        component: ComponentCreator('/docs/course-operation/using-additional-course-features', '3cc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2', '2c6'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks', '310'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-3',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-3', 'cd3'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/assessing-tests',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/assessing-tests', '144'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-1',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-1', '5b0'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/assessment-of-course-modules',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/assessment-of-course-modules', '777'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-2',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-2', 'b63'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/assessment-of-learners',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/assessment-of-learners', 'd5e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-3',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-3', '918'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/grading-evaluation-scale',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/grading-evaluation-scale', '904'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-4',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-4', '51c'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/overview',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/overview', '5a1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-5',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-5', 'b27'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/tab-users',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/tab-users', '693'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-6',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-6', '1bf'),
+        path: '/docs/course-operation/using-course-tools/assessment-tool/the-assessment-form',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/assessment-tool/the-assessment-form', '733'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-7',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-7', '667'),
+        path: '/docs/course-operation/using-course-tools/course-reminders',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/course-reminders', '0fd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-8',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-8', '1a7'),
+        path: '/docs/course-operation/using-course-tools/data-archiving',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/data-archiving', '106'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/course_operation1-1',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/course_operation1-1', '92c'),
+        path: '/docs/course-operation/using-course-tools/lecture-and-absences/lectures-teacher',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/lecture-and-absences/lectures-teacher', 'bcb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/course_operation1-2',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/course_operation1-2', '66e'),
+        path: '/docs/course-operation/using-course-tools/lecture-and-absences/lectures-user',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/lecture-and-absences/lectures-user', '168'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/course_operation1-3',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/course_operation1-3', '4ef'),
+        path: '/docs/course-operation/using-course-tools/lecture-and-absences/overview',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/lecture-and-absences/overview', '37e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/course_operation1-6',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/course_operation1-6', '0c7'),
+        path: '/docs/course-operation/using-course-tools/member-management',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/member-management', '61a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/course_operation1-7',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/course_operation1-7', '8a2'),
+        path: '/docs/course-operation/using-course-tools/overview',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/overview', 'ea8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/임시 폴더/course_operation1-8',
-        component: ComponentCreator('/docs/course-operation/임시 폴더/course_operation1-8', '5f9'),
+        path: '/docs/course-operation/using-course-tools/record-of-course-activities',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/record-of-course-activities', '162'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/course-operation/course_operation2',
-        component: ComponentCreator('/docs/course-operation/course_operation2', 'd13'),
+        path: '/docs/course-operation/using-course-tools/storage-folder',
+        component: ComponentCreator('/docs/course-operation/using-course-tools/storage-folder', '05b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/courses-and-catalog/course_and_catalog1',
-        component: ComponentCreator('/docs/courses-and-catalog/course_and_catalog1', 'f5f'),
+        path: '/docs/courses-and-catalog/finding-courses',
+        component: ComponentCreator('/docs/courses-and-catalog/finding-courses', '0ad'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/courses-and-catalog/course_and_catalog2',
-        component: ComponentCreator('/docs/courses-and-catalog/course_and_catalog2', 'a7d'),
+        path: '/docs/courses-and-catalog/info-page',
+        component: ComponentCreator('/docs/courses-and-catalog/info-page', 'bf3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-blogs/resource_blog1',
-        component: ComponentCreator('/docs/creating-blogs/resource_blog1', 'c6e'),
+        path: '/docs/creating-blogs/blog',
+        component: ComponentCreator('/docs/creating-blogs/blog', 'ce0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-blogs/resource_blog2',
-        component: ComponentCreator('/docs/creating-blogs/resource_blog2', 'ea6'),
+        path: '/docs/creating-blogs/fourr-stpes-to-your-blog',
+        component: ComponentCreator('/docs/creating-blogs/fourr-stpes-to-your-blog', '1f6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더/course_create4-1',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더/course_create4-1', '134'),
+        path: '/docs/creating-courses/access-configuration',
+        component: ComponentCreator('/docs/creating-courses/access-configuration', 'f88'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더/course_create4-2',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더/course_create4-2', 'b37'),
+        path: '/docs/creating-courses/course-of-study/',
+        component: ComponentCreator('/docs/creating-courses/course-of-study/', '616'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더/course_create4-3',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더/course_create4-3', '9f6'),
+        path: '/docs/creating-courses/course-of-study/courses-of-study',
+        component: ComponentCreator('/docs/creating-courses/course-of-study/courses-of-study', 'cda'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더/course_create4-4',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더/course_create4-4', '8f8'),
+        path: '/docs/creating-courses/course-of-study/creating-learning-path-courses',
+        component: ComponentCreator('/docs/creating-courses/course-of-study/creating-learning-path-courses', 'f6c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더2/course_create5-1',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더2/course_create5-1', 'bc0'),
+        path: '/docs/creating-courses/course-of-study/overview',
+        component: ComponentCreator('/docs/creating-courses/course-of-study/overview', 'b6f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더2/course_create5-2',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더2/course_create5-2', '6ef'),
+        path: '/docs/creating-courses/course-settings/design-possibilities-of-courses',
+        component: ComponentCreator('/docs/creating-courses/course-settings/design-possibilities-of-courses', '0ea'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더2/course_create5-3',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더2/course_create5-3', '369'),
+        path: '/docs/creating-courses/course-settings/lti-access',
+        component: ComponentCreator('/docs/creating-courses/course-settings/lti-access', '8c4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더3/course_create7-1',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더3/course_create7-1', '75a'),
+        path: '/docs/creating-courses/course-settings/overview',
+        component: ComponentCreator('/docs/creating-courses/course-settings/overview', 'de4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더3/course_create7-2',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더3/course_create7-2', 'c14'),
+        path: '/docs/creating-courses/general-configuration/access-restrictions',
+        component: ComponentCreator('/docs/creating-courses/general-configuration/access-restrictions', 'cfb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/임시 폴더3/course_create7-3',
-        component: ComponentCreator('/docs/creating-courses/임시 폴더3/course_create7-3', 'e40'),
+        path: '/docs/creating-courses/general-configuration/deleting-moving-and-copying-course-elements',
+        component: ComponentCreator('/docs/creating-courses/general-configuration/deleting-moving-and-copying-course-elements', 'cdb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/course_create1',
-        component: ComponentCreator('/docs/creating-courses/course_create1', '565'),
+        path: '/docs/creating-courses/general-configuration/overview',
+        component: ComponentCreator('/docs/creating-courses/general-configuration/overview', 'c43'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/course_create2',
-        component: ComponentCreator('/docs/creating-courses/course_create2', '1c5'),
+        path: '/docs/creating-courses/general-information',
+        component: ComponentCreator('/docs/creating-courses/general-information', '263'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/course_create3',
-        component: ComponentCreator('/docs/creating-courses/course_create3', '6f7'),
+        path: '/docs/creating-courses/in-five-steps-to-your-course-with-the-course-editor',
+        component: ComponentCreator('/docs/creating-courses/in-five-steps-to-your-course-with-the-course-editor', '56e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/course_create6',
-        component: ComponentCreator('/docs/creating-courses/course_create6', '109'),
+        path: '/docs/creating-courses/just-a-few-clicks-and-the-course-wizard',
+        component: ComponentCreator('/docs/creating-courses/just-a-few-clicks-and-the-course-wizard', '3a6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-courses/course_create8',
-        component: ComponentCreator('/docs/creating-courses/course_create8', '532'),
+        path: '/docs/creating-courses/using-additional-course-editor-tools',
+        component: ComponentCreator('/docs/creating-courses/using-additional-course-editor-tools', 'e8b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-cp-learning-content/resource_cp1',
-        component: ComponentCreator('/docs/creating-cp-learning-content/resource_cp1', '851'),
+        path: '/docs/creating-cp-learning-content/cp-editor',
+        component: ComponentCreator('/docs/creating-cp-learning-content/cp-editor', 'c01'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-cp-learning-content/resource_cp2',
-        component: ComponentCreator('/docs/creating-cp-learning-content/resource_cp2', '853'),
+        path: '/docs/creating-cp-learning-content/in-five-steps-to-your-content-package',
+        component: ComponentCreator('/docs/creating-cp-learning-content/in-five-steps-to-your-content-package', '6b8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더 copy/forms4-1',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더 copy/forms4-1', '826'),
+        path: '/docs/creating-forms/form-editor/overview',
+        component: ComponentCreator('/docs/creating-forms/form-editor/overview', '155'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더 copy/forms4-2',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더 copy/forms4-2', '6a9'),
+        path: '/docs/creating-forms/form-editor/question-rules',
+        component: ComponentCreator('/docs/creating-forms/form-editor/question-rules', '174'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더 copy/forms4-3',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더 copy/forms4-3', '47e'),
+        path: '/docs/creating-forms/form-editor/rubric',
+        component: ComponentCreator('/docs/creating-forms/form-editor/rubric', '5c9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더 copy/forms4-4',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더 copy/forms4-4', '371'),
+        path: '/docs/creating-forms/forms-in-courses/ePortfolio-template',
+        component: ComponentCreator('/docs/creating-forms/forms-in-courses/ePortfolio-template', '03c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더 copy/forms4-5',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더 copy/forms4-5', 'b19'),
+        path: '/docs/creating-forms/forms-in-courses/forms-element',
+        component: ComponentCreator('/docs/creating-forms/forms-in-courses/forms-element', '727'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더/forms3-1',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더/forms3-1', 'fc2'),
+        path: '/docs/creating-forms/forms-in-courses/overview',
+        component: ComponentCreator('/docs/creating-forms/forms-in-courses/overview', '650'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더/forms3-2',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더/forms3-2', 'aec'),
+        path: '/docs/creating-forms/forms-in-courses/questionnaires',
+        component: ComponentCreator('/docs/creating-forms/forms-in-courses/questionnaires', 'd00'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/임시 폴더/forms3-3',
-        component: ComponentCreator('/docs/creating-forms/임시 폴더/forms3-3', 'fb3'),
+        path: '/docs/creating-forms/forms-in-courses/rubric-scoring',
+        component: ComponentCreator('/docs/creating-forms/forms-in-courses/rubric-scoring', 'f8c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/forms1',
-        component: ComponentCreator('/docs/creating-forms/forms1', 'bf3'),
+        path: '/docs/creating-forms/general-information',
+        component: ComponentCreator('/docs/creating-forms/general-information', 'fc9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-forms/forms2',
-        component: ComponentCreator('/docs/creating-forms/forms2', '193'),
+        path: '/docs/creating-forms/three-steps-to-your-form',
+        component: ComponentCreator('/docs/creating-forms/three-steps-to-your-form', 'e34'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-podcasts/resource_podcast1',
-        component: ComponentCreator('/docs/creating-podcasts/resource_podcast1', 'e0d'),
+        path: '/docs/creating-podcasts/four-steps-to-your-podcast',
+        component: ComponentCreator('/docs/creating-podcasts/four-steps-to-your-podcast', 'c99'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-podcasts/resource_podcast2',
-        component: ComponentCreator('/docs/creating-podcasts/resource_podcast2', '2ab'),
+        path: '/docs/creating-podcasts/podcast',
+        component: ComponentCreator('/docs/creating-podcasts/podcast', 'e41'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더 copy/portfolio7-1',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더 copy/portfolio7-1', '158'),
+        path: '/docs/creating-portfolios/competences-tags',
+        component: ComponentCreator('/docs/creating-portfolios/competences-tags', 'd0f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더 copy/portfolio7-2',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더 copy/portfolio7-2', '4ff'),
+        path: '/docs/creating-portfolios/componenets-of-the-portfolio/media-center',
+        component: ComponentCreator('/docs/creating-portfolios/componenets-of-the-portfolio/media-center', '834'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더 copy/portfolio7-3',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더 copy/portfolio7-3', 'cff'),
+        path: '/docs/creating-portfolios/componenets-of-the-portfolio/my-entries',
+        component: ComponentCreator('/docs/creating-portfolios/componenets-of-the-portfolio/my-entries', 'e5e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더 copy/portfolio7-4',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더 copy/portfolio7-4', 'e0d'),
+        path: '/docs/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders',
+        component: ComponentCreator('/docs/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders', '09b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더 copy/portfolio7-5',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더 copy/portfolio7-5', '794'),
+        path: '/docs/creating-portfolios/componenets-of-the-portfolio/overview',
+        component: ComponentCreator('/docs/creating-portfolios/componenets-of-the-portfolio/overview', '493'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더 copy/portfolio7-6',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더 copy/portfolio7-6', 'a43'),
+        path: '/docs/creating-portfolios/componenets-of-the-portfolio/shared-by-me',
+        component: ComponentCreator('/docs/creating-portfolios/componenets-of-the-portfolio/shared-by-me', 'c73'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더/portfolio2-1',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더/portfolio2-1', '138'),
+        path: '/docs/creating-portfolios/componenets-of-the-portfolio/shared-with-me',
+        component: ComponentCreator('/docs/creating-portfolios/componenets-of-the-portfolio/shared-with-me', 'e71'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더/portfolio2-2',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더/portfolio2-2', '0c3'),
+        path: '/docs/creating-portfolios/general-information',
+        component: ComponentCreator('/docs/creating-portfolios/general-information', '1b6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더/portfolio2-3',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더/portfolio2-3', 'af5'),
+        path: '/docs/creating-portfolios/multiple-use-of-entries',
+        component: ComponentCreator('/docs/creating-portfolios/multiple-use-of-entries', '71e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더/portfolio2-4',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더/portfolio2-4', '179'),
+        path: '/docs/creating-portfolios/process-of-an-assessment-portfolio/creating-portfolio-tasks',
+        component: ComponentCreator('/docs/creating-portfolios/process-of-an-assessment-portfolio/creating-portfolio-tasks', '44b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더/portfolio2-5',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더/portfolio2-5', '9b3'),
+        path: '/docs/creating-portfolios/process-of-an-assessment-portfolio/overview',
+        component: ComponentCreator('/docs/creating-portfolios/process-of-an-assessment-portfolio/overview', '152'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/임시 폴더/portfolio2-6',
-        component: ComponentCreator('/docs/creating-portfolios/임시 폴더/portfolio2-6', 'ab4'),
+        path: '/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading',
+        component: ComponentCreator('/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading', '062'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/portfolio1',
-        component: ComponentCreator('/docs/creating-portfolios/portfolio1', '2d8'),
+        path: '/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-task',
+        component: ComponentCreator('/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-task', 'de4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/portfolio3',
-        component: ComponentCreator('/docs/creating-portfolios/portfolio3', '50a'),
+        path: '/docs/creating-portfolios/process-of-an-assessment-portfolio/template-administration',
+        component: ComponentCreator('/docs/creating-portfolios/process-of-an-assessment-portfolio/template-administration', 'aba'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/portfolio4',
-        component: ComponentCreator('/docs/creating-portfolios/portfolio4', '8ae'),
+        path: '/docs/creating-portfolios/process-of-an-assessment-portfolio/template-creation',
+        component: ComponentCreator('/docs/creating-portfolios/process-of-an-assessment-portfolio/template-creation', '309'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/portfolio5',
-        component: ComponentCreator('/docs/creating-portfolios/portfolio5', '1ea'),
+        path: '/docs/creating-portfolios/the-portfolio-editor',
+        component: ComponentCreator('/docs/creating-portfolios/the-portfolio-editor', 'a48'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-portfolios/portfolio6',
-        component: ComponentCreator('/docs/creating-portfolios/portfolio6', '291'),
+        path: '/docs/creating-portfolios/three-steps-to-your-portfolio-binder',
+        component: ComponentCreator('/docs/creating-portfolios/three-steps-to-your-portfolio-binder', 'd04'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tasks/task1',
-        component: ComponentCreator('/docs/creating-tasks/task1', '416'),
+        path: '/docs/creating-tasks/assess-tasks',
+        component: ComponentCreator('/docs/creating-tasks/assess-tasks', 'bf7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tasks/task2',
-        component: ComponentCreator('/docs/creating-tasks/task2', '320'),
+        path: '/docs/creating-tasks/task-further-configuration',
+        component: ComponentCreator('/docs/creating-tasks/task-further-configuration', 'b0d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tasks/task3',
-        component: ComponentCreator('/docs/creating-tasks/task3', '82a'),
+        path: '/docs/creating-tasks/three-steps-to-your-task',
+        component: ComponentCreator('/docs/creating-tasks/three-steps-to-your-task', '161'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/임시 폴더/tests3-1',
-        component: ComponentCreator('/docs/creating-tests/임시 폴더/tests3-1', '446'),
+        path: '/docs/creating-tests/changing-from-version',
+        component: ComponentCreator('/docs/creating-tests/changing-from-version', 'b36'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/임시 폴더/tests3-2',
-        component: ComponentCreator('/docs/creating-tests/임시 폴더/tests3-2', '902'),
+        path: '/docs/creating-tests/four-steps-to-your-test',
+        component: ComponentCreator('/docs/creating-tests/four-steps-to-your-test', 'e67'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/임시 폴더/tests3-3',
-        component: ComponentCreator('/docs/creating-tests/임시 폴더/tests3-3', 'b45'),
+        path: '/docs/creating-tests/general-information',
+        component: ComponentCreator('/docs/creating-tests/general-information', 'f4f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/임시 폴더/tests3-4',
-        component: ComponentCreator('/docs/creating-tests/임시 폴더/tests3-4', 'e26'),
+        path: '/docs/creating-tests/qti-2.1/configure-tests',
+        component: ComponentCreator('/docs/creating-tests/qti-2.1/configure-tests', 'cc6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/tests1',
-        component: ComponentCreator('/docs/creating-tests/tests1', '1c1'),
+        path: '/docs/creating-tests/qti-2.1/confiture-test-questions',
+        component: ComponentCreator('/docs/creating-tests/qti-2.1/confiture-test-questions', 'f99'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/tests2',
-        component: ComponentCreator('/docs/creating-tests/tests2', '084'),
+        path: '/docs/creating-tests/qti-2.1/overview',
+        component: ComponentCreator('/docs/creating-tests/qti-2.1/overview', '5bd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/tests4',
-        component: ComponentCreator('/docs/creating-tests/tests4', '2e5'),
+        path: '/docs/creating-tests/qti-2.1/test-question-types',
+        component: ComponentCreator('/docs/creating-tests/qti-2.1/test-question-types', '6cf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/tests5',
-        component: ComponentCreator('/docs/creating-tests/tests5', 'be7'),
+        path: '/docs/creating-tests/test-settings',
+        component: ComponentCreator('/docs/creating-tests/test-settings', 'e67'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-tests/tests6',
-        component: ComponentCreator('/docs/creating-tests/tests6', '9fd'),
+        path: '/docs/creating-tests/tests-at-course-level',
+        component: ComponentCreator('/docs/creating-tests/tests-at-course-level', 'ccb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-videos/resource_video1',
-        component: ComponentCreator('/docs/creating-videos/resource_video1', '74f'),
+        path: '/docs/creating-videos/course-element-video',
+        component: ComponentCreator('/docs/creating-videos/course-element-video', '0aa'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-videos/resource_video2',
-        component: ComponentCreator('/docs/creating-videos/resource_video2', '05f'),
+        path: '/docs/creating-videos/learning-resource-video',
+        component: ComponentCreator('/docs/creating-videos/learning-resource-video', '98c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-videos/resource_video3',
-        component: ComponentCreator('/docs/creating-videos/resource_video3', 'e32'),
+        path: '/docs/creating-videos/single-page-add-edit-video',
+        component: ComponentCreator('/docs/creating-videos/single-page-add-edit-video', 'a5f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-videos/resource_video4',
-        component: ComponentCreator('/docs/creating-videos/resource_video4', '1af'),
+        path: '/docs/creating-videos/video-upload',
+        component: ComponentCreator('/docs/creating-videos/video-upload', '3c8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/creating-wikis/resource_wiki1',
-        component: ComponentCreator('/docs/creating-wikis/resource_wiki1', '6c8'),
+        path: '/docs/creating-wikis/four-steps-to-your-wiki',
+        component: ComponentCreator('/docs/creating-wikis/four-steps-to-your-wiki', '5e3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/curriculum-management/curriculum_management1',
-        component: ComponentCreator('/docs/curriculum-management/curriculum_management1', 'f26'),
+        path: '/docs/curriculum-management/curriculum-management',
+        component: ComponentCreator('/docs/curriculum-management/curriculum-management', '5ea'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/e-assessment/e_assessment1',
-        component: ComponentCreator('/docs/e-assessment/e_assessment1', '7f6'),
+        path: '/docs/e-assessment/assessment-mode',
+        component: ComponentCreator('/docs/e-assessment/assessment-mode', '10e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/e-assessment/e_assessment2',
-        component: ComponentCreator('/docs/e-assessment/e_assessment2', '363'),
+        path: '/docs/e-assessment/coaching',
+        component: ComponentCreator('/docs/e-assessment/coaching', '0d1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/e-assessment/e_assessment3',
-        component: ComponentCreator('/docs/e-assessment/e_assessment3', 'ac2'),
+        path: '/docs/e-assessment/performance-assessment',
+        component: ComponentCreator('/docs/e-assessment/performance-assessment', 'eb3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/group/group1',
-        component: ComponentCreator('/docs/group/group1', '96c'),
+        path: '/docs/group/create-groups',
+        component: ComponentCreator('/docs/group/create-groups', 'dd2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/group/group2',
-        component: ComponentCreator('/docs/group/group2', 'f1b'),
+        path: '/docs/group/group-administration',
+        component: ComponentCreator('/docs/group/group-administration', 'c1d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/group/group3',
-        component: ComponentCreator('/docs/group/group3', '858'),
+        path: '/docs/group/group-management',
+        component: ComponentCreator('/docs/group/group-management', '37e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/group/group4',
-        component: ComponentCreator('/docs/group/group4', '160'),
+        path: '/docs/group/lti-access',
+        component: ComponentCreator('/docs/group/lti-access', '182'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/group/group5',
-        component: ComponentCreator('/docs/group/group5', '64f'),
+        path: '/docs/group/using-group-tools',
+        component: ComponentCreator('/docs/group/using-group-tools', 'b4e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/how-to/how1',
-        component: ComponentCreator('/docs/how-to/how1', '377'),
+        path: '/docs/how-to/create-a-bulk-assessment',
+        component: ComponentCreator('/docs/how-to/create-a-bulk-assessment', '3ce'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/how-to/how2',
-        component: ComponentCreator('/docs/how-to/how2', 'e10'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/how-to/how3',
-        component: ComponentCreator('/docs/how-to/how3', '31e'),
+        path: '/docs/how-to/customize-the-course-design',
+        component: ComponentCreator('/docs/how-to/customize-the-course-design', '93b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -1002,62 +996,62 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/learning_activities_in_course2',
-        component: ComponentCreator('/docs/learning-activities/learning_activities_in_course2', '0db'),
+        path: '/docs/learning-activities/additional-course-features',
+        component: ComponentCreator('/docs/learning-activities/additional-course-features', '33d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/learning_activities_in_course3',
-        component: ComponentCreator('/docs/learning-activities/learning_activities_in_course3', '17d'),
+        path: '/docs/learning-activities/course-problems-and-error-messages',
+        component: ComponentCreator('/docs/learning-activities/course-problems-and-error-messages', '930'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/learning_activities_in_course4',
-        component: ComponentCreator('/docs/learning-activities/learning_activities_in_course4', 'e30'),
+        path: '/docs/learning-activities/exams',
+        component: ComponentCreator('/docs/learning-activities/exams', '1cf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-1',
-        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-1', '137'),
+        path: '/docs/learning-activities/working-with-course-elements/overview',
+        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/overview', '55e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-2',
-        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-2', 'd6b'),
+        path: '/docs/learning-activities/working-with-course-elements/working-with-forums',
+        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/working-with-forums', '225'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-3',
-        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-3', '5f9'),
+        path: '/docs/learning-activities/working-with-course-elements/working-with-tasks',
+        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/working-with-tasks', '71e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-4',
-        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-4', '842'),
+        path: '/docs/learning-activities/working-with-course-elements/working-with-tests',
+        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/working-with-tests', '889'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-5',
-        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-5', 'abf'),
+        path: '/docs/learning-activities/working-with-course-elements/working-with-topic',
+        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/working-with-topic', 'f9c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-6',
-        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-6', '4d7'),
+        path: '/docs/learning-activities/working-with-course-elements/working-with-wiki',
+        component: ComponentCreator('/docs/learning-activities/working-with-course-elements/working-with-wiki', '1b3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/managing-topics/topic_assignment1',
-        component: ComponentCreator('/docs/managing-topics/topic_assignment1', '4c3'),
+        path: '/docs/managing-topics/three-step-to-create-and-manage-topics',
+        component: ComponentCreator('/docs/managing-topics/three-step-to-create-and-manage-topics', 'b40'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -1128,44 +1122,44 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank1',
-        component: ComponentCreator('/docs/question-bank/question_bank1', 'fa2'),
+        path: '/docs/question-bank/administration',
+        component: ComponentCreator('/docs/question-bank/administration', '9bc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank2',
-        component: ComponentCreator('/docs/question-bank/question_bank2', 'a14'),
+        path: '/docs/question-bank/data-management',
+        component: ComponentCreator('/docs/question-bank/data-management', '9a2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank3',
-        component: ComponentCreator('/docs/question-bank/question_bank3', '089'),
+        path: '/docs/question-bank/item-detailed-view',
+        component: ComponentCreator('/docs/question-bank/item-detailed-view', '40f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank4',
-        component: ComponentCreator('/docs/question-bank/question_bank4', 'e8b'),
+        path: '/docs/question-bank/possible-operations',
+        component: ComponentCreator('/docs/question-bank/possible-operations', '60b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank5',
-        component: ComponentCreator('/docs/question-bank/question_bank5', 'b6e'),
+        path: '/docs/question-bank/review-process',
+        component: ComponentCreator('/docs/question-bank/review-process', '4f1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank6',
-        component: ComponentCreator('/docs/question-bank/question_bank6', '353'),
+        path: '/docs/question-bank/search',
+        component: ComponentCreator('/docs/question-bank/search', 'eab'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/question-bank/question_bank7',
-        component: ComponentCreator('/docs/question-bank/question_bank7', 'd25'),
+        path: '/docs/question-bank/sharing-options',
+        component: ComponentCreator('/docs/question-bank/sharing-options', '7a9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -1182,122 +1176,80 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/supported-technologies/supported_tech1',
-        component: ComponentCreator('/docs/supported-technologies/supported_tech1', '12f'),
+        path: '/docs/supported-technologies/using-webdav',
+        component: ComponentCreator('/docs/supported-technologies/using-webdav', '11a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 2/course_element2-1',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 2/course_element2-1', 'f4e'),
+        path: '/docs/types-of-course-element/assessment/course-element-assessment',
+        component: ComponentCreator('/docs/types-of-course-element/assessment/course-element-assessment', '710'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 2/course_element2-2',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 2/course_element2-2', 'a00'),
+        path: '/docs/types-of-course-element/assessment/course-element-checklist',
+        component: ComponentCreator('/docs/types-of-course-element/assessment/course-element-checklist', '4b3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 2/course_element2-3',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 2/course_element2-3', '0f5'),
+        path: '/docs/types-of-course-element/assessment/overview',
+        component: ComponentCreator('/docs/types-of-course-element/assessment/overview', '3bc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-1',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-1', 'b3d'),
+        path: '/docs/types-of-course-element/communication-and-organisation/bbb-frequently-asked-question',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/bbb-frequently-asked-question', '51a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-2',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-2', '245'),
+        path: '/docs/types-of-course-element/communication-and-organisation/course-element-adobe-connect',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/course-element-adobe-connect', '9f6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-3',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-3', '7cf'),
+        path: '/docs/types-of-course-element/communication-and-organisation/course-element-bigbluebutton',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/course-element-bigbluebutton', '0d2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-4',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-4', '718'),
+        path: '/docs/types-of-course-element/communication-and-organisation/course-element-gotomeetings',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/course-element-gotomeetings', '294'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-5',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-5', '6e2'),
+        path: '/docs/types-of-course-element/communication-and-organisation/course-element-microsoft-teams',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/course-element-microsoft-teams', 'aa5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-6',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-6', '89c'),
+        path: '/docs/types-of-course-element/communication-and-organisation/course-element-opennmettings',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/course-element-opennmettings', '29f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-7',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-7', '4b2'),
+        path: '/docs/types-of-course-element/communication-and-organisation/course-element-vitero',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/course-element-vitero', '288'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-8',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-8', '3b0'),
+        path: '/docs/types-of-course-element/communication-and-organisation/overview',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/overview', 'fd4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/types-of-course-element/임시 폴더 3/course_element3-9',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더 3/course_element3-9', 'd75'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-1',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-1', '268'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-2',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-2', '825'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-3',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-3', '07d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-4',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-4', 'e8d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-5',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-5', '25c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-6',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-6', '20f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/types-of-course-element/임시 폴더/course_element1-7',
-        component: ComponentCreator('/docs/types-of-course-element/임시 폴더/course_element1-7', '2a9'),
+        path: '/docs/types-of-course-element/communication-and-organisation/virtual-classrooms',
+        component: ComponentCreator('/docs/types-of-course-element/communication-and-organisation/virtual-classrooms', 'a88'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -1310,6 +1262,48 @@ export default [
       {
         path: '/docs/types-of-course-element/course_element5',
         component: ComponentCreator('/docs/types-of-course-element/course_element5', '595'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/course-element-card2brain',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/course-element-card2brain', 'c7a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/course-element-folder',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/course-element-folder', '11e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/course-element-mediasite',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/course-element-mediasite', 'c19'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/course-element-scorn',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/course-element-scorn', '5dd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/course-element-single-page',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/course-element-single-page', 'c0d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/course-element-structure',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/course-element-structure', '4db'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/types-of-course-element/knowledge-transfer/overview',
+        component: ComponentCreator('/docs/types-of-course-element/knowledge-transfer/overview', '3d5'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

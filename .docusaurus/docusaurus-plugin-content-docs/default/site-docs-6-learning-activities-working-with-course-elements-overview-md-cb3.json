@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learning-activities/working-with-course-elements/overview",
+  "id": "learning-activities/working-with-course-elements/overview",
+  "title": "개요",
+  "description": "다음에서 코스를 구성할 수 있는 가장 중요한 코스 요소 목록을 찾을 수 있습니다. 기능과 코스 요소를 구체적으로 선택하기 위한 학습 환경 및 코스의 교훈적인 생성의 일부이기 때문에 모든 코스 요소가 코스에서 사용되지는 않을 것입니다. 코스에서 동일한 유형의 여러 코스 요소를 제공하거나 코스 요소의 이름이 이 목록과 다를 수 있습니다.",
+  "source": "@site/docs/6. learning-activities/working-with-course-elements/overview.md",
+  "sourceDirName": "6. learning-activities/working-with-course-elements",
+  "slug": "/learning-activities/working-with-course-elements/overview",
+  "permalink": "/docs/learning-activities/working-with-course-elements/overview",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. learning-activities/working-with-course-elements/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 작업",
+    "permalink": "/docs/category/코스-요소-작업"
+  },
+  "next": {
+    "title": "포럼 작업",
+    "permalink": "/docs/learning-activities/working-with-course-elements/working-with-forums"
+  }
+}

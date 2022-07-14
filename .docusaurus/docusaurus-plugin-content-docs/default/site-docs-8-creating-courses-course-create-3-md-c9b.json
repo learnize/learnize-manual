@@ -1,24 +1,27 @@
 {
   "unversionedId": "creating-courses/course_create3",
   "id": "creating-courses/course_create3",
-  "title": "클릭 몇 번이면 코스 마법사가 OpenOlat 코스를 생성합니다.",
-  "description": "코스](JustaFewClicksandtheCourseWizardWillCreateYourOpenOlatCourse.md)",
+  "title": "클릭 몇 번이면 코스 마법사가 Learnize 코스를 생성합니다.",
+  "description": "코스](JustaFewClicksandtheCourseWizardWillCreateYourLearnizeCourse.md)",
   "source": "@site/docs/8. creating-courses/course_create3.md",
   "sourceDirName": "8. creating-courses",
   "slug": "/creating-courses/course_create3",
   "permalink": "/docs/creating-courses/course_create3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course_create3.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "코스 편집기를 사용한 코스의 5단계",
-    "permalink": "/docs/creating-courses/course_create2"
+    "permalink": "/docs/creating-courses/in-five-steps-to-your-course-with-the-course-editor"
   },
   "next": {
-    "title": "코스 편집기 도구",
-    "permalink": "/docs/creating-courses/course_create6"
+    "title": "코스 제작",
+    "permalink": "/docs/category/코스-제작-1"
   }
 }

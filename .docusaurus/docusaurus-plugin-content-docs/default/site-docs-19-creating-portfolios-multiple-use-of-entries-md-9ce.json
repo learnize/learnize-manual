@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/multiple-use-of-entries",
+  "id": "creating-portfolios/multiple-use-of-entries",
+  "title": "항목의 다중 사용",
+  "description": "사용자가 여러 바인더에서 동일한 포트폴리오 항목을 사용하려는 다양한 시나리오가 있습니다. 예를 들어, 이력서나 취미에 대한 프레젠테이션 또는 코치를 위한 집단 포트폴리오가 될 수 있습니다. 이 포트폴리오에서 학습자는 교육에 대한 필수 성찰과 자신의 경력을 수집하고 지속적으로 추가합니다.",
+  "source": "@site/docs/19. creating-portfolios/multiple-use-of-entries.md",
+  "sourceDirName": "19. creating-portfolios",
+  "slug": "/creating-portfolios/multiple-use-of-entries",
+  "permalink": "/docs/creating-portfolios/multiple-use-of-entries",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/multiple-use-of-entries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 편집기",
+    "permalink": "/docs/creating-portfolios/the-portfolio-editor"
+  },
+  "next": {
+    "title": "역량 태그",
+    "permalink": "/docs/creating-portfolios/competences-tags"
+  }
+}

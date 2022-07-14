@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-blogs/blog",
+  "id": "creating-blogs/blog",
+  "title": "블로그 - 추가 구성",
+  "description": "탭: 블로그 학습 콘텐츠",
+  "source": "@site/docs/17. creating-blogs/blog.md",
+  "sourceDirName": "17. creating-blogs",
+  "slug": "/creating-blogs/blog",
+  "permalink": "/docs/creating-blogs/blog",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/17. creating-blogs/blog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "블로그를 위한 4단계",
+    "permalink": "/docs/creating-blogs/fourr-stpes-to-your-blog"
+  },
+  "next": {
+    "title": "테스크 제작",
+    "permalink": "/docs/category/테스크-제작"
+  }
+}

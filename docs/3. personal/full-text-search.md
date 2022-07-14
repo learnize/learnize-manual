@@ -4,21 +4,25 @@ sidebar_position: 3
 
 # 전체 텍스트 검색
 
-![https://docs.openolat.org/manual_user/personal/assets/search.png](https://docs.openolat.org/manual_user/personal/assets/search.png)
+![search](https://user-images.githubusercontent.com/68142821/178650175-444697dc-0457-4a87-b85d-df172ef83852.png)
 
 검색은 관리에서 활성화된 경우에만 표시되고 사용할 수 있습니다. 그렇지 않은 경우 관리자에게 직접 문의하십시오.
 
 전체 텍스트 검색 상자는 상태 표시줄의 오른쪽 상단에 있습니다. 전체 텍스트 검색은 코스나 그룹 콘텐츠, 포럼 또는 PDF 및 Word 파일에서도 검색어를 찾는 데 도움이 됩니다. 또한 모든 사용자 폴더에서 사용자, 포트폴리오 폴더, 아티팩트 및 문서를 찾을 수 있습니다. 인덱싱되지 않기 때문에 유일한 예외는 개인 폴더입니다.
 
-![https://docs.openolat.org/manual_user/personal/assets/generelle_Suche.png](https://docs.openolat.org/manual_user/personal/assets/generelle_Suche.png)
+:::danger
+이미지 변경 필요
+:::
+
+![http://docs.learnize.co.kr/manual_user/personal/assets/generelle_Suche.png](https://docs.openolat.org/manual_user/personal/assets/generelle_Suche.png)
 
 접근 권한이 있는 강의 콘텐츠의 검색 결과만 얻을 수 있습니다.
 
 보다 자세한 검색을 위해서는 고급검색을 이용하시기 바랍니다.
 
-![https://docs.openolat.org/manual_user/download/attachments/590936/full-text-search2.png](https://docs.openolat.org/manual_user/download/attachments/590936/full-text-search2.png)
+![http://docs.learnize.co.kr/manual_user/download/attachments/590936/full-text-search2.png](https://docs.openolat.org/manual_user/personal/assets/full-text-search.png)
 
-![https://docs.openolat.org/manual_user/personal/assets/full-text-search.png](https://docs.openolat.org/manual_user/personal/assets/full-text-search.png)
+![http://docs.learnize.co.kr/manual_user/personal/assets/full-text-search.png](https://docs.openolat.org/manual_user/personal/assets/full-text-search.png)
 
 "고급 검색" 옵션을 선택하십시오. *고급 검색* 모드 를 사용하면 검색을 구체화할 수 있습니다. 이러한 다른 필드는 부울 AND 연산자로 연결해야 합니다. 즉, 예를 들어 *Title* 및 *Author* 필드 를 입력하면 표시된 모든 필드에서 해당 용어가 포함된 문서를 찾을 수 있습니다.
 
@@ -28,9 +32,9 @@ sidebar_position: 3
 
 정보
 
-전체 OpenOlat에 대한 전체 텍스트 검색 외에도 코스 옵션의 모든 코스에 대해 활성화할 수 있는 [코스 검색 도 있습니다.](https://docs.openolat.org/manual_user/course_create/Course_Settings/#CourseSettings-course_search) 코스 검색은 해당 코스만 검색합니다.
+전체 Learnize에 대한 전체 텍스트 검색 외에도 코스 옵션의 모든 코스에 대해 활성화할 수 있는 [코스 검색](http://docs.learnize.co.kr/docs/creating-courses/course-settings/overview)  도 있습니다. 코스 검색은 해당 코스만 검색합니다.
 
-### 통사론
+### 구문
 
 다음 구문을 사용하여 쿼리를 수정할 수 있습니다.
 
@@ -115,18 +119,18 @@ sidebar_position: 3
 
 예: *description:Calcium 은 설명* 필드를 통해서만 검색합니다 .
 
-OLAT에서 사용되는 lucene 검색 구문에 대한 자세한 내용은 [Apache Lucene](http://lucene.apache.org/core/7_2_0/queryparser/org/apache/lucene/queryparser/classic/package-summary.html#package.description) 으로 이동하십시오 .
+OLAT에서 사용되는 lucene 검색 구문에 대한 자세한 내용은 [Apache Lucene](http://lucene.apache.co.kr/core/7_2_0/queryparser/co.kr/apache/lucene/queryparser/classic/package-summary.html#package.description) 으로 이동하십시오 .
 
 ### 메타 데이터
 
 메타 데이터는 다른 데이터의 속성에 대한 정보를 포함하는 데이터 **에 대한 데이터입니다.** 메타데이터는 파일의 제목, 작성자 또는 게시자와 같은 파일을 추가로 설명합니다. 문서의 목적을 명확히 하는 수단으로 사용되며 너무 길거나 특수 문자가 포함된 문서 제목에 특히 적합합니다.
 
-각 파일에는 메타데이터가 제공될 수 있습니다. 메타데이터는 선택 사항이며 Dublin Core Simple Standard를 기반으로 합니다. 자세한 내용은 [Dublin Simple Core](http://en.wikipedia.org/wiki/Dublin_Core) 로 이동하십시오 . 그러나 특정 문서를 업로드한 사람의 이름, 문서 크기, 파일 형식, 문서 업로드 시간 등 여러 메타 데이터는 수정할 수 없습니다. 예를 들어 원저자, 제목, 출처 또는 언어에 대한 정보는 수동으로 입력할 수 있습니다.
+각 파일에는 메타데이터가 제공될 수 있습니다. 메타데이터는 선택 사항이며 Dublin Core Simple Standard를 기반으로 합니다. 자세한 내용은 [Dublin Simple Core](http://en.wikipedia.co.kr/wiki/Dublin_Core) 로 이동하십시오 . 그러나 특정 문서를 업로드한 사람의 이름, 문서 크기, 파일 형식, 문서 업로드 시간 등 여러 메타 데이터는 수정할 수 없습니다. 예를 들어 원저자, 제목, 출처 또는 언어에 대한 정보는 수동으로 입력할 수 있습니다.
 
 메타데이터는 전체 텍스트 검색으로 인덱싱됩니다. 따라서 관련 문서를 찾을 때 키워드를 통해 메타데이터를 검색할 수 있습니다.
 
 **파일 잠금:** 메타 데이터 내에서 파일을 잠긴 것으로 표시할 수 있습니다. 잠긴 파일은 잠금으로 표시되며 다른 사용자는 더 이상 파일을 변경, 삭제 또는 이동할 수 없습니다. 폴더에는 이 옵션을 사용할 수 없습니다.
 
-![https://docs.openolat.org/manual_user/personal/assets/Datei_sperren_EN_detail.png](https://docs.openolat.org/manual_user/personal/assets/Datei_sperren_EN_detail.png)
+![스크린샷 2022-07-13 오후 1 36 52](https://user-images.githubusercontent.com/68142821/178651669-f91feb50-56d4-42d3-91b9-f8e1a7974e82.png)
 
-외부 링크를 사용하여 OpenOlat 외부에서 특정 파일로 직접 링크할 수 있습니다.
+외부 링크를 사용하여 Learnize 외부에서 특정 파일로 직접 링크할 수 있습니다.

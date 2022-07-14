@@ -2,20 +2,20 @@
   "unversionedId": "learning-activities/working-with-course-elements/learning_activities_in_course1-4",
   "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-4",
   "title": "테스트 작업",
-  "description": "https://docs.openolat.org/manualuser/learningactivities/assets/test.png",
+  "description": "http://docs.learnize.co.kr/manualuser/learningactivities/assets/test.png",
   "source": "@site/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-4.md",
   "sourceDirName": "6. learning-activities/working-with-course-elements",
   "slug": "/learning-activities/working-with-course-elements/learning_activities_in_course1-4",
   "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-4",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-4.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. learning-activities/working-with-course-elements/learning_activities_in_course1-4.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Welcome to MkDocs",
-    "permalink": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-3"
+    "title": "코스 요소 작업",
+    "permalink": "/docs/category/코스-요소-작업"
   },
   "next": {
     "title": "주제 할당 작업",

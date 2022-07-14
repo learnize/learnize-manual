@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/course-element-adobe-connect",
+  "id": "types-of-course-element/communication-and-organisation/course-element-adobe-connect",
+  "title": "코스 요소 Adobe Connect",
+  "description": "제목 없음",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/course-element-adobe-connect.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/course-element-adobe-connect",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-adobe-connect",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/course-element-adobe-connect.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "가상 교실",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/virtual-classrooms"
+  },
+  "next": {
+    "title": "코스 요소 BigBlueButton",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-bigbluebutton"
+  }
+}

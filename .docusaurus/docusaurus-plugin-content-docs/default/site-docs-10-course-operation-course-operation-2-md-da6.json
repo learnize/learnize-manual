@@ -8,14 +8,14 @@
   "slug": "/course-operation/course_operation2",
   "permalink": "/docs/course-operation/course_operation2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/course_operation2.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/course_operation2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "코스 활동 기록",
-    "permalink": "/docs/course-operation/임시 폴더/course_operation1-8"
+    "permalink": "/docs/course-operation/using-course-tools/record-of-course-activities"
   },
   "next": {
     "title": "하는 방법",

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tests/qti-2.1/tests3-4",
+  "id": "creating-tests/qti-2.1/tests3-4",
+  "title": "테스트 구성",
+  "description": "Learnize 테스트에 추가 구조화 및 구성 옵션을 사용할 수 있습니다. 원칙적으로 각 테스트는 적어도 하나의 섹션과 하나의 질문으로 구성됩니다. 따라서 새 테스트를 생성할 때 이미 섹션(\"새 섹션\")과 단일 선택 문제(\"새 질문\")를 찾을 수 있습니다. 시험에 객관식 질문이 없는 경우 다른 질문을 추가하는 즉시 기본 객관식 질문을 삭제할 수 있습니다.",
+  "source": "@site/docs/22. creating-tests/qti-2.1/tests3-4.md",
+  "sourceDirName": "22. creating-tests/qti-2.1",
+  "slug": "/creating-tests/qti-2.1/tests3-4",
+  "permalink": "/docs/creating-tests/qti-2.1/tests3-4",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/qti-2.1/tests3-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "test-question-types",
+    "permalink": "/docs/creating-tests/qti-2.1/test-question-types"
+  },
+  "next": {
+    "title": "테스트에 대한 일반 정보",
+    "permalink": "/docs/creating-tests/tests1"
+  }
+}

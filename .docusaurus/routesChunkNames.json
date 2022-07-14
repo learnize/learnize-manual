@@ -186,32 +186,36 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a2d": {
+  "/docs-7fc": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-447-111"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/authoring/authoring1-06b": {
+  "/docs/authoring/actions-in-the-authoring-section-fe8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-authoring-authoring-12-d-1-66b"
+    "content": "content---docs-authoring-actions-in-the-authoring-sectionf-54-4ac"
   },
-  "/docs/authoring/authoring2-432": {
+  "/docs/authoring/detailed-view-od-learning-resources-a40": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-authoring-authoring-2-ace-b3e"
+    "content": "content---docs-authoring-detailed-view-od-learning-resources-583-f9f"
   },
-  "/docs/authoring/authoring3-0df": {
+  "/docs/authoring/set-up-info-page-fa4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-authoring-authoring-357-f-ec6"
+    "content": "content---docs-authoring-set-up-info-page-1-ef-db3"
   },
-  "/docs/authoring/authoring4-913": {
+  "/docs/authoring/technical-information-on-resources-and-usage-c52": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-authoring-authoring-418-a-3c8"
+    "content": "content---docs-authoring-technical-information-on-resources-and-usage-8-dc-a5e"
   },
-  "/docs/authoring/authoring5-595": {
+  "/docs/authoring/various-types-of-learning-resources-7cd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-authoring-authoring-5879-678"
+    "content": "content---docs-authoring-various-types-of-learning-resources-601-3ca"
+  },
+  "/docs/category/강의와-결석-9ed": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-강의와-결석-467-943"
   },
   "/docs/category/개인메뉴-a67": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -220,6 +224,10 @@
   "/docs/category/개인메뉴-및-컴포넌트-4d3": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-개인메뉴-및-컴포넌트-2-bf-d13"
+  },
+  "/docs/category/과정-요소의-일반-구성-f98": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-과정-요소의-일반-구성e-94-dd3"
   },
   "/docs/category/구성-cf0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -253,6 +261,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-소개-98-e-d4e"
   },
+  "/docs/category/시험-에디터-qti-21-d6d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-시험-에디터-qti-21-e-20-357"
+  },
   "/docs/category/위키-제작-731": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-위키-제작-45-a-7f0"
@@ -269,13 +281,33 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-주제-할당-주제-관리-8-fa-b0e"
   },
+  "/docs/category/지식-이전-a54": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-지식-이전-8-b-9-62f"
+  },
   "/docs/category/커리큘럼-관리-5b4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-커리큘럼-관리-4-f-8-a78"
   },
+  "/docs/category/커뮤니케이션과-조직-0e2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-커뮤니케이션과-조직-4-df-95b"
+  },
+  "/docs/category/코스-내-폼-c9d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-내-폼f-11-3fa"
+  },
   "/docs/category/코스-내-학습활동-a73": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-내-학습활동b-3-e-8dc"
+  },
+  "/docs/category/코스-도구-사용-7eb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-도구-사용b-29-dff"
+  },
+  "/docs/category/코스-설정-362": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-설정f-1-d-6f3"
   },
   "/docs/category/코스-요소-작업-179": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -285,33 +317,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-요소-타입eae-09c"
   },
-  "/docs/category/코스-요소-타입-1-8c7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-요소-타입-1-ff-8-901"
-  },
-  "/docs/category/코스-요소-타입-2-c8e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-요소-타입-21-da-bcd"
-  },
-  "/docs/category/코스-요소-타입-3-92a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-요소-타입-3928-e5e"
-  },
   "/docs/category/코스-운영-8b3": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-운영-42-c-671"
-  },
-  "/docs/category/코스-운영-1-139": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-운영-1-a-51-e21"
-  },
-  "/docs/category/코스-운영-2-84d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-운영-2-c-6-a-c36"
-  },
-  "/docs/category/코스-운영-3-49f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-운영-3364-931"
   },
   "/docs/category/코스-제작-b5d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -320,14 +328,6 @@
   "/docs/category/코스-제작-1-a97": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-제작-13-f-2-83a"
-  },
-  "/docs/category/코스-제작-2-e44": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-제작-23-e-1-8f7"
-  },
-  "/docs/category/코스-제작-3-908": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-코스-제작-355-d-985"
   },
   "/docs/category/코스와-카탈로그-c24": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -341,37 +341,37 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-테스트-제작-1-f-4-9be"
   },
-  "/docs/category/테스트-제작-1-b2c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-테스트-제작-1-d-37-dd6"
-  },
   "/docs/category/팟캐스트-제작-b0e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-팟캐스트-제작-7-e-1-456"
+  },
+  "/docs/category/평가-64a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-평가c-70-17f"
+  },
+  "/docs/category/평가-도구-e03": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-평가-도구-9-b-6-09e"
   },
   "/docs/category/포트폴리오-제작-53d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-포트폴리오-제작-08-a-7d1"
   },
-  "/docs/category/포트폴리오-제작-1-cf5": {
+  "/docs/category/포트폴리오-평가-프로세스-fb8": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-포트폴리오-제작-1953-97a"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-포트폴리오-평가-프로세스b-89-0ff"
   },
-  "/docs/category/포트폴리오-제작-2-781": {
+  "/docs/category/포트폴리오의-요소-259": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-포트폴리오-제작-2792-f3b"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-포트폴리오의-요소-1-bf-445"
+  },
+  "/docs/category/폼-에디터-1e6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-폼-에디터cf-9-678"
   },
   "/docs/category/폼-제작-b69": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-폼-제작-940-7e9"
-  },
-  "/docs/category/폼-제작-1-33e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-폼-제작-1563-1f9"
-  },
-  "/docs/category/폼-제작-2-91c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-폼-제작-25-df-3d4"
   },
   "/docs/category/하는-방법-de4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -381,393 +381,389 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-cp-학습-컨텐츠-제작-24-b-491"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-1-5ea": {
+  "/docs/course-operation/using-additional-course-features-3cc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-2-course-operation-1-5-1103-4ae"
+    "content": "content---docs-course-operation-using-additional-course-featuresa-4-b-7c6"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2-2c6": {
+  "/docs/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks-310": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-2-course-operation-1-5-2-deb-e63"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-assessing-tasks-and-group-tasks-891-c1e"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-3-cd3": {
+  "/docs/course-operation/using-course-tools/assessment-tool/assessing-tests-144": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-2-course-operation-1-5-333-b-da4"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-assessing-tests-783-b1a"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-1-5b0": {
+  "/docs/course-operation/using-course-tools/assessment-tool/assessment-of-course-modules-777": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-131-f-7b0"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-assessment-of-course-modulesf-23-171"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-2-b63": {
+  "/docs/course-operation/using-course-tools/assessment-tool/assessment-of-learners-d5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-2564-407"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-assessment-of-learners-178-a97"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-3-918": {
+  "/docs/course-operation/using-course-tools/assessment-tool/grading-evaluation-scale-904": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-34-bb-6a8"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-grading-evaluation-scalef-64-8a3"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-4-51c": {
+  "/docs/course-operation/using-course-tools/assessment-tool/overview-5a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-4-caf-547"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-overview-83-e-d48"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-5-b27": {
+  "/docs/course-operation/using-course-tools/assessment-tool/tab-users-693": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-530-d-3f5"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-tab-users-8-e-9-ddd"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-6-1bf": {
+  "/docs/course-operation/using-course-tools/assessment-tool/the-assessment-form-733": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-6-e-4-d-b0e"
+    "content": "content---docs-course-operation-using-course-tools-assessment-tool-the-assessment-form-9-ad-f73"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-7-667": {
+  "/docs/course-operation/using-course-tools/course-reminders-0fd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-7-a-76-b8d"
+    "content": "content---docs-course-operation-using-course-tools-course-reminders-5-e-4-842"
   },
-  "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-8-1a7": {
+  "/docs/course-operation/using-course-tools/data-archiving-106": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-임시-폴더-course-operation-1-4-82-f-4-1ce"
+    "content": "content---docs-course-operation-using-course-tools-data-archiving-59-a-18c"
   },
-  "/docs/course-operation/임시 폴더/course_operation1-1-92c": {
+  "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-teacher-bcb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-course-operation-1-1-ff-8-39e"
+    "content": "content---docs-course-operation-using-course-tools-lecture-and-absences-lectures-teachercc-1-8cd"
   },
-  "/docs/course-operation/임시 폴더/course_operation1-2-66e": {
+  "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-user-168": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-course-operation-1-23-ed-fec"
+    "content": "content---docs-course-operation-using-course-tools-lecture-and-absences-lectures-userc-6-c-74d"
   },
-  "/docs/course-operation/임시 폴더/course_operation1-3-4ef": {
+  "/docs/course-operation/using-course-tools/lecture-and-absences/overview-37e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-course-operation-1-3601-d73"
+    "content": "content---docs-course-operation-using-course-tools-lecture-and-absences-overviewcc-8-9dc"
   },
-  "/docs/course-operation/임시 폴더/course_operation1-6-0c7": {
+  "/docs/course-operation/using-course-tools/member-management-61a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-course-operation-1-6-f-5-a-0e7"
+    "content": "content---docs-course-operation-using-course-tools-member-management-24-d-2dc"
   },
-  "/docs/course-operation/임시 폴더/course_operation1-7-8a2": {
+  "/docs/course-operation/using-course-tools/overview-ea8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-course-operation-1-7-c-6-b-050"
+    "content": "content---docs-course-operation-using-course-tools-overview-5-c-8-f65"
   },
-  "/docs/course-operation/임시 폴더/course_operation1-8-5f9": {
+  "/docs/course-operation/using-course-tools/record-of-course-activities-162": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-임시-폴더-course-operation-1-8838-dcc"
+    "content": "content---docs-course-operation-using-course-tools-record-of-course-activitiesb-01-433"
   },
-  "/docs/course-operation/course_operation2-d13": {
+  "/docs/course-operation/using-course-tools/storage-folder-05b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-course-operation-course-operation-2-da-6-efb"
+    "content": "content---docs-course-operation-using-course-tools-storage-folder-598-cff"
   },
-  "/docs/courses-and-catalog/course_and_catalog1-f5f": {
+  "/docs/courses-and-catalog/finding-courses-0ad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-courses-and-catalog-course-and-catalog-1659-ca5"
+    "content": "content---docs-courses-and-catalog-finding-coursesd-9-b-033"
   },
-  "/docs/courses-and-catalog/course_and_catalog2-a7d": {
+  "/docs/courses-and-catalog/info-page-bf3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-courses-and-catalog-course-and-catalog-280-a-578"
+    "content": "content---docs-courses-and-catalog-info-page-142-f6b"
   },
-  "/docs/creating-blogs/resource_blog1-c6e": {
+  "/docs/creating-blogs/blog-ce0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-blogs-resource-blog-14-e-1-3cd"
+    "content": "content---docs-creating-blogs-blog-49-e-268"
   },
-  "/docs/creating-blogs/resource_blog2-ea6": {
+  "/docs/creating-blogs/fourr-stpes-to-your-blog-1f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-blogs-resource-blog-2410-d36"
+    "content": "content---docs-creating-blogs-fourr-stpes-to-your-blog-144-09b"
   },
-  "/docs/creating-courses/임시 폴더/course_create4-1-134": {
+  "/docs/creating-courses/access-configuration-f88": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-course-create-4-1-fd-1-c57"
+    "content": "content---docs-creating-courses-access-configuration-46-d-a2c"
   },
-  "/docs/creating-courses/임시 폴더/course_create4-2-b37": {
+  "/docs/creating-courses/course-of-study/-616": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-course-create-4-2-fa-3-100"
+    "content": "content---docs-creating-courses-course-of-study-58-a-ae5"
   },
-  "/docs/creating-courses/임시 폴더/course_create4-3-9f6": {
+  "/docs/creating-courses/course-of-study/courses-of-study-cda": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-course-create-4-3678-01a"
+    "content": "content---docs-creating-courses-course-of-study-courses-of-study-8-d-6-4b2"
   },
-  "/docs/creating-courses/임시 폴더/course_create4-4-8f8": {
+  "/docs/creating-courses/course-of-study/creating-learning-path-courses-f6c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-course-create-4-44-b-4-9df"
+    "content": "content---docs-creating-courses-course-of-study-creating-learning-path-courses-323-37e"
   },
-  "/docs/creating-courses/임시 폴더2/course_create5-1-bc0": {
+  "/docs/creating-courses/course-of-study/overview-b6f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-2-course-create-5-1-e-7-f-bfa"
+    "content": "content---docs-creating-courses-course-of-study-overview-96-f-006"
   },
-  "/docs/creating-courses/임시 폴더2/course_create5-2-6ef": {
+  "/docs/creating-courses/course-settings/design-possibilities-of-courses-0ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-2-course-create-5-28-e-5-1a1"
+    "content": "content---docs-creating-courses-course-settings-design-possibilities-of-courses-59-f-308"
   },
-  "/docs/creating-courses/임시 폴더2/course_create5-3-369": {
+  "/docs/creating-courses/course-settings/lti-access-8c4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-2-course-create-5-37-e-3-5e9"
+    "content": "content---docs-creating-courses-course-settings-lti-access-871-4a3"
   },
-  "/docs/creating-courses/임시 폴더3/course_create7-1-75a": {
+  "/docs/creating-courses/course-settings/overview-de4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-3-course-create-7-11-c-7-4ce"
+    "content": "content---docs-creating-courses-course-settings-overview-951-86b"
   },
-  "/docs/creating-courses/임시 폴더3/course_create7-2-c14": {
+  "/docs/creating-courses/general-configuration/access-restrictions-cfb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-3-course-create-7-2-ebd-95c"
+    "content": "content---docs-creating-courses-general-configuration-access-restrictions-357-76b"
   },
-  "/docs/creating-courses/임시 폴더3/course_create7-3-e40": {
+  "/docs/creating-courses/general-configuration/deleting-moving-and-copying-course-elements-cdb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-임시-폴더-3-course-create-7-37-cf-3ec"
+    "content": "content---docs-creating-courses-general-configuration-deleting-moving-and-copying-course-elements-54-b-c2c"
   },
-  "/docs/creating-courses/course_create1-565": {
+  "/docs/creating-courses/general-configuration/overview-c43": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-course-create-12-a-2-d9a"
+    "content": "content---docs-creating-courses-general-configuration-overviewef-2-9ea"
   },
-  "/docs/creating-courses/course_create2-1c5": {
+  "/docs/creating-courses/general-information-263": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-course-create-2114-7fb"
+    "content": "content---docs-creating-courses-general-informationb-41-3f9"
   },
-  "/docs/creating-courses/course_create3-6f7": {
+  "/docs/creating-courses/in-five-steps-to-your-course-with-the-course-editor-56e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-course-create-3-c-9-b-cc3"
+    "content": "content---docs-creating-courses-in-five-steps-to-your-course-with-the-course-editorf-07-f01"
   },
-  "/docs/creating-courses/course_create6-109": {
+  "/docs/creating-courses/just-a-few-clicks-and-the-course-wizard-3a6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-course-create-6367-3a5"
+    "content": "content---docs-creating-courses-just-a-few-clicks-and-the-course-wizard-8-d-4-1b2"
   },
-  "/docs/creating-courses/course_create8-532": {
+  "/docs/creating-courses/using-additional-course-editor-tools-e8b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-courses-course-create-8-c-7-e-b24"
+    "content": "content---docs-creating-courses-using-additional-course-editor-tools-944-9af"
   },
-  "/docs/creating-cp-learning-content/resource_cp1-851": {
+  "/docs/creating-cp-learning-content/cp-editor-c01": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-cp-learning-content-resource-cp-132-a-1ec"
+    "content": "content---docs-creating-cp-learning-content-cp-editora-3-e-8ae"
   },
-  "/docs/creating-cp-learning-content/resource_cp2-853": {
+  "/docs/creating-cp-learning-content/in-five-steps-to-your-content-package-6b8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-cp-learning-content-resource-cp-2-bd-7-108"
+    "content": "content---docs-creating-cp-learning-content-in-five-steps-to-your-content-package-716-8d8"
   },
-  "/docs/creating-forms/임시 폴더 copy/forms4-1-826": {
+  "/docs/creating-forms/form-editor/overview-155": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-copy-forms-4-1-c-8-e-401"
+    "content": "content---docs-creating-forms-form-editor-overview-9-eb-89d"
   },
-  "/docs/creating-forms/임시 폴더 copy/forms4-2-6a9": {
+  "/docs/creating-forms/form-editor/question-rules-174": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-copy-forms-4-2-c-2-f-10b"
+    "content": "content---docs-creating-forms-form-editor-question-rules-3-e-5-134"
   },
-  "/docs/creating-forms/임시 폴더 copy/forms4-3-47e": {
+  "/docs/creating-forms/form-editor/rubric-5c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-copy-forms-4-36-bb-43f"
+    "content": "content---docs-creating-forms-form-editor-rubric-7-da-f94"
   },
-  "/docs/creating-forms/임시 폴더 copy/forms4-4-371": {
+  "/docs/creating-forms/forms-in-courses/ePortfolio-template-03c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-copy-forms-4-4-bda-82d"
+    "content": "content---docs-creating-forms-forms-in-courses-e-portfolio-template-9-cb-f6f"
   },
-  "/docs/creating-forms/임시 폴더 copy/forms4-5-b19": {
+  "/docs/creating-forms/forms-in-courses/forms-element-727": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-copy-forms-4-51-a-3-4c1"
+    "content": "content---docs-creating-forms-forms-in-courses-forms-element-177-ff4"
   },
-  "/docs/creating-forms/임시 폴더/forms3-1-fc2": {
+  "/docs/creating-forms/forms-in-courses/overview-650": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-forms-3-1-ca-4-fa3"
+    "content": "content---docs-creating-forms-forms-in-courses-overviewcd-5-823"
   },
-  "/docs/creating-forms/임시 폴더/forms3-2-aec": {
+  "/docs/creating-forms/forms-in-courses/questionnaires-d00": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-forms-3-2505-577"
+    "content": "content---docs-creating-forms-forms-in-courses-questionnaires-6-e-2-d93"
   },
-  "/docs/creating-forms/임시 폴더/forms3-3-fb3": {
+  "/docs/creating-forms/forms-in-courses/rubric-scoring-f8c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-임시-폴더-forms-3-36-e-1-86b"
+    "content": "content---docs-creating-forms-forms-in-courses-rubric-scoring-9-f-0-a33"
   },
-  "/docs/creating-forms/forms1-bf3": {
+  "/docs/creating-forms/general-information-fc9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-forms-1-ae-9-57f"
+    "content": "content---docs-creating-forms-general-informationbb-9-97b"
   },
-  "/docs/creating-forms/forms2-193": {
+  "/docs/creating-forms/three-steps-to-your-form-e34": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-forms-forms-22-a-3-b94"
+    "content": "content---docs-creating-forms-three-steps-to-your-formdf-8-60b"
   },
-  "/docs/creating-podcasts/resource_podcast1-e0d": {
+  "/docs/creating-podcasts/four-steps-to-your-podcast-c99": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-podcasts-resource-podcast-163-b-84e"
+    "content": "content---docs-creating-podcasts-four-steps-to-your-podcastf-8-d-ba4"
   },
-  "/docs/creating-podcasts/resource_podcast2-2ab": {
+  "/docs/creating-podcasts/podcast-e41": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-podcasts-resource-podcast-2-e-0-e-01a"
+    "content": "content---docs-creating-podcasts-podcast-9-f-8-c26"
   },
-  "/docs/creating-portfolios/임시 폴더 copy/portfolio7-1-158": {
+  "/docs/creating-portfolios/competences-tags-d0f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-copy-portfolio-7-1-f-78-427"
+    "content": "content---docs-creating-portfolios-competences-tags-5-a-4-3bd"
   },
-  "/docs/creating-portfolios/임시 폴더 copy/portfolio7-2-4ff": {
+  "/docs/creating-portfolios/componenets-of-the-portfolio/media-center-834": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-copy-portfolio-7-260-d-171"
+    "content": "content---docs-creating-portfolios-componenets-of-the-portfolio-media-center-72-c-d67"
   },
-  "/docs/creating-portfolios/임시 폴더 copy/portfolio7-3-cff": {
+  "/docs/creating-portfolios/componenets-of-the-portfolio/my-entries-e5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-copy-portfolio-7-38-c-3-ac8"
+    "content": "content---docs-creating-portfolios-componenets-of-the-portfolio-my-entriesba-0-537"
   },
-  "/docs/creating-portfolios/임시 폴더 copy/portfolio7-4-e0d": {
+  "/docs/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders-09b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-copy-portfolio-7-447-a-59a"
+    "content": "content---docs-creating-portfolios-componenets-of-the-portfolio-my-portfolio-bindersf-60-81f"
   },
-  "/docs/creating-portfolios/임시 폴더 copy/portfolio7-5-794": {
+  "/docs/creating-portfolios/componenets-of-the-portfolio/overview-493": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-copy-portfolio-7-54-d-9-006"
+    "content": "content---docs-creating-portfolios-componenets-of-the-portfolio-overview-1-de-39e"
   },
-  "/docs/creating-portfolios/임시 폴더 copy/portfolio7-6-a43": {
+  "/docs/creating-portfolios/componenets-of-the-portfolio/shared-by-me-c73": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-copy-portfolio-7-6-f-50-b04"
+    "content": "content---docs-creating-portfolios-componenets-of-the-portfolio-shared-by-mede-0-3b2"
   },
-  "/docs/creating-portfolios/임시 폴더/portfolio2-1-138": {
+  "/docs/creating-portfolios/componenets-of-the-portfolio/shared-with-me-e71": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-portfolio-2-14-d-1-c72"
+    "content": "content---docs-creating-portfolios-componenets-of-the-portfolio-shared-with-meab-6-987"
   },
-  "/docs/creating-portfolios/임시 폴더/portfolio2-2-0c3": {
+  "/docs/creating-portfolios/general-information-1b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-portfolio-2-2-d-68-125"
+    "content": "content---docs-creating-portfolios-general-informationd-0-a-c94"
   },
-  "/docs/creating-portfolios/임시 폴더/portfolio2-3-af5": {
+  "/docs/creating-portfolios/multiple-use-of-entries-71e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-portfolio-2-3-a-9-d-f04"
+    "content": "content---docs-creating-portfolios-multiple-use-of-entries-9-ce-d9a"
   },
-  "/docs/creating-portfolios/임시 폴더/portfolio2-4-179": {
+  "/docs/creating-portfolios/process-of-an-assessment-portfolio/creating-portfolio-tasks-44b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-portfolio-2-40-c-2-fb2"
+    "content": "content---docs-creating-portfolios-process-of-an-assessment-portfolio-creating-portfolio-taskscc-2-028"
   },
-  "/docs/creating-portfolios/임시 폴더/portfolio2-5-9b3": {
+  "/docs/creating-portfolios/process-of-an-assessment-portfolio/overview-152": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-portfolio-2-53-d-6-46c"
+    "content": "content---docs-creating-portfolios-process-of-an-assessment-portfolio-overview-788-ea9"
   },
-  "/docs/creating-portfolios/임시 폴더/portfolio2-6-ab4": {
+  "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading-062": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-임시-폴더-portfolio-2-64-ad-9eb"
+    "content": "content---docs-creating-portfolios-process-of-an-assessment-portfolio-portfolio-assignment-grading-893-8d4"
   },
-  "/docs/creating-portfolios/portfolio1-2d8": {
+  "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-task-de4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-portfolio-1-c-9-d-f1e"
+    "content": "content---docs-creating-portfolios-process-of-an-assessment-portfolio-portfolio-task-3-c-9-385"
   },
-  "/docs/creating-portfolios/portfolio3-50a": {
+  "/docs/creating-portfolios/process-of-an-assessment-portfolio/template-administration-aba": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-portfolio-3-f-8-c-944"
+    "content": "content---docs-creating-portfolios-process-of-an-assessment-portfolio-template-administration-771-a25"
   },
-  "/docs/creating-portfolios/portfolio4-8ae": {
+  "/docs/creating-portfolios/process-of-an-assessment-portfolio/template-creation-309": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-portfolio-4-b-99-41e"
+    "content": "content---docs-creating-portfolios-process-of-an-assessment-portfolio-template-creation-46-b-97c"
   },
-  "/docs/creating-portfolios/portfolio5-1ea": {
+  "/docs/creating-portfolios/the-portfolio-editor-a48": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-portfolio-5-cb-8-fd0"
+    "content": "content---docs-creating-portfolios-the-portfolio-editorea-0-638"
   },
-  "/docs/creating-portfolios/portfolio6-291": {
+  "/docs/creating-portfolios/three-steps-to-your-portfolio-binder-d04": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-portfolios-portfolio-691-b-97a"
+    "content": "content---docs-creating-portfolios-three-steps-to-your-portfolio-binder-54-e-c9c"
   },
-  "/docs/creating-tasks/task1-416": {
+  "/docs/creating-tasks/assess-tasks-bf7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tasks-task-1-c-46-a64"
+    "content": "content---docs-creating-tasks-assess-tasksb-3-c-856"
   },
-  "/docs/creating-tasks/task2-320": {
+  "/docs/creating-tasks/task-further-configuration-b0d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tasks-task-23-c-5-033"
+    "content": "content---docs-creating-tasks-task-further-configurationcd-8-bcf"
   },
-  "/docs/creating-tasks/task3-82a": {
+  "/docs/creating-tasks/three-steps-to-your-task-161": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tasks-task-3-c-00-548"
+    "content": "content---docs-creating-tasks-three-steps-to-your-taskf-2-e-e3d"
   },
-  "/docs/creating-tests/임시 폴더/tests3-1-446": {
+  "/docs/creating-tests/changing-from-version-b36": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-임시-폴더-tests-3-100-d-fe1"
+    "content": "content---docs-creating-tests-changing-from-versionbe-7-957"
   },
-  "/docs/creating-tests/임시 폴더/tests3-2-902": {
+  "/docs/creating-tests/four-steps-to-your-test-e67": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-임시-폴더-tests-3-2880-7cd"
+    "content": "content---docs-creating-tests-four-steps-to-your-test-67-d-e63"
   },
-  "/docs/creating-tests/임시 폴더/tests3-3-b45": {
+  "/docs/creating-tests/general-information-f4f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-임시-폴더-tests-3-3988-328"
+    "content": "content---docs-creating-tests-general-information-82-d-ae1"
   },
-  "/docs/creating-tests/임시 폴더/tests3-4-e26": {
+  "/docs/creating-tests/qti-2.1/configure-tests-cc6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-임시-폴더-tests-3-4329-97c"
+    "content": "content---docs-creating-tests-qti-2-1-configure-testsb-40-bc3"
   },
-  "/docs/creating-tests/tests1-1c1": {
+  "/docs/creating-tests/qti-2.1/confiture-test-questions-f99": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-tests-1-aad-7e3"
+    "content": "content---docs-creating-tests-qti-2-1-confiture-test-questions-2-e-2-c61"
   },
-  "/docs/creating-tests/tests2-084": {
+  "/docs/creating-tests/qti-2.1/overview-5bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-tests-25-fd-08f"
+    "content": "content---docs-creating-tests-qti-2-1-overview-2-ba-6c7"
   },
-  "/docs/creating-tests/tests4-2e5": {
+  "/docs/creating-tests/qti-2.1/test-question-types-6cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-tests-47-b-3-8d9"
+    "content": "content---docs-creating-tests-qti-2-1-test-question-types-491-a35"
   },
-  "/docs/creating-tests/tests5-be7": {
+  "/docs/creating-tests/test-settings-e67": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-tests-5-c-6-c-990"
+    "content": "content---docs-creating-tests-test-settings-50-b-b25"
   },
-  "/docs/creating-tests/tests6-9fd": {
+  "/docs/creating-tests/tests-at-course-level-ccb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-tests-tests-647-d-2c1"
+    "content": "content---docs-creating-tests-tests-at-course-levela-13-c6c"
   },
-  "/docs/creating-videos/resource_video1-74f": {
+  "/docs/creating-videos/course-element-video-0aa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-videos-resource-video-1888-b44"
+    "content": "content---docs-creating-videos-course-element-videoe-33-f97"
   },
-  "/docs/creating-videos/resource_video2-05f": {
+  "/docs/creating-videos/learning-resource-video-98c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-videos-resource-video-2-acc-054"
+    "content": "content---docs-creating-videos-learning-resource-video-257-c2d"
   },
-  "/docs/creating-videos/resource_video3-e32": {
+  "/docs/creating-videos/single-page-add-edit-video-a5f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-videos-resource-video-3-d-5-b-067"
+    "content": "content---docs-creating-videos-single-page-add-edit-videoc-25-155"
   },
-  "/docs/creating-videos/resource_video4-1af": {
+  "/docs/creating-videos/video-upload-3c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-videos-resource-video-4610-d71"
+    "content": "content---docs-creating-videos-video-uploadc-45-0f9"
   },
-  "/docs/creating-wikis/resource_wiki1-6c8": {
+  "/docs/creating-wikis/four-steps-to-your-wiki-5e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-creating-wikis-resource-wiki-15-e-1-cc6"
+    "content": "content---docs-creating-wikis-four-steps-to-your-wikiebb-6af"
   },
-  "/docs/curriculum-management/curriculum_management1-f26": {
+  "/docs/curriculum-management/curriculum-management-5ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-curriculum-management-curriculum-management-16-a-8-853"
+    "content": "content---docs-curriculum-management-curriculum-management-84-f-a39"
   },
-  "/docs/e-assessment/e_assessment1-7f6": {
+  "/docs/e-assessment/assessment-mode-10e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-e-assessment-e-assessment-1-e-3-c-348"
+    "content": "content---docs-e-assessment-assessment-mode-0-f-2-ca0"
   },
-  "/docs/e-assessment/e_assessment2-363": {
+  "/docs/e-assessment/coaching-0d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-e-assessment-e-assessment-2768-c24"
+    "content": "content---docs-e-assessment-coachingc-12-58a"
   },
-  "/docs/e-assessment/e_assessment3-ac2": {
+  "/docs/e-assessment/performance-assessment-eb3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-e-assessment-e-assessment-31-ca-9a7"
+    "content": "content---docs-e-assessment-performance-assessment-210-6b0"
   },
-  "/docs/group/group1-96c": {
+  "/docs/group/create-groups-dd2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-group-group-14-af-dcd"
+    "content": "content---docs-group-create-groupsabf-871"
   },
-  "/docs/group/group2-f1b": {
+  "/docs/group/group-administration-c1d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-group-group-24-c-5-889"
+    "content": "content---docs-group-group-administrationa-69-8be"
   },
-  "/docs/group/group3-858": {
+  "/docs/group/group-management-37e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-group-group-360-e-4ac"
+    "content": "content---docs-group-group-management-23-c-f5a"
   },
-  "/docs/group/group4-160": {
+  "/docs/group/lti-access-182": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-group-group-4-d-85-1b3"
+    "content": "content---docs-group-lti-accessd-22-978"
   },
-  "/docs/group/group5-64f": {
+  "/docs/group/using-group-tools-b4e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-group-group-5567-6d9"
+    "content": "content---docs-group-using-group-toolsbcf-2f8"
   },
-  "/docs/how-to/how1-377": {
+  "/docs/how-to/create-a-bulk-assessment-3ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-how-137-f-ae1"
+    "content": "content---docs-how-to-create-a-bulk-assessment-3-d-6-78e"
   },
-  "/docs/how-to/how2-e10": {
+  "/docs/how-to/customize-the-course-design-93b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-how-2-b-40-e44"
-  },
-  "/docs/how-to/how3-31e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-how-3909-410"
+    "content": "content---docs-how-to-customize-the-course-design-2-d-7-e2a"
   },
   "/docs/introduction/about-learnize-7b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -793,45 +789,45 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-introduction-technologyc-59-d03"
   },
-  "/docs/learning-activities/learning_activities_in_course2-0db": {
+  "/docs/learning-activities/additional-course-features-33d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-learning-activities-in-course-2896-ac2"
+    "content": "content---docs-learning-activities-additional-course-featuresfbe-360"
   },
-  "/docs/learning-activities/learning_activities_in_course3-17d": {
+  "/docs/learning-activities/course-problems-and-error-messages-930": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-learning-activities-in-course-3-be-7-75b"
+    "content": "content---docs-learning-activities-course-problems-and-error-messages-212-646"
   },
-  "/docs/learning-activities/learning_activities_in_course4-e30": {
+  "/docs/learning-activities/exams-1cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-learning-activities-in-course-48-c-0-f04"
+    "content": "content---docs-learning-activities-examsd-4-f-525"
   },
-  "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-1-137": {
+  "/docs/learning-activities/working-with-course-elements/overview-55e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-working-with-course-elements-learning-activities-in-course-1-142-c-cd4"
+    "content": "content---docs-learning-activities-working-with-course-elements-overviewcb-3-b5d"
   },
-  "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-2-d6b": {
+  "/docs/learning-activities/working-with-course-elements/working-with-forums-225": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-working-with-course-elements-learning-activities-in-course-1-24-f-9-1b6"
+    "content": "content---docs-learning-activities-working-with-course-elements-working-with-forums-403-e58"
   },
-  "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-3-5f9": {
+  "/docs/learning-activities/working-with-course-elements/working-with-tasks-71e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-working-with-course-elements-learning-activities-in-course-1-3-aca-531"
+    "content": "content---docs-learning-activities-working-with-course-elements-working-with-tasks-416-f27"
   },
-  "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-4-842": {
+  "/docs/learning-activities/working-with-course-elements/working-with-tests-889": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-working-with-course-elements-learning-activities-in-course-1-4-a-65-cf4"
+    "content": "content---docs-learning-activities-working-with-course-elements-working-with-tests-281-906"
   },
-  "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-5-abf": {
+  "/docs/learning-activities/working-with-course-elements/working-with-topic-f9c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-working-with-course-elements-learning-activities-in-course-1-5-c-0-f-488"
+    "content": "content---docs-learning-activities-working-with-course-elements-working-with-topic-299-30e"
   },
-  "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-6-4d7": {
+  "/docs/learning-activities/working-with-course-elements/working-with-wiki-1b3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learning-activities-working-with-course-elements-learning-activities-in-course-1-6-fff-66e"
+    "content": "content---docs-learning-activities-working-with-course-elements-working-with-wiki-89-b-ce3"
   },
-  "/docs/managing-topics/topic_assignment1-4c3": {
+  "/docs/managing-topics/three-step-to-create-and-manage-topics-b40": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-managing-topics-topic-assignment-1-cf-7-9fb"
+    "content": "content---docs-managing-topics-three-step-to-create-and-manage-topics-866-3df"
   },
   "/docs/personal/chat-189": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -877,33 +873,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-personal-working-with-tables-72-a-14a"
   },
-  "/docs/question-bank/question_bank1-fa2": {
+  "/docs/question-bank/administration-9bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-1036-498"
+    "content": "content---docs-question-bank-administration-05-f-b64"
   },
-  "/docs/question-bank/question_bank2-a14": {
+  "/docs/question-bank/data-management-9a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-2539-8b5"
+    "content": "content---docs-question-bank-data-managementff-7-450"
   },
-  "/docs/question-bank/question_bank3-089": {
+  "/docs/question-bank/item-detailed-view-40f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-3-d-29-4a3"
+    "content": "content---docs-question-bank-item-detailed-view-74-c-237"
   },
-  "/docs/question-bank/question_bank4-e8b": {
+  "/docs/question-bank/possible-operations-60b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-40-a-5-e06"
+    "content": "content---docs-question-bank-possible-operations-574-bc0"
   },
-  "/docs/question-bank/question_bank5-b6e": {
+  "/docs/question-bank/review-process-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-51-a-0-b92"
+    "content": "content---docs-question-bank-review-process-908-452"
   },
-  "/docs/question-bank/question_bank6-353": {
+  "/docs/question-bank/search-eab": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-6-e-9-c-f35"
+    "content": "content---docs-question-bank-search-94-b-16a"
   },
-  "/docs/question-bank/question_bank7-d25": {
+  "/docs/question-bank/sharing-options-7a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-question-bank-question-bank-73-c-8-4d9"
+    "content": "content---docs-question-bank-sharing-optionscd-0-b7c"
   },
   "/docs/registration/login-page-eb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -913,85 +909,57 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-registration-logout-7-f-7-909"
   },
-  "/docs/supported-technologies/supported_tech1-12f": {
+  "/docs/supported-technologies/using-webdav-11a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-supported-technologies-supported-tech-1-e-3-f-fbb"
+    "content": "content---docs-supported-technologies-using-webdava-56-460"
   },
-  "/docs/types-of-course-element/임시 폴더 2/course_element2-1-f4e": {
+  "/docs/types-of-course-element/assessment/course-element-assessment-710": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-2-course-element-2-1-c-93-716"
+    "content": "content---docs-types-of-course-element-assessment-course-element-assessment-6-b-4-ddc"
   },
-  "/docs/types-of-course-element/임시 폴더 2/course_element2-2-a00": {
+  "/docs/types-of-course-element/assessment/course-element-checklist-4b3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-2-course-element-2-2780-ebb"
+    "content": "content---docs-types-of-course-element-assessment-course-element-checkliste-1-e-c9f"
   },
-  "/docs/types-of-course-element/임시 폴더 2/course_element2-3-0f5": {
+  "/docs/types-of-course-element/assessment/overview-3bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-2-course-element-2-39-cb-82d"
+    "content": "content---docs-types-of-course-element-assessment-overview-0-fa-48f"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-1-b3d": {
+  "/docs/types-of-course-element/communication-and-organisation/bbb-frequently-asked-question-51a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-1-aea-52e"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-bbb-frequently-asked-questionca-1-d52"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-2-245": {
+  "/docs/types-of-course-element/communication-and-organisation/course-element-adobe-connect-9f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-2-cda-8f9"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-course-element-adobe-connecta-50-01b"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-3-7cf": {
+  "/docs/types-of-course-element/communication-and-organisation/course-element-bigbluebutton-0d2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-35-fd-5ff"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-course-element-bigbluebutton-9-b-2-32a"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-4-718": {
+  "/docs/types-of-course-element/communication-and-organisation/course-element-gotomeetings-294": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-4033-7ec"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-course-element-gotomeetingsc-8-a-2c6"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-5-6e2": {
+  "/docs/types-of-course-element/communication-and-organisation/course-element-microsoft-teams-aa5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-5-c-28-d7a"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-course-element-microsoft-teams-362-486"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-6-89c": {
+  "/docs/types-of-course-element/communication-and-organisation/course-element-opennmettings-29f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-6169-2b6"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-course-element-opennmettingsee-7-0d2"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-7-4b2": {
+  "/docs/types-of-course-element/communication-and-organisation/course-element-vitero-288": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-7365-fe2"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-course-element-vitero-3-f-5-609"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-8-3b0": {
+  "/docs/types-of-course-element/communication-and-organisation/overview-fd4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-82-c-6-216"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-overview-007-79f"
   },
-  "/docs/types-of-course-element/임시 폴더 3/course_element3-9-d75": {
+  "/docs/types-of-course-element/communication-and-organisation/virtual-classrooms-a88": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-3-course-element-3-96-df-0ca"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-1-268": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-1277-c62"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-2-825": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-2-ae-2-3be"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-3-07d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-3039-208"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-4-e8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-4-a-7-c-1ee"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-5-25c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-5-f-05-b81"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-6-20f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-6600-453"
-  },
-  "/docs/types-of-course-element/임시 폴더/course_element1-7-2a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-types-of-course-element-임시-폴더-course-element-1-73-e-1-e97"
+    "content": "content---docs-types-of-course-element-communication-and-organisation-virtual-classroomsaba-7c6"
   },
   "/docs/types-of-course-element/course_element4-69c": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1000,6 +968,34 @@
   "/docs/types-of-course-element/course_element5-595": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-types-of-course-element-course-element-5-bb-1-418"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/course-element-card2brain-c7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-course-element-card-2-brain-832-5e1"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/course-element-folder-11e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-course-element-folder-71-b-9a6"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/course-element-mediasite-c19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-course-element-mediasited-6-b-109"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/course-element-scorn-5dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-course-element-scorn-831-638"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/course-element-single-page-c0d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-course-element-single-pageca-3-a13"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/course-element-structure-4db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-course-element-structure-995-c48"
+  },
+  "/docs/types-of-course-element/knowledge-transfer/overview-3d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-types-of-course-element-knowledge-transfer-overview-855-640"
   },
   "/-f56": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

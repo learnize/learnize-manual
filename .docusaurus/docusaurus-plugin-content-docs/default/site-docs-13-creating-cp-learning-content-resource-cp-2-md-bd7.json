@@ -2,20 +2,20 @@
   "unversionedId": "creating-cp-learning-content/resource_cp2",
   "id": "creating-cp-learning-content/resource_cp2",
   "title": "CP 에디터",
-  "description": "이 도구를 사용하면 편집기로 학습 콘텐츠를 쉽게 만들고 편집할 수 있습니다. 또한 원하는 모든 파일을 통합할 수 있습니다. 학습 콘텐츠는 IMS 콘텐츠 패키지(IMS CP)로 저장됩니다. IMS 콘텐츠 패키징은 다양한 시스템에서 웹 기반 학습 콘텐츠를 사용하기 위한 하나의 간단한 표준입니다. 이 편집기로 만든 학습 모듈은 다른 e-러닝 시스템에서도 사용할 수 있습니다. IMS CP에 대한 추가 정보는 https://www.imsglobal.org/content/packaging/ 을 참조하십시오.",
+  "description": "이 도구를 사용하면 편집기로 학습 콘텐츠를 쉽게 만들고 편집할 수 있습니다. 또한 원하는 모든 파일을 통합할 수 있습니다. 학습 콘텐츠는 IMS 콘텐츠 패키지(IMS CP)로 저장됩니다. IMS 콘텐츠 패키징은 다양한 시스템에서 웹 기반 학습 콘텐츠를 사용하기 위한 하나의 간단한 표준입니다. 이 편집기로 만든 학습 모듈은 다른 e-러닝 시스템에서도 사용할 수 있습니다. IMS CP에 대한 추가 정보는 http://www.imsglobal.co.kr/content/packaging/ 을 참조하십시오.",
   "source": "@site/docs/13. creating-cp-learning-content/resource_cp2.md",
   "sourceDirName": "13. creating-cp-learning-content",
   "slug": "/creating-cp-learning-content/resource_cp2",
   "permalink": "/docs/creating-cp-learning-content/resource_cp2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13. creating-cp-learning-content/resource_cp2.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13. creating-cp-learning-content/resource_cp2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "콘텐츠 패키지를 위한 5단계",
-    "permalink": "/docs/creating-cp-learning-content/resource_cp1"
+    "permalink": "/docs/creating-cp-learning-content/in-five-steps-to-your-content-package"
   },
   "next": {
     "title": "위키 제작",

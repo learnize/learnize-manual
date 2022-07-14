@@ -2,20 +2,20 @@
   "unversionedId": "creating-forms/forms1",
   "id": "creating-forms/forms1",
   "title": "Welcome to MkDocs",
-  "description": "For full documentation visit mkdocs.org.",
+  "description": "For full documentation visit mkdocs.co.kr.",
   "source": "@site/docs/21. creating-forms/forms1.md",
   "sourceDirName": "21. creating-forms",
   "slug": "/creating-forms/forms1",
   "permalink": "/docs/creating-forms/forms1",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/21. creating-forms/forms1.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/21. creating-forms/forms1.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Welcome to MkDocs",
-    "permalink": "/docs/creating-forms/임시 폴더 copy/forms4-5"
+    "permalink": "/docs/creating-forms/forms-in-courses/rubric-scoring"
   },
   "next": {
     "title": "Welcome to MkDocs",

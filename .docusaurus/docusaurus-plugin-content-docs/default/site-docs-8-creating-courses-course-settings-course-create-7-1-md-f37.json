@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/course-settings/course_create7-1",
+  "id": "creating-courses/course-settings/course_create7-1",
+  "title": "코스 설정",
+  "description": "\"관리\"의 \"설정\" 메뉴는 Learnize 과정에 대한 추가 중앙 구성을 제공합니다.",
+  "source": "@site/docs/8. creating-courses/course-settings/course_create7-1.md",
+  "sourceDirName": "8. creating-courses/course-settings",
+  "slug": "/creating-courses/course-settings/course_create7-1",
+  "permalink": "/docs/creating-courses/course-settings/course_create7-1",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/course-settings/course_create7-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 설정",
+    "permalink": "/docs/category/코스-설정"
+  },
+  "next": {
+    "title": "코스에 대한 LTI 액세스 구성",
+    "permalink": "/docs/creating-courses/course-settings/course_create7-2"
+  }
+}

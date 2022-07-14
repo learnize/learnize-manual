@@ -8,14 +8,14 @@
   "slug": "/creating-podcasts/resource_podcast2",
   "permalink": "/docs/creating-podcasts/resource_podcast2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/16. creating-podcasts/resource_podcast2.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/16. creating-podcasts/resource_podcast2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "팟캐스트를 위한 4단계",
-    "permalink": "/docs/creating-podcasts/resource_podcast1"
+    "permalink": "/docs/creating-podcasts/four-steps-to-your-podcast"
   },
   "next": {
     "title": "블로그 제작",

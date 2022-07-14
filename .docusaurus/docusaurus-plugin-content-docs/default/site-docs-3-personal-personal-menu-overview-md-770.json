@@ -1,14 +1,14 @@
 {
   "unversionedId": "personal/personal-menu/overview",
   "id": "personal/personal-menu/overview",
-  "title": "개인메뉴 종류",
+  "title": "개요",
   "description": "개인 도구는 오른쪽 상단 모서리에 있는 드롭다운 메뉴를 통해 표시하고 더 구체적으로 설정할 수 있습니다. 사용자가 사용할 수 있는 도구는 개인 도구에 나타납니다.",
   "source": "@site/docs/3. personal/personal-menu/overview.md",
   "sourceDirName": "3. personal/personal-menu",
   "slug": "/personal/personal-menu/overview",
   "permalink": "/docs/personal/personal-menu/overview",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/personal-menu/overview.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/personal-menu/overview.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/개인메뉴"
   },
   "next": {
-    "title": "세션 시간 초과 및 로그아웃",
+    "title": "달력",
     "permalink": "/docs/personal/personal-menu/calendar"
   }
 }

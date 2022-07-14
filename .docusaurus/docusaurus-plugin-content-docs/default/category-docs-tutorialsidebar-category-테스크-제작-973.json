@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "블로그 - 추가 구성",
-      "permalink": "/docs/creating-blogs/resource_blog2"
+      "permalink": "/docs/creating-blogs/blog"
     },
     "next": {
       "title": "작업을 위한 3단계",
-      "permalink": "/docs/creating-tasks/task1"
+      "permalink": "/docs/creating-tasks/three-steps-to-your-task"
     }
   }
 }

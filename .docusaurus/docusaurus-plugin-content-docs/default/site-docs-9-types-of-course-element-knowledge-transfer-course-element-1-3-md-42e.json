@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/knowledge-transfer/course_element1-3",
+  "id": "types-of-course-element/knowledge-transfer/course_element1-3",
+  "title": "코스 요소: 폴더",
+  "description": "http://docs.learnize.co.kr/manualuser/courseelements/assets/folder.png",
+  "source": "@site/docs/9. types-of-course-element/knowledge-transfer/course_element1-3.md",
+  "sourceDirName": "9. types-of-course-element/knowledge-transfer",
+  "slug": "/types-of-course-element/knowledge-transfer/course_element1-3",
+  "permalink": "/docs/types-of-course-element/knowledge-transfer/course_element1-3",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/knowledge-transfer/course_element1-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소: 구조",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-structure"
+  },
+  "next": {
+    "title": "과정 요소: 단일 페이지",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course_element1-4"
+  }
+}

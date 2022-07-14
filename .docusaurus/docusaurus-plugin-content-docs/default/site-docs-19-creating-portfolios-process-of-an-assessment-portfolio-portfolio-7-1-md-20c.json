@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/process-of-an-assessment-portfolio/portfolio7-1",
+  "id": "creating-portfolios/process-of-an-assessment-portfolio/portfolio7-1",
+  "title": "평가 포트폴리오 프로세스",
+  "description": "포트폴리오 사용 방법에는 다양한 변형이 있습니다. 여기에 제공된 과제, 의견 및 강사의 평가를 포함하는 학습 포트폴리오의 프로세스가 예시적으로 표시됩니다. 이 프로세스에서 작성자와 사용자는 서로 상호 작용에 참여합니다.",
+  "source": "@site/docs/19. creating-portfolios/process-of-an-assessment-portfolio/portfolio7-1.md",
+  "sourceDirName": "19. creating-portfolios/process-of-an-assessment-portfolio",
+  "slug": "/creating-portfolios/process-of-an-assessment-portfolio/portfolio7-1",
+  "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio7-1",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/process-of-an-assessment-portfolio/portfolio7-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 제작",
+    "permalink": "/docs/category/포트폴리오-제작-2"
+  },
+  "next": {
+    "title": "포트폴리오 템플릿: 생성",
+    "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2"
+  }
+}

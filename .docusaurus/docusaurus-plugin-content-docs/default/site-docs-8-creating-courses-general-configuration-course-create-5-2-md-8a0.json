@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-courses/general-configuration/course_create5-2",
+  "id": "creating-courses/general-configuration/course_create5-2",
+  "title": "코스 요소 삭제, 이동 및 복사",
+  "description": "코스 편집기에서 코스를 변경할 수 있습니다. 코스를 시작하고 \"관리\" 아래의 메뉴에서 \"코스 편집기\" 옵션을 선택하여 코스 편집기에 액세스할 수 있습니다.",
+  "source": "@site/docs/8. creating-courses/general-configuration/course_create5-2.md",
+  "sourceDirName": "8. creating-courses/general-configuration",
+  "slug": "/creating-courses/general-configuration/course_create5-2",
+  "permalink": "/docs/creating-courses/general-configuration/course_create5-2",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/general-configuration/course_create5-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "과정 요소의 일반 구성",
+    "permalink": "/docs/category/과정-요소의-일반-구성"
+  },
+  "next": {
+    "title": "전문가 모드에서 액세스 제한",
+    "permalink": "/docs/creating-courses/general-configuration/course_create5-3"
+  }
+}

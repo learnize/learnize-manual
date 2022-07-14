@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-tests/qti-2.1/test-question-types",
+  "id": "creating-tests/qti-2.1/test-question-types",
+  "title": "test-question-types",
+  "description": "테스트 질문 유형",
+  "source": "@site/docs/22. creating-tests/qti-2.1/test-question-types.md",
+  "sourceDirName": "22. creating-tests/qti-2.1",
+  "slug": "/creating-tests/qti-2.1/test-question-types",
+  "permalink": "/docs/creating-tests/qti-2.1/test-question-types",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/qti-2.1/test-question-types.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "테스트 편집기 QTI 2.1",
+    "permalink": "/docs/creating-tests/qti-2.1/overview"
+  },
+  "next": {
+    "title": "테스트 설정",
+    "permalink": "/docs/creating-tests/test-settings"
+  }
+}

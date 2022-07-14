@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/using-course-tools/assessment-tool/course_operation1-4-1",
+  "id": "course-operation/using-course-tools/assessment-tool/course_operation1-4-1",
+  "title": "평가 도구 - 개요",
+  "description": "평가 도구는 Learnize 과정 평가를 위한 중앙 전환점입니다. 여기에서 코스 소유자와 교사는 코스의 평가 가능한 모든 요소에 대한 일반적인 개요를 얻고 평가를 수행할 수 있습니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/assessment-tool/course_operation1-4-1.md",
+  "sourceDirName": "10. course-operation/using-course-tools/assessment-tool",
+  "slug": "/course-operation/using-course-tools/assessment-tool/course_operation1-4-1",
+  "permalink": "/docs/course-operation/using-course-tools/assessment-tool/course_operation1-4-1",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/assessment-tool/course_operation1-4-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "평가 도구",
+    "permalink": "/docs/category/평가-도구"
+  },
+  "next": {
+    "title": "평가 도구 - 탭: 사용자",
+    "permalink": "/docs/course-operation/using-course-tools/assessment-tool/course_operation1-4-2"
+  }
+}

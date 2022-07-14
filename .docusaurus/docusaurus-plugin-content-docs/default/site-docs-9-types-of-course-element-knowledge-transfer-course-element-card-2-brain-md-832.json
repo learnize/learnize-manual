@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/knowledge-transfer/course-element-card2brain",
+  "id": "types-of-course-element/knowledge-transfer/course-element-card2brain",
+  "title": "과정 요소: card2brain Flashcards",
+  "description": "http://docs.learnize.co.kr/manualuser/courseelements/assets/card2brain43434364.png",
+  "source": "@site/docs/9. types-of-course-element/knowledge-transfer/course-element-card2brain.md",
+  "sourceDirName": "9. types-of-course-element/knowledge-transfer",
+  "slug": "/types-of-course-element/knowledge-transfer/course-element-card2brain",
+  "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-card2brain",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/knowledge-transfer/course-element-card2brain.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소: SCORM 학습 콘텐츠",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-scorn"
+  },
+  "next": {
+    "title": "쿠르스바우슈타인 \"미디어사이트\"",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-mediasite"
+  }
+}

@@ -5,12 +5,12 @@
   "permalink": "/docs/category/전자-평가",
   "navigation": {
     "previous": {
-      "title": "... 여러 코스에서 동일한 파일 사용",
-      "permalink": "/docs/how-to/how3"
+      "title": "... CSS를 사용하여 코스 디자인 사용자 지정(전문가)",
+      "permalink": "/docs/how-to/customize-the-course-design"
     },
     "next": {
       "title": "평가 모드",
-      "permalink": "/docs/e-assessment/e_assessment1"
+      "permalink": "/docs/e-assessment/assessment-mode"
     }
   }
 }

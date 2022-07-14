@@ -20,17 +20,17 @@ sidebar_position: 2
 
 자동 추가가 작동하지 **않으면** 인증서를 수동으로 추가할 수도 있습니다. 이 경우 유효성 검사가 자동으로 수행되지 않습니다. (검증 상태 참조)
 
-![https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.01.19.png](https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.01.19.png)
+![스크린샷 2022-07-13 오후 1 17 22](https://user-images.githubusercontent.com/68142821/178649613-db2c1da1-7b15-4567-a2ab-310ac6e8b184.png)
 
 ## 검증 상태
 
-![https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.05.13.png](https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.05.13.png)
+![스크린샷 2022-07-13 오후 1 21 05](https://user-images.githubusercontent.com/68142821/178650001-4b18f65b-af41-4a22-9fba-e794c3f6db46.png)
 
 ### 녹색
 
 인증서가 확인되었습니다.
 
-![https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.03.01.png](https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.03.01.png)
+![스크린샷 2022-07-13 오후 1 18 11](https://user-images.githubusercontent.com/68142821/178649693-3f0e89fe-64df-488c-a561-7bf10919a9ff.png)
 
 ### 주황색
 
@@ -40,12 +40,12 @@ sidebar_position: 2
 
 인증서를 확인하거나 자동 캡처가 작동하지 않는 경우 3G 담당자에게 문의하십시오.
 
-![https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.02.23.png](https://docs.openolat.org/manual_user/personal/assets/Bildschirmfoto%202021-10-01%20um%2017.02.23.png)
+![스크린샷 2022-07-13 오후 1 17 40](https://user-images.githubusercontent.com/68142821/178649645-fac1c516-8dd1-4ed6-a638-6a49be773f89.png)
 
 ### 빨간색
 
 인증서가 아직 입금되지 않았거나 인증서 자동 캡처를 완료할 수 없습니다.
 
-인증서의 데이터는 OpenOlat의 사용자 데이터와 일치해야 합니다. 그렇지 않으면 메시지를 받게 됩니다.
+인증서의 데이터는 Learnize의 사용자 데이터와 일치해야 합니다. 그렇지 않으면 메시지를 받게 됩니다.
 
 COVID 인증서를 추가하는 데 문제가 있는 경우 3G 담당자에게 문의하세요.

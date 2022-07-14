@@ -5,12 +5,12 @@
   "permalink": "/docs/category/코스-제작-1",
   "navigation": {
     "previous": {
-      "title": "코스 제작",
-      "permalink": "/docs/category/코스-제작"
+      "title": "클릭 몇 번이면 코스 마법사가 Learnize 코스를 생성합니다.",
+      "permalink": "/docs/creating-courses/just-a-few-clicks-and-the-course-wizard"
     },
     "next": {
       "title": "개요",
-      "permalink": "/docs/creating-courses/임시 폴더/course_create4-1"
+      "permalink": "/docs/creating-courses/course-of-study/overview"
     }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/componenets-of-the-portfolio/portfolio2-3",
+  "id": "creating-portfolios/componenets-of-the-portfolio/portfolio2-3",
+  "title": "내 항목",
+  "description": "\"내 항목\"에는 모든 항목이 시간순으로 나열됩니다. 따라서 바인더 항목이 있는 위치는 중요하지 않습니다. 모든 항목에 대한 요약이 있으며 상태를 통해 진행 상황을 볼 수 있습니다. 하나의 항목에는 여러 콘텐츠 또는 인공물이 포함될 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/componenets-of-the-portfolio/portfolio2-3.md",
+  "sourceDirName": "19. creating-portfolios/componenets-of-the-portfolio",
+  "slug": "/creating-portfolios/componenets-of-the-portfolio/portfolio2-3",
+  "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/portfolio2-3",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/componenets-of-the-portfolio/portfolio2-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 구성 요소",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/overview"
+  },
+  "next": {
+    "title": "미디어 센터",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/portfolio2-4"
+  }
+}

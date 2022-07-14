@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/course-element-vitero",
+  "id": "types-of-course-element/communication-and-organisation/course-element-vitero",
+  "title": "코스 요소 비테로",
+  "description": "쿠르스바우슈타인 \"비테로\"",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/course-element-vitero.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/course-element-vitero",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-vitero",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/course-element-vitero.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 OpenMeetings",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-opennmettings"
+  },
+  "next": {
+    "title": "과정 요소 Microsoft Teams",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-microsoft-teams"
+  }
+}

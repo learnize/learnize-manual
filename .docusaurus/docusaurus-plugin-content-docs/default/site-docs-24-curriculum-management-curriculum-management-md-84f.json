@@ -1,0 +1,27 @@
+{
+  "unversionedId": "curriculum-management/curriculum-management",
+  "id": "curriculum-management/curriculum-management",
+  "title": "커리큘럼 관리",
+  "description": "커리큘럼에 대한 일반 정보",
+  "source": "@site/docs/24. curriculum-management/curriculum-management.md",
+  "sourceDirName": "24. curriculum-management",
+  "slug": "/curriculum-management/curriculum-management",
+  "permalink": "/docs/curriculum-management/curriculum-management",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/24. curriculum-management/curriculum-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "커리큘럼 관리",
+    "permalink": "/docs/category/커리큘럼-관리"
+  },
+  "next": {
+    "title": "기술 지원",
+    "permalink": "/docs/category/기술-지원"
+  }
+}

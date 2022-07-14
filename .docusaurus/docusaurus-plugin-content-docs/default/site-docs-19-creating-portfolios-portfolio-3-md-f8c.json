@@ -2,20 +2,20 @@
   "unversionedId": "creating-portfolios/portfolio3",
   "id": "creating-portfolios/portfolio3",
   "title": "포트폴리오 바인더의 3단계",
-  "description": "모든 OpenOlat 사용자는 코스 또는 저자 권한과 관계없이 자신의 포트폴리오 폴더를 만들 수 있습니다.",
+  "description": "모든 Learnize 사용자는 코스 또는 저자 권한과 관계없이 자신의 포트폴리오 폴더를 만들 수 있습니다.",
   "source": "@site/docs/19. creating-portfolios/portfolio3.md",
   "sourceDirName": "19. creating-portfolios",
   "slug": "/creating-portfolios/portfolio3",
   "permalink": "/docs/creating-portfolios/portfolio3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "포트폴리오 - 일반 정보",
-    "permalink": "/docs/creating-portfolios/portfolio1"
+    "permalink": "/docs/creating-portfolios/general-information"
   },
   "next": {
     "title": "포트폴리오 편집기",

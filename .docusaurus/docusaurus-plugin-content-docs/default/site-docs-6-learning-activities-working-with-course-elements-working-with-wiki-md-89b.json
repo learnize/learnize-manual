@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learning-activities/working-with-course-elements/working-with-wiki",
+  "id": "learning-activities/working-with-course-elements/working-with-wiki",
+  "title": "위키로 작업하기",
+  "description": "http://docs.learnize.co.kr/manualuser/learningactivities/assets/wiki.png",
+  "source": "@site/docs/6. learning-activities/working-with-course-elements/working-with-wiki.md",
+  "sourceDirName": "6. learning-activities/working-with-course-elements",
+  "slug": "/learning-activities/working-with-course-elements/working-with-wiki",
+  "permalink": "/docs/learning-activities/working-with-course-elements/working-with-wiki",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. learning-activities/working-with-course-elements/working-with-wiki.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "주제 할당 작업",
+    "permalink": "/docs/learning-activities/working-with-course-elements/working-with-topic"
+  },
+  "next": {
+    "title": "추가 코스 기능",
+    "permalink": "/docs/learning-activities/additional-course-features"
+  }
+}

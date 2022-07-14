@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/overview",
+  "id": "types-of-course-element/communication-and-organisation/overview",
+  "title": "커뮤니케이션 및 협업",
+  "description": "가상 교실 에 대한 추가 정보 얻기",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/overview.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/overview",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/overview",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "커뮤니케이션과 조직",
+    "permalink": "/docs/category/커뮤니케이션과-조직"
+  },
+  "next": {
+    "title": "가상 교실",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/virtual-classrooms"
+  }
+}

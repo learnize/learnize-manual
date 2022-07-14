@@ -28,7 +28,7 @@ sidebar_position: 7
 
 전체 화면 모드에서 사용 가능한 모든 필터 옵션을 표시하려면 "모든 필터" 옵션을 클릭하십시오. 거기에서 개별 필터를 설정할 수도 있습니다.
 
-![https://docs.openolat.org/manual_user/personal/assets/search.png](https://docs.openolat.org/manual_user/personal/assets/search.png)
+![search (1)](https://user-images.githubusercontent.com/68142821/178654014-1c3d0d6d-3b81-474e-8881-3ed9bffdd913.png)
 
 ## 필터 탭
 

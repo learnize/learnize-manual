@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/course-element-opennmettings",
+  "id": "types-of-course-element/communication-and-organisation/course-element-opennmettings",
+  "title": "코스 요소 OpenMeetings",
+  "description": "코스 요소 \"OpenMeetings\"",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/course-element-opennmettings.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/course-element-opennmettings",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-opennmettings",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/course-element-opennmettings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 GoToMeeting",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-gotomeetings"
+  },
+  "next": {
+    "title": "코스 요소 비테로",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-vitero"
+  }
+}

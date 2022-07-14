@@ -2,20 +2,20 @@
   "unversionedId": "question-bank/question_bank3",
   "id": "question-bank/question_bank3",
   "title": "문제 은행 가능한 작업",
-  "description": "https://docs.openolat.org/manualuser/questionbank/assets/questionbankoperations.png.jpg",
+  "description": "http://docs.learnize.co.kr/manualuser/questionbank/assets/questionbankoperations.png.jpg",
   "source": "@site/docs/23. question-bank/question_bank3.md",
   "sourceDirName": "23. question-bank",
   "slug": "/question-bank/question_bank3",
   "permalink": "/docs/question-bank/question_bank3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "항목 상세보기",
-    "permalink": "/docs/question-bank/question_bank2"
+    "permalink": "/docs/question-bank/item-detailed-view"
   },
   "next": {
     "title": "검색",

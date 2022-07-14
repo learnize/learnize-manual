@@ -1,0 +1,16 @@
+{
+  "title": "평가 도구",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/평가-도구",
+  "permalink": "/docs/category/평가-도구",
+  "navigation": {
+    "previous": {
+      "title": "저장 폴더",
+      "permalink": "/docs/course-operation/using-course-tools/storage-folder"
+    },
+    "next": {
+      "title": "평가 도구 - 개요",
+      "permalink": "/docs/course-operation/using-course-tools/assessment-tool/overview"
+    }
+  }
+}

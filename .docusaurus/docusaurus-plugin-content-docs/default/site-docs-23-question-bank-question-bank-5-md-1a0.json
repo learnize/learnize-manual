@@ -8,14 +8,14 @@
   "slug": "/question-bank/question_bank5",
   "permalink": "/docs/question-bank/question_bank5",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank5.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/23. question-bank/question_bank5.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "검색",
-    "permalink": "/docs/question-bank/question_bank4"
+    "title": "문제 은행 가능한 작업",
+    "permalink": "/docs/question-bank/possible-operations"
   },
   "next": {
     "title": "문제 은행 검토 프로세스",

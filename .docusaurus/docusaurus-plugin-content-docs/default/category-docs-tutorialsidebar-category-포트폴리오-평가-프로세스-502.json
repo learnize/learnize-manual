@@ -1,0 +1,16 @@
+{
+  "title": "포트폴리오 평가 프로세스",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/포트폴리오-평가-프로세스",
+  "permalink": "/docs/category/포트폴리오-평가-프로세스",
+  "navigation": {
+    "previous": {
+      "title": "역량 태그",
+      "permalink": "/docs/creating-portfolios/competences-tags"
+    },
+    "next": {
+      "title": "평가 포트폴리오 프로세스",
+      "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/overview"
+    }
+  }
+}

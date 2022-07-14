@@ -1,0 +1,24 @@
+{
+  "unversionedId": "course-operation/using-course-tools/lecture-and-absences/lectures-",
+  "id": "course-operation/using-course-tools/lecture-and-absences/lectures-",
+  "title": "강의 - 사용자 보기",
+  "description": "사용자는 개인 메뉴에서 자신의 부재를 열 수 있습니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/lecture-and-absences/lectures-.md",
+  "sourceDirName": "10. course-operation/using-course-tools/lecture-and-absences",
+  "slug": "/course-operation/using-course-tools/lecture-and-absences/lectures-",
+  "permalink": "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/lecture-and-absences/lectures-.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "강의 - 교사 보기",
+    "permalink": "/docs/course-operation/using-course-tools/lecture-and-absences/course_operation1-5-3"
+  },
+  "next": {
+    "title": "강의 및 결석",
+    "permalink": "/docs/course-operation/using-course-tools/lecture-and-absences/overview"
+  }
+}

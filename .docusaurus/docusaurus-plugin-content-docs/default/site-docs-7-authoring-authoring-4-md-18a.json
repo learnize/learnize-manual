@@ -8,14 +8,14 @@
   "slug": "/authoring/authoring4",
   "permalink": "/docs/authoring/authoring4",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7. authoring/authoring4.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7. authoring/authoring4.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "학습 리소스의 상세 보기",
-    "permalink": "/docs/authoring/authoring3"
+    "title": "'작성' 섹션의 작업",
+    "permalink": "/docs/authoring/actions-in-the-authoring-section"
   },
   "next": {
     "title": "리소스 및 사용에 대한 기술 정보",

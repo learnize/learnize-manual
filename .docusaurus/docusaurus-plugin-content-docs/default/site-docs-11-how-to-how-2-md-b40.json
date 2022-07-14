@@ -8,14 +8,14 @@
   "slug": "/how-to/how2",
   "permalink": "/docs/how-to/how2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. how-to/how2.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. how-to/how2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "... 제출 작업에 대한 일괄 평가 생성",
-    "permalink": "/docs/how-to/how1"
+    "permalink": "/docs/how-to/create-a-bulk-assessment"
   },
   "next": {
     "title": "... 여러 코스에서 동일한 파일 사용",

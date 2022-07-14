@@ -10,7 +10,7 @@ sidebar_position: 4
 Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사용자 유형은 구별됩니다. 이것들은:
 
 - **익명 게스트:** 
-    [게스트 접속](https://docs.openolat.org/manual_user/general/Guest_access/)
+    [게스트 접속](http://docs.learnize.co.kr/docs/introduction/guest-access)
     게스트는 별도의 가입 필요 없이 Learnize에 **제한적으로 액세스** 할 수 있습니다. 게스트를 위한 학습 콘텐츠만 볼 수 있으며 학습 실직적인 활동에는 참여할 수 없습니다. 게스트 액세스에 대한 링크는 로그인 페이지에서 찾을 수 있습니다.
 
 - **학습자**
@@ -25,7 +25,7 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
 
 다음은 Learnize 역할에 대한 개요입니다.
 
-![https://docs.openolat.org/manual_user/general/assets/Rollen_EN.png](https://docs.openolat.org/manual_user/general/assets/Rollen_EN.png)
+![스크린샷 2022-07-12 오후 5 19 58](https://user-images.githubusercontent.com/68142821/178444234-66a94aee-c7fd-47c1-9a9f-b4a9511cd5b7.png)
 
 - **사용자** 
     : 표준 역할(위 참조)
@@ -40,11 +40,11 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
     : 역할 관리자는 사용자 관리 및 자신의 조직의 모든 사용자에 대한 액세스 권한이 있습니다. 관리자 및 시스템 관리자 역할 외에도 모든 사용자 역할을 변경, 할당 및 제거할 수 있습니다.
 
 - **그룹 관리자** 
-    : [그룹 관리](https://confluence.openolat.org/display/OO130EN/Group+Management) 그룹 관리자는 그룹 섹션에 액세스할 수 있으며 탭 그룹 관리에 액세스할 수 있습니다. 비활성화, 삭제된 그룹 관리 기능과 각 그룹의 구성 관리를 수행할 수 있습니다.
-![https://docs.openolat.org/manual_user/general/assets/EN_groupmanagement.png](https://docs.openolat.org/manual_user/general/assets/EN_groupmanagement.png)
+    : 그룹 관리 그룹 관리자는 그룹 섹션에 액세스할 수 있으며 탭 그룹 관리에 액세스할 수 있습니다. 비활성화, 삭제된 그룹 관리 기능과 각 그룹의 구성 관리를 수행할 수 있습니다.
+![스크린샷 2022-07-12 오후 5 21 34](https://user-images.githubusercontent.com/68142821/178444564-887b69fc-4cfe-4976-8169-2a7cbeb34337.png)
     
 - **문제 은행 관리자** 
-    : 문제 은행 관리자는 문제 은행에 액세스할 수 있습니다. 문제 은행 메뉴에서 관리자는 문제들을 생성 또는 관리할 수 있으며, 저자가 해당 문제들을 가지고 테스트를 구성할 수 있도록 지속적인 관리가 필요합니다. 이 역할에 대한 추가 정보는 [여기](https://confluence.openolat.org/display/OO112DE/Question+Bank+Administration) 에서 찾을 수 있습니다.
+    : 문제 은행 관리자는 문제 은행에 액세스할 수 있습니다. 문제 은행 메뉴에서 관리자는 문제들을 생성 또는 관리할 수 있으며, 저자가 해당 문제들을 가지고 테스트를 구성할 수 있도록 지속적인 관리가 필요합니다.
 
 - **커리큘럼 관리자** 
     : 커리큘럼 관리자는 커리큘럼 관리에 접근할 수 있으며, 새로운 커리큘럼을 생성하고 기존 커리큘럼을 관리할 수 있습니다. 교육 과정 관리자가 조직에 할당된 경우 이 조직의 교육 과정에만 액세스할 수 있습니다.
@@ -61,8 +61,8 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
 - **학습 자원 관리자** 
     : 학습 자원 관리자는 저작 영역에 액세스할 수 있으며 자신이 할당된 조직의 모든 학습 자원을 볼 수 있습니다. 프로필에서 기관을 추가할 수 있습니다. 학습 리소스 관리자는 모든 코스에 대한 소유자 권한이 있으며, 코스 소유자는 프로필에 학습 리소스 관리자와 동일한 기관이 입력되어 있습니다.
 
-- **총장** 
-    : 총장은 관리를 제외한 시스템의 모든 영역을 볼 수 있지만 읽기 전용 액세스 권한이 있으며 변경, 개체 편집 등은 할 수 없습니다.
+- **교장** 
+    : 교장은 관리를 제외한 시스템의 모든 영역을 볼 수 있지만 읽기 전용 액세스 권한이 있으며 변경, 개체 편집 등은 할 수 없습니다.
 
 - **관리자** 
     : 관리자는 모듈과 기능을 관리하며, 관리 페이지를 제외한 사용자 관리, 카탈로그 관리, 커리큘럼 관리, 강의 관리 등 시스템의 모든 영역에 접근할 수 있습니다. 이 역할은 조직으로 제한될 수 있습니다. 관리자는 사용자를 삭제하고 다른 사용자에게 카탈로그 관리 권한을 부여할 수도 있습니다.
@@ -70,7 +70,7 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
 - **시스템 관리자** 
     : 시스템 관리자는 관리 측면에 액세스할 수 있으며 기술 시스템 구성 및 모니터링을 담당합니다. 이는 조직에 얽매이지 않는 글로벌 역할입니다.
 :::info
-언급된 역할은 일반 사용자에게 시스템 전체에 광범위한 추가 권한을 부여하는 옵션을 나타냅니다. 일반적으로 Learnize 인스턴스에 대해 적절한 역할 구성이 선택되며 모든 특정 역할이 할당되는 것은 아닙니다. 일반적으로 사용자, 저자 및 관리자 또는 시스템 관리자의 조합입니다. 추가 역할은 해당 기관의 구조와 [커리큘럼](../curriculum/Curriculum_Management.md) 또는 [결석](https://docs.openolat.org/manual_user/course_operation/Lectures_and_absences/) 과 같은 특정 도구의 사용으로 인해 발생 합니다. 따라서 모든 잠재적인 Learnize 역할이 인스턴스에서 사용되는 것은 아닙니다.
+언급된 역할은 일반 사용자에게 시스템 전체에 광범위한 추가 권한을 부여하는 옵션을 나타냅니다. 일반적으로 Learnize 인스턴스에 대해 적절한 역할 구성이 선택되며 모든 특정 역할이 할당되는 것은 아닙니다. 일반적으로 사용자, 저자 및 관리자 또는 시스템 관리자의 조합입니다. 추가 역할은 해당 기관의 구조와 [커리큘럼](../curriculum/Curriculum_Management.md) 또는 [결석](http://docs.learnize.co.kr/manual_user/course_operation/Lectures_and_absences/) 과 같은 특정 도구의 사용으로 인해 발생 합니다. 따라서 모든 잠재적인 Learnize 역할이 인스턴스에서 사용되는 것은 아닙니다.
 :::
 
 ## 코스 권한 및 역할
@@ -89,9 +89,9 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
     : 참가자는 코스를 열고 액세스 권한이 있는 모든 항목을 편집할 수 있습니다. 참가자는 더 이상 권한이 없습니다.
     
 
-코스 관련 역할 외에도 구성에 따라 Learnize 계정이 없는 [게스트도 코스에 액세스할 수 있습니다.](https://docs.openolat.org/manual_user/general/Guest_access/)
+코스 관련 역할 외에도 구성에 따라 Learnize 계정이 없는 [게스트도 코스에 액세스할 수 있습니다.](http://docs.learnize.co.kr/docs/introduction/guest-access)
 
-![https://docs.openolat.org/manual_user/general/assets/en_rights.png](https://docs.openolat.org/manual_user/general/assets/en_rights.png)
+![스크린샷 2022-07-12 오후 5 30 09](https://user-images.githubusercontent.com/68142821/178446366-9a118569-092f-42cd-9b52-7d35bfdc61ce.png)
 
 ### 역할 변경
 
@@ -99,7 +99,7 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
 
 또한, 다른 관점/역할에서 코스를 보기 위해 코스 소유자도 코스의 다른 역할에 자신을 입력하는 것이 좋습니다.
 
-![https://docs.openolat.org/manual_user/general/assets/user_role.png](https://docs.openolat.org/manual_user/general/assets/user_role.png)
+![스크린샷 2022-07-12 오후 5 30 54](https://user-images.githubusercontent.com/68142821/178446525-6ebf2e0b-7c15-46ee-8cbf-f054311a1be3.png)
 
 ### 그룹 역할
 
@@ -107,7 +107,7 @@ Learnize는 역할 및 권한 관리와 함께 작동합니다. 처음 두 사�
 
 그룹 코치는 코스 코치와 거의 동일한 권한을 가집니다. 그룹이 할당된 코스에서 그룹 코치는 평가 도구와 테스트 및 설문 조사 통계에 대한 액세스 권한이 있습니다. 평가 도구에서 그룹 코치는 자신의 그룹 **참가자** 만 볼 수 있습니다.
 
-![https://docs.openolat.org/manual_user/general/assets/memebers_managent15.png](https://docs.openolat.org/manual_user/general/assets/memebers_managent15.png)
+![스크린샷 2022-07-12 오후 5 31 20](https://user-images.githubusercontent.com/68142821/178446611-0fb5583b-8d45-4912-825f-bcd4ef90a1f2.png)
 
 :::note
 코스 권한과 그룹 권한은 사용자 관리에서 시스템 전체에 걸쳐 사용자가 부여한 역할과 무관합니다. 할당된 역할이 없는 시스템 사용자는 코스 소유자, 코스 코치 또는 그룹 코치가 될 수 있습니다.

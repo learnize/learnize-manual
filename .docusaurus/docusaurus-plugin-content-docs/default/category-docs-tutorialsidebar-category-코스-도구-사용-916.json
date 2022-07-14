@@ -1,0 +1,16 @@
+{
+  "title": "코스 도구 사용",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-도구-사용",
+  "permalink": "/docs/category/코스-도구-사용",
+  "navigation": {
+    "previous": {
+      "title": "코스 운영",
+      "permalink": "/docs/category/코스-운영"
+    },
+    "next": {
+      "title": "개요",
+      "permalink": "/docs/course-operation/using-course-tools/overview"
+    }
+  }
+}

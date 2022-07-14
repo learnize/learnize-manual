@@ -8,17 +8,17 @@
   "slug": "/creating-tasks/task3",
   "permalink": "/docs/creating-tasks/task3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/18. creating-tasks/task3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/18. creating-tasks/task3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "작업 - 추가 구성",
-    "permalink": "/docs/creating-tasks/task2"
+    "permalink": "/docs/creating-tasks/task-further-configuration"
   },
   "next": {
-    "title": "포트폴리오 제작",
-    "permalink": "/docs/category/포트폴리오-제작"
+    "title": "작업을 위한 3단계",
+    "permalink": "/docs/creating-tasks/three-steps-to-your-task"
   }
 }

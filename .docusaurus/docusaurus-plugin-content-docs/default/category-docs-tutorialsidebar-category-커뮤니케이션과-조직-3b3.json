@@ -1,0 +1,16 @@
+{
+  "title": "커뮤니케이션과 조직",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/커뮤니케이션과-조직",
+  "permalink": "/docs/category/커뮤니케이션과-조직",
+  "navigation": {
+    "previous": {
+      "title": "코스 요소: 체크리스트",
+      "permalink": "/docs/types-of-course-element/assessment/course-element-checklist"
+    },
+    "next": {
+      "title": "커뮤니케이션 및 협업",
+      "permalink": "/docs/types-of-course-element/communication-and-organisation/overview"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-tasks/assess-tasks",
+  "id": "creating-tasks/assess-tasks",
+  "title": "작업 평가",
+  "description": "전달된 작업에 대한 평가는 평가 도구에서 또는 런타임 보기에서 직접 코치와 코스 소유자가 수행할 수 있습니다.",
+  "source": "@site/docs/18. creating-tasks/assess-tasks.md",
+  "sourceDirName": "18. creating-tasks",
+  "slug": "/creating-tasks/assess-tasks",
+  "permalink": "/docs/creating-tasks/assess-tasks",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/18. creating-tasks/assess-tasks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "작업 - 추가 구성",
+    "permalink": "/docs/creating-tasks/task-further-configuration"
+  },
+  "next": {
+    "title": "포트폴리오 제작",
+    "permalink": "/docs/category/포트폴리오-제작"
+  }
+}

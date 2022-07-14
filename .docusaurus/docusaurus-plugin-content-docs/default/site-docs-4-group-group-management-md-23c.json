@@ -1,0 +1,27 @@
+{
+  "unversionedId": "group/group-management",
+  "id": "group/group-management",
+  "title": "그룹 관리",
+  "description": "내 그룹",
+  "source": "@site/docs/4. group/group-management.md",
+  "sourceDirName": "4. group",
+  "slug": "/group/group-management",
+  "permalink": "/docs/group/group-management",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. group/group-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "그룹 도구 사용",
+    "permalink": "/docs/group/using-group-tools"
+  },
+  "next": {
+    "title": "코스와 카탈로그",
+    "permalink": "/docs/category/코스와-카탈로그"
+  }
+}

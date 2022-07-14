@@ -1,0 +1,16 @@
+{
+  "title": "시험 에디터 QTI 2.1",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/시험-에디터-qti-21",
+  "permalink": "/docs/category/시험-에디터-qti-21",
+  "navigation": {
+    "previous": {
+      "title": "테스트 또는 자체 테스트를 위한 4단계",
+      "permalink": "/docs/creating-tests/four-steps-to-your-test"
+    },
+    "next": {
+      "title": "테스트 구성",
+      "permalink": "/docs/creating-tests/qti-2.1/configure-tests"
+    }
+  }
+}

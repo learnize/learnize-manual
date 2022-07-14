@@ -8,17 +8,17 @@
   "slug": "/group/group5",
   "permalink": "/docs/group/group5",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. group/group5.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. group/group5.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "그룹 도구 사용",
-    "permalink": "/docs/group/group4"
+    "title": "그룹 관리",
+    "permalink": "/docs/group/group-administration"
   },
   "next": {
-    "title": "코스와 카탈로그",
-    "permalink": "/docs/category/코스와-카탈로그"
+    "title": "그룹에 대한 LTI 액세스 구성",
+    "permalink": "/docs/group/lti-access"
   }
 }

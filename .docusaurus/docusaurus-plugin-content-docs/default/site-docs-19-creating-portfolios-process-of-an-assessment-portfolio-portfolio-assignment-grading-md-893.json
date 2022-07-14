@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading",
+  "id": "creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading",
+  "title": "포트폴리오 할당: 채점",
+  "description": "학습자가 포트폴리오 작업을 편집하고 그 중 적어도 일부를 게시한 경우 바인더 또는 게시된 부분은 다른 사람이 댓글을 달고 (설정에서 허용하는 경우) 채점할 수 있습니다. 다음에서는 프로세스를 설명합니다.",
+  "source": "@site/docs/19. creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading.md",
+  "sourceDirName": "19. creating-portfolios/process-of-an-assessment-portfolio",
+  "slug": "/creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading",
+  "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 작업 및 할당: 수집 및 편집",
+    "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-task"
+  },
+  "next": {
+    "title": "주제 할당, 주제 관리",
+    "permalink": "/docs/category/주제-할당-주제-관리"
+  }
+}

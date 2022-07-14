@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-forms/forms-in-courses/forms4-3",
+  "id": "creating-forms/forms-in-courses/forms4-3",
+  "title": "Welcome to MkDocs",
+  "description": "For full documentation visit mkdocs.co.kr.",
+  "source": "@site/docs/21. creating-forms/forms-in-courses/forms4-3.md",
+  "sourceDirName": "21. creating-forms/forms-in-courses",
+  "slug": "/creating-forms/forms-in-courses/forms4-3",
+  "permalink": "/docs/creating-forms/forms-in-courses/forms4-3",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/21. creating-forms/forms-in-courses/forms4-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to MkDocs",
+    "permalink": "/docs/creating-forms/forms-in-courses/forms-element"
+  },
+  "next": {
+    "title": "Welcome to MkDocs",
+    "permalink": "/docs/creating-forms/forms-in-courses/forms4-4"
+  }
+}

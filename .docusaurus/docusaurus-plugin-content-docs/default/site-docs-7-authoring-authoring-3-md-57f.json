@@ -8,14 +8,14 @@
   "slug": "/authoring/authoring3",
   "permalink": "/docs/authoring/authoring3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7. authoring/authoring3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7. authoring/authoring3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "'작성' 섹션의 작업",
-    "permalink": "/docs/authoring/authoring2"
+    "permalink": "/docs/authoring/actions-in-the-authoring-section"
   },
   "next": {
     "title": "정보 페이지 설정",

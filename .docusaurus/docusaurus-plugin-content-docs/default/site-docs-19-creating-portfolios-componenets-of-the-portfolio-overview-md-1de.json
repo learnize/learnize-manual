@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/componenets-of-the-portfolio/overview",
+  "id": "creating-portfolios/componenets-of-the-portfolio/overview",
+  "title": "포트폴리오 구성 요소",
+  "description": "모든 Learnize 사용자는 개인 메뉴를 통해 개인 포트폴리오 영역에 액세스할 수 있습니다. 다음 차트는 포트폴리오 2.0의 개요 페이지를 보여줍니다.",
+  "source": "@site/docs/19. creating-portfolios/componenets-of-the-portfolio/overview.md",
+  "sourceDirName": "19. creating-portfolios/componenets-of-the-portfolio",
+  "slug": "/creating-portfolios/componenets-of-the-portfolio/overview",
+  "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/overview",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/componenets-of-the-portfolio/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오의 요소",
+    "permalink": "/docs/category/포트폴리오의-요소"
+  },
+  "next": {
+    "title": "내 포트폴리오 바인더",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders"
+  }
+}

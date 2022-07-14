@@ -8,9 +8,9 @@
 
 ## 과정 요소: LTI 페이지
 
-![https://docs.openolat.org/manual_user/course_elements/assets/basiclti.png](https://docs.openolat.org/manual_user/course_elements/assets/basiclti.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/basiclti.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/basiclti.png)
 
-코스 요소 "LTI 페이지"를 통해 OpenOlat 창에 콘텐츠가 표시되기 전에 코스에 외부 학습 애플리케이션을 통합할 수 있습니다. LTI는 "학습 도구 상호 운용성"을 의미하며 채팅, 미디어 Wiki, 테스트 편집기 또는 가상 랩과 같은 외부 학습 응용 프로그램을 포함하기 위한 IMS 표준입니다. LTI에 대한 자세한 정보는 LTI 프로젝트 페이지에서 확인할 수 있습니다. [__ http://www.imsglobal.org/lti/](http://www.imsglobal.org/lti/)
+코스 요소 "LTI 페이지"를 통해 Learnize 창에 콘텐츠가 표시되기 전에 코스에 외부 학습 애플리케이션을 통합할 수 있습니다. LTI는 "학습 도구 상호 운용성"을 의미하며 채팅, 미디어 Wiki, 테스트 편집기 또는 가상 랩과 같은 외부 학습 응용 프로그램을 포함하기 위한 IMS 표준입니다. LTI에 대한 자세한 정보는 LTI 프로젝트 페이지에서 확인할 수 있습니다. [__ http://www.imsglobal.co.kr/lti/](http://www.imsglobal.co.kr/lti/)
 
 키 및 암호와 함께 "페이지 콘텐츠" 탭에서 참조할 URL을 지정합니다. 코스 탐색에서 이 LTI 페이지를 선택할 때 사용자는 먼저 개인 정보 보호를 위해 데이터 전송을 수락해야 사용자 데이터, 코스 정보 또는 키가 백그라운드에서 암호로 제어되는 임베디드 애플리케이션으로 전송됩니다. 학습 응용 프로그램은 액세스 권한을 확인하고 유효한 키로 액세스 권한을 부여합니다. 데이터 전송을 위한 새로운 쿼리는 전송된 데이터와 관련하여 장치의 구성이 변경된 경우에만 나중에 다시 발생합니다.
 
@@ -20,7 +20,7 @@ LTI 구성 페이지
 
 다음 매개변수를 구성할 수 있습니다.
 
-**URL: "** [https://tools.vcrp.de/lti_quiz/lti_quizwand.php](https://tools.vcrp.de/lti_quiz/lti_quizwand.php) " 형식으로 외부 학습 애플리케이션의 주소를 표시하십시오 . 이 예에 대한 추가 정보는 [여기](https://olat.vcrp.de/url/RepositoryEntry/1502282140/CourseNode/94291000213998) 에서 찾을 수 있습니다 .
+**URL: "** [http://tools.vcrp.de/lti_quiz/lti_quizwand.php](http://tools.vcrp.de/lti_quiz/lti_quizwand.php) " 형식으로 외부 학습 애플리케이션의 주소를 표시하십시오 . 이 예에 대한 추가 정보는 [여기](http://olat.vcrp.de/url/RepositoryEntry/1502282140/CourseNode/94291000213998) 에서 찾을 수 있습니다 .
 
 **키:** 외부 학습 애플리케이션 공급자가 제공한 키를 표시하십시오(위의 예에서는 "lti_quiz"가 됨).
 
@@ -38,21 +38,21 @@ LTI 구성 페이지
 
 ---
 
-**OpenOlat 역할** : 여기에서 LTI 리소스를 시작할 때 사용자가 갖게 될 역할을 구성할 수 있습니다. 세 가지 OpenOlat 역할 Author, Coach 및 Participant가 지원됩니다. 각 역할에 대해 매핑은 LTI 리소스의 해당 역할에 정의될 수 있습니다. 다음 LTI 역할을 사용할 수 있습니다. 학습자, 강사, 관리자, 조교, 콘텐츠 개발자 및 멘토 .
+**Learnize 역할** : 여기에서 LTI 리소스를 시작할 때 사용자가 갖게 될 역할을 구성할 수 있습니다. 세 가지 Learnize 역할 Author, Coach 및 Participant가 지원됩니다. 각 역할에 대해 매핑은 LTI 리소스의 해당 역할에 정의될 수 있습니다. 다음 LTI 역할을 사용할 수 있습니다. 학습자, 강사, 관리자, 조교, 콘텐츠 개발자 및 멘토 .
 
 ---
 
-**점수 전송** : LTI 리소스가 LTI 1.1 표준을 사용하여 OpenOlat에 전송할 수 있는 점수 값을 생성하는 경우 이 확인란을 선택합니다. 이것은 선택 사항입니다. 제출된 점수는 LTI 과정 요소의 사용자 시작 화면과 이 과정의 효율성 설명에 나타납니다. LTI 표준에 따르면 0과 1 사이의 값만 허용됩니다.
+**점수 전송** : LTI 리소스가 LTI 1.1 표준을 사용하여 Learnize에 전송할 수 있는 점수 값을 생성하는 경우 이 확인란을 선택합니다. 이것은 선택 사항입니다. 제출된 점수는 LTI 과정 요소의 사용자 시작 화면과 이 과정의 효율성 설명에 나타납니다. LTI 표준에 따르면 0과 1 사이의 값만 허용됩니다.
 
 "점수 이전" 옵션이 활성화된 경우 LTI 페이지를 평가 가능한 코스 요소로 코스에 추가할 수 있으며, 이는 평가 도구에 나타납니다. 그 외에도 LTI 과정 요소의 홈페이지에도 점수가 표시됩니다.
 
-**스케일링 팩터** : 스케일링 팩터를 사용하면 LTI 사양에 따라 0과 1 사이의 값을 가져야 하는 LTI 결과를 OpenOlat 코스에 대해 보다 실용적인 값으로 스케일링할 수 있습니다. 예를 들어, LTI 시험이 OpenOlat에서 최대 10점을 가지도록 하려면 배율 인수를 "10"으로 지정해야 합니다. 전송된 점수를 수정하지 않으려면 계수 "1"을 사용하십시오.
+**스케일링 팩터** : 스케일링 팩터를 사용하면 LTI 사양에 따라 0과 1 사이의 값을 가져야 하는 LTI 결과를 Learnize 코스에 대해 보다 실용적인 값으로 스케일링할 수 있습니다. 예를 들어, LTI 시험이 Learnize에서 최대 10점을 가지도록 하려면 배율 인수를 "10"으로 지정해야 합니다. 전송된 점수를 수정하지 않으려면 계수 "1"을 사용하십시오.
 
 **합격에 필요한 점수** : 여기에서 LTI 과정 요소가 합격으로 간주되는 시기를 정의하기 위해 선택적 컷 값을 구성할 수 있습니다. 컷 값은 LTI에서 전송한 원시 값이 아니라 스케일링 후의 점수 값과 관련이 있습니다. 위의 예에서 "5"의 절단 값은 "50%"와 같습니다.
 
 ---
 
-**표시** : 코스 레이아웃에 LTI 리소스를 포함하려면 "코스에 포함(iFrame)" 옵션을 선택합니다. "모듈만 표시, LMS(iFrame) 숨기기" 옵션은 LTI 모듈이 활성화되어 있는 동안 OpenOlat을 완전히 숨깁니다. "새 창에서 열기" 옵션을 사용하면 LTI 리소스가 별도의 창에서 열립니다. 리소스에 많은 공간이 필요하거나 다른 코스 요소와 병행하여 사용해야 하는 경우에 유용할 수 있습니다.
+**표시** : 코스 레이아웃에 LTI 리소스를 포함하려면 "코스에 포함(iFrame)" 옵션을 선택합니다. "모듈만 표시, LMS(iFrame) 숨기기" 옵션은 LTI 모듈이 활성화되어 있는 동안 Learnize을 완전히 숨깁니다. "새 창에서 열기" 옵션을 사용하면 LTI 리소스가 별도의 창에서 열립니다. 리소스에 많은 공간이 필요하거나 다른 코스 요소와 병행하여 사용해야 하는 경우에 유용할 수 있습니다.
 
 **디스플레이 높이** : "자동" 또는 자동 기능이 제대로 작동하지 않을 경우 명시적 크기를 선택합니다.
 
@@ -64,7 +64,7 @@ LTI 구성 페이지
 
 ## 코스 요소: 주제 할당
 
-![https://docs.openolat.org/manual_user/course_elements/assets/projectbroker.png](https://docs.openolat.org/manual_user/course_elements/assets/projectbroker.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/projectbroker.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/projectbroker.png)
 
 코스 요소 "주제 할당"은 감독을 받기 전에 코스의 학기 논문에 대한 주제를 발표하려는 경우에 유용합니다. 코스 작성자는 주제 할당의 세부 구성을 결정합니다. 이것은 예를 들어 누가 주제를 발표하고 감독할 권한이 있는지, 주제가 어떻게 설명되어야 하는지 또는 한 코스 참가자가 선택할 수 있는 주제 수로 구성됩니다. 이 코스 요소를 특별하게 만드는 것은 코스 작성자가 아니라 주제 작성자가 이러한 주제를 발표하고 감독한다는 사실입니다.
 
@@ -94,7 +94,7 @@ LTI 구성 페이지
 
 "필드 삭제"를 통해 추가 필드를 삭제할 수 있습니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Themenvergabe_Zusatz_EN.png](https://docs.openolat.org/manual_user/course_elements/assets/Themenvergabe_Zusatz_EN.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Themenvergabe_Zusatz_EN.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Themenvergabe_Zusatz_EN.png)
 
 **날짜 관리:**
 
@@ -110,7 +110,7 @@ LTI 구성 페이지
 
 ### **주제 작성자를 지정하는 방법**
 
-"담당자" 탭에서 주제를 발표하고 감독할 수 있는 OpenOlat 사용자를 추가합니다. 이러한 사람들이 반드시 저작자 권리를 보유할 필요는 없습니다.
+"담당자" 탭에서 주제를 발표하고 감독할 수 있는 Learnize 사용자를 추가합니다. 이러한 사람들이 반드시 저작자 권리를 보유할 필요는 없습니다.
 
 이미 주제를 발표한 주제 작성자를 제거하면 그는 계속해서 주제를 감독할 수 있습니다. 그러나 이 사람은 더 이상 새 주제를 발표할 수 없습니다.
 
@@ -166,7 +166,7 @@ LTI 구성 페이지
 
 **주제 선택/선택 해제 시 이메일 알림:** 이 옵션을 선택하면 코스 참가자가 주제를 선택하거나 선택 취소하는 경우 이메일 알림을 받게 됩니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Topic%20Assignment_EN.png](https://docs.openolat.org/manual_user/course_elements/assets/Topic%20Assignment_EN.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Topic%20Assignment_EN.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Topic%20Assignment_EN.png)
 
 "주제 편집"을 통해 편집 모드로 이동합니다.
 
@@ -180,9 +180,9 @@ LTI 구성 페이지
 
 주제 지정 구성에서 주제 작성자가 코스 참가자를 수락해야 하는 경우 누군가가 귀하의 주제에 지원하는 즉시 표에 "참가자 확인"이라는 메모가 표시됩니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Topic_Assignement_TN_EN.png](https://docs.openolat.org/manual_user/course_elements/assets/Topic_Assignement_TN_EN.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Topic_Assignement_TN_EN.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Topic_Assignement_TN_EN.png)
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Topic_Assignement_TN2_EN.png](https://docs.openolat.org/manual_user/course_elements/assets/Topic_Assignement_TN2_EN.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Topic_Assignement_TN2_EN.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Topic_Assignement_TN2_EN.png)
 
 이제 "주제 할당" 탭을 열고 후보자의 지원을 수락하십시오.
 
@@ -202,17 +202,17 @@ LTI 구성 페이지
 
 ## 코스 요소: 링크 목록
 
-![https://docs.openolat.org/manual_user/course_elements/assets/linklist.png](https://docs.openolat.org/manual_user/course_elements/assets/linklist.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/linklist.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/linklist.png)
 
 코스 요소 "링크 목록"을 통해 작성자는 코스와 관련된 링크 모음을 신속하게 조합할 수 있습니다. HTML 능숙도가 필요하지 않습니다. 코스 편집기를 열고 링크 목록 코스 요소로 이동한 다음 "구성" 탭을 열고 링크로 추가하려는 웹사이트의 URL을 입력하거나 돋보기 아이콘을 클릭하여 대상 파일을 선택하기만 하면 됩니다. 이제 열려 있는 모달 창에서 파일을 업로드할 수 있습니다. 그런 다음 링크를 새 창에서 열 것인지 아니면 같은 창에서 열 것인지 선택하고 링크 제목을 입력합니다. 링크에 대한 설명이나 기타 추가 정보는 주소 필드 아래에 있는 설명 필드를 통해 추가할 수 있습니다. 휴지통 / + 버튼을 사용하여 링크를 제거하거나 추가합니다.
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Linklist_EN.png](https://docs.openolat.org/manual_user/course_elements/assets/Linklist_EN.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Linklist_EN.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Linklist_EN.png)
 
-![https://docs.openolat.org/manual_user/course_elements/assets/Linklist_output_EN.png](https://docs.openolat.org/manual_user/course_elements/assets/Linklist_output_EN.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/Linklist_output_EN.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/Linklist_output_EN.png)
 
 ## 코스 요소 "날짜 지정"
 
-![https://docs.openolat.org/manual_user/course_elements/assets/dateentry.png](https://docs.openolat.org/manual_user/course_elements/assets/dateentry.png)
+![http://docs.learnize.co.kr/manual_user/course_elements/assets/dateentry.png](http://docs.learnize.co.kr/manual_user/course_elements/assets/dateentry.png)
 
 여기에서 사용자가 등록할 수 있는 날짜를 만들고 편집할 수 있습니다. 등록 취소가 허용되는지 여부도 정의할 수 있습니다. 또한 참가자를 관리할 수 있습니다.
 

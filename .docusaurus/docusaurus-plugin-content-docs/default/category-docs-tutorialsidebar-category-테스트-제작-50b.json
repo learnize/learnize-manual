@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "Welcome to MkDocs",
-      "permalink": "/docs/creating-forms/forms2"
+      "permalink": "/docs/creating-forms/forms-in-courses/ePortfolio-template"
     },
     "next": {
-      "title": "테스트 제작",
-      "permalink": "/docs/category/테스트-제작-1"
+      "title": "테스트에 대한 일반 정보",
+      "permalink": "/docs/creating-tests/general-information"
     }
   }
 }

@@ -8,14 +8,14 @@
   "slug": "/creating-portfolios/portfolio4",
   "permalink": "/docs/creating-portfolios/portfolio4",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio4.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/portfolio4.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "포트폴리오 바인더의 3단계",
-    "permalink": "/docs/creating-portfolios/portfolio3"
+    "title": "포트폴리오 - 일반 정보",
+    "permalink": "/docs/creating-portfolios/general-information"
   },
   "next": {
     "title": "항목의 다중 사용",

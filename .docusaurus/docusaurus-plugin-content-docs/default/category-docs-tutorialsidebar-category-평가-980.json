@@ -1,0 +1,16 @@
+{
+  "title": "평가",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/평가",
+  "permalink": "/docs/category/평가",
+  "navigation": {
+    "previous": {
+      "title": "쿠르스바우슈타인 \"미디어사이트\"",
+      "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-mediasite"
+    },
+    "next": {
+      "title": "평가",
+      "permalink": "/docs/types-of-course-element/assessment/overview"
+    }
+  }
+}

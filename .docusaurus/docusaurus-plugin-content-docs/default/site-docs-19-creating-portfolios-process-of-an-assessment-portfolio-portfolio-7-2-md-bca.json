@@ -1,0 +1,24 @@
+{
+  "unversionedId": "creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2",
+  "id": "creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2",
+  "title": "포트폴리오 템플릿: 생성",
+  "description": "예를 들어 Learnize 과정에서 강사가 관리하는 평가 포트폴리오를 사용하려면 먼저 포트폴리오 템플릿이 필요합니다.",
+  "source": "@site/docs/19. creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2.md",
+  "sourceDirName": "19. creating-portfolios/process-of-an-assessment-portfolio",
+  "slug": "/creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2",
+  "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/process-of-an-assessment-portfolio/portfolio7-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "평가 포트폴리오 프로세스",
+    "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/overview"
+  },
+  "next": {
+    "title": "포트폴리오 템플릿: 관리 및 편집",
+    "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio7-3"
+  }
+}

@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "주제 생성 및 관리를 위한 3단계",
-      "permalink": "/docs/managing-topics/topic_assignment1"
+      "permalink": "/docs/managing-topics/three-step-to-create-and-manage-topics"
     },
     "next": {
-      "title": "폼 제작",
-      "permalink": "/docs/category/폼-제작-1"
+      "title": "Welcome to MkDocs",
+      "permalink": "/docs/creating-forms/general-information"
     }
   }
 }

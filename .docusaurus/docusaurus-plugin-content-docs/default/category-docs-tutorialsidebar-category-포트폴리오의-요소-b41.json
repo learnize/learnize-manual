@@ -1,0 +1,16 @@
+{
+  "title": "포트폴리오의 요소",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/포트폴리오의-요소",
+  "permalink": "/docs/category/포트폴리오의-요소",
+  "navigation": {
+    "previous": {
+      "title": "포트폴리오 - 일반 정보",
+      "permalink": "/docs/creating-portfolios/general-information"
+    },
+    "next": {
+      "title": "포트폴리오 구성 요소",
+      "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/overview"
+    }
+  }
+}

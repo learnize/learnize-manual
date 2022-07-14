@@ -1,0 +1,27 @@
+{
+  "unversionedId": "how-to/create-a-bulk-assessment",
+  "id": "how-to/create-a-bulk-assessment",
+  "title": "... 제출 작업에 대한 일괄 평가 생성",
+  "description": "일괄 평가를 통해 주어진 시간에 여러 코스 참가자를 동시에 평가할 수 있습니다. 탭이나 쉼표로 구분된 값이 있는 행 목록만 있으면 됩니다. 항상 사용자 ID(사용자 이름, 등록된 이메일 주소 또는 기관 식별자), 점수, 통과 상태 및 원하는 경우 의견이 필요합니다.",
+  "source": "@site/docs/11. how-to/create-a-bulk-assessment.md",
+  "sourceDirName": "11. how-to",
+  "slug": "/how-to/create-a-bulk-assessment",
+  "permalink": "/docs/how-to/create-a-bulk-assessment",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. how-to/create-a-bulk-assessment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "하는 방법",
+    "permalink": "/docs/category/하는-방법"
+  },
+  "next": {
+    "title": "... CSS를 사용하여 코스 디자인 사용자 지정(전문가)",
+    "permalink": "/docs/how-to/customize-the-course-design"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/process-of-an-assessment-portfolio/template-administration",
+  "id": "creating-portfolios/process-of-an-assessment-portfolio/template-administration",
+  "title": "포트폴리오 템플릿: 관리 및 편집",
+  "description": "원하는 Portfolio 2.0 템플릿 \"내 항목\" 아래의 작성 영역에서 엽니다.",
+  "source": "@site/docs/19. creating-portfolios/process-of-an-assessment-portfolio/template-administration.md",
+  "sourceDirName": "19. creating-portfolios/process-of-an-assessment-portfolio",
+  "slug": "/creating-portfolios/process-of-an-assessment-portfolio/template-administration",
+  "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/template-administration",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/process-of-an-assessment-portfolio/template-administration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 템플릿: 생성",
+    "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/template-creation"
+  },
+  "next": {
+    "title": "포트폴리오 작업 생성",
+    "permalink": "/docs/creating-portfolios/process-of-an-assessment-portfolio/creating-portfolio-tasks"
+  }
+}

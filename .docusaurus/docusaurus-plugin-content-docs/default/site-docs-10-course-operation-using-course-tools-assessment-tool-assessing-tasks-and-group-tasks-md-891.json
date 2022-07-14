@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks",
+  "id": "course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks",
+  "title": "작업 및 그룹 작업 평가",
+  "description": "여기에서 Learnize \"평가 도구\"를 사용하여 작업 및 그룹 작업에 대한 평가를 수행하는 방법을 배웁니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks.md",
+  "sourceDirName": "10. course-operation/using-course-tools/assessment-tool",
+  "slug": "/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks",
+  "permalink": "/docs/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 모듈 평가",
+    "permalink": "/docs/course-operation/using-course-tools/assessment-tool/assessment-of-course-modules"
+  },
+  "next": {
+    "title": "테스트 평가",
+    "permalink": "/docs/course-operation/using-course-tools/assessment-tool/assessing-tests"
+  }
+}

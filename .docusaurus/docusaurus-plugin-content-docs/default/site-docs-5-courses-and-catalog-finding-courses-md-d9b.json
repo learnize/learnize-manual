@@ -1,0 +1,27 @@
+{
+  "unversionedId": "courses-and-catalog/finding-courses",
+  "id": "courses-and-catalog/finding-courses",
+  "title": "코스 찾기",
+  "description": "\"과정\" 메뉴 항목을 통해 과정 및 사용 가능한 기타 학습 리소스에 액세스할 수 있습니다. 상단의 기본 탐색 메뉴에서 \"과정\" 메뉴 항목을 클릭합니다.",
+  "source": "@site/docs/5. courses-and-catalog/finding-courses.md",
+  "sourceDirName": "5. courses-and-catalog",
+  "slug": "/courses-and-catalog/finding-courses",
+  "permalink": "/docs/courses-and-catalog/finding-courses",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5. courses-and-catalog/finding-courses.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스와 카탈로그",
+    "permalink": "/docs/category/코스와-카탈로그"
+  },
+  "next": {
+    "title": "정보 페이지",
+    "permalink": "/docs/courses-and-catalog/info-page"
+  }
+}

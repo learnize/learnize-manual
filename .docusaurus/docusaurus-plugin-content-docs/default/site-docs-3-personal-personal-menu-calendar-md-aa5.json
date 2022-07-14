@@ -1,14 +1,14 @@
 {
   "unversionedId": "personal/personal-menu/calendar",
   "id": "personal/personal-menu/calendar",
-  "title": "세션 시간 초과 및 로그아웃",
-  "description": "Learnize는 모든 사용자의 세션을 관리합니다. 각 클릭(예: 테스트의 질문)은 세션 시간을 다시 시작합니다. 시스템 관리자는 필요에 따라 세션 시간을 설정할 수 있습니다. Learnize에서 해당 세션 시간 내에 클릭이 없으면 세션이 종료됩니다.",
+  "title": "달력",
+  "description": "calendar",
   "source": "@site/docs/3. personal/personal-menu/calendar.md",
   "sourceDirName": "3. personal/personal-menu",
   "slug": "/personal/personal-menu/calendar",
   "permalink": "/docs/personal/personal-menu/calendar",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/personal-menu/calendar.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. personal/personal-menu/calendar.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "개인메뉴 종류",
+    "title": "개요",
     "permalink": "/docs/personal/personal-menu/overview"
   },
   "next": {

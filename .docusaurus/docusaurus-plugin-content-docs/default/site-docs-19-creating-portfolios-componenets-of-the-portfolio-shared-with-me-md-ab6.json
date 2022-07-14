@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/componenets-of-the-portfolio/shared-with-me",
+  "id": "creating-portfolios/componenets-of-the-portfolio/shared-with-me",
+  "title": "나와 공유됨",
+  "description": "http://docs.learnize.co.kr/manualuser/portfolio/assets/portfolioshared.png",
+  "source": "@site/docs/19. creating-portfolios/componenets-of-the-portfolio/shared-with-me.md",
+  "sourceDirName": "19. creating-portfolios/componenets-of-the-portfolio",
+  "slug": "/creating-portfolios/componenets-of-the-portfolio/shared-with-me",
+  "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/shared-with-me",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/componenets-of-the-portfolio/shared-with-me.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "내가 공유함",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/shared-by-me"
+  },
+  "next": {
+    "title": "포트폴리오 바인더의 3단계",
+    "permalink": "/docs/creating-portfolios/three-steps-to-your-portfolio-binder"
+  }
+}

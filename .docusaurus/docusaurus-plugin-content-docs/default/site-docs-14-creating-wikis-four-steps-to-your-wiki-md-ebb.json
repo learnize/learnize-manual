@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-wikis/four-steps-to-your-wiki",
+  "id": "creating-wikis/four-steps-to-your-wiki",
+  "title": "위키를 만드는 4단계",
+  "description": "이 가이드를 사용하면 필요에 따라 수정하기 전에 즉시 과정에 대한 Wiki를 만들 수 있습니다.",
+  "source": "@site/docs/14. creating-wikis/four-steps-to-your-wiki.md",
+  "sourceDirName": "14. creating-wikis",
+  "slug": "/creating-wikis/four-steps-to-your-wiki",
+  "permalink": "/docs/creating-wikis/four-steps-to-your-wiki",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/14. creating-wikis/four-steps-to-your-wiki.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "위키 제작",
+    "permalink": "/docs/category/위키-제작"
+  },
+  "next": {
+    "title": "비디오 제작",
+    "permalink": "/docs/category/비디오-제작"
+  }
+}

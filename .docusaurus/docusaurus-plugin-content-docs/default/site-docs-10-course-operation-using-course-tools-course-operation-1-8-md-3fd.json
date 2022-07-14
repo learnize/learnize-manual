@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course-operation/using-course-tools/course_operation1-8",
+  "id": "course-operation/using-course-tools/course_operation1-8",
+  "title": "코스 활동 기록",
+  "description": "Learnize은 참가자 및 작성자의 코스 활동을 소위 로그 파일에 기록합니다. 데이터 보관 도구 를 사용하여 해당 로그 파일을 개인 폴더로 다운로드할 수 있습니다.",
+  "source": "@site/docs/10. course-operation/using-course-tools/course_operation1-8.md",
+  "sourceDirName": "10. course-operation/using-course-tools",
+  "slug": "/course-operation/using-course-tools/course_operation1-8",
+  "permalink": "/docs/course-operation/using-course-tools/course_operation1-8",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. course-operation/using-course-tools/course_operation1-8.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "데이터 보관",
+    "permalink": "/docs/course-operation/using-course-tools/data-archiving"
+  },
+  "next": {
+    "title": "추가 코스 기능 사용하기",
+    "permalink": "/docs/course-operation/course_operation2"
+  }
+}

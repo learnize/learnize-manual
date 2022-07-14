@@ -1,0 +1,16 @@
+{
+  "title": "과정 요소의 일반 구성",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/과정-요소의-일반-구성",
+  "permalink": "/docs/category/과정-요소의-일반-구성",
+  "navigation": {
+    "previous": {
+      "title": "학습 경로 과정",
+      "permalink": "/docs/creating-courses/course-of-study/courses-of-study"
+    },
+    "next": {
+      "title": "집단",
+      "permalink": "/docs/creating-courses/general-configuration/overview"
+    }
+  }
+}

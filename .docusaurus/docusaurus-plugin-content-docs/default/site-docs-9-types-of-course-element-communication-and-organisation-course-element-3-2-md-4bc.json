@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/course_element3-2",
+  "id": "types-of-course-element/communication-and-organisation/course_element3-2",
+  "title": "가상 교실",
+  "description": "가상 교실은 음성 및 비디오 기반 동기 통신 및 콘텐츠 중재의 가능성을 제공합니다. 온라인 프레젠테이션, 웨비나, 화상 회의, 온라인 워크샵, 가상 그룹 작업 등에 적합합니다.",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/course_element3-2.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/course_element3-2",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/course_element3-2",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/course_element3-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 타입",
+    "permalink": "/docs/category/코스-요소-타입-2"
+  },
+  "next": {
+    "title": "코스 요소 Adobe Connect",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course_element3-3"
+  }
+}

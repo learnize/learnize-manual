@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-tests/changing-from-version",
+  "id": "creating-tests/changing-from-version",
+  "title": "QTI 1.2에서 QTI 2.1로 변경",
+  "description": "주목",
+  "source": "@site/docs/22. creating-tests/changing-from-version.md",
+  "sourceDirName": "22. creating-tests",
+  "slug": "/creating-tests/changing-from-version",
+  "permalink": "/docs/creating-tests/changing-from-version",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/changing-from-version.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 수준의 테스트",
+    "permalink": "/docs/creating-tests/tests-at-course-level"
+  },
+  "next": {
+    "title": "문제 은행",
+    "permalink": "/docs/category/문제-은행"
+  }
+}

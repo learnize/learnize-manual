@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-forms/three-steps-to-your-form",
+  "id": "creating-forms/three-steps-to-your-form",
+  "title": "Welcome to MkDocs",
+  "description": "For full documentation visit mkdocs.co.kr.",
+  "source": "@site/docs/21. creating-forms/three-steps-to-your-form.md",
+  "sourceDirName": "21. creating-forms",
+  "slug": "/creating-forms/three-steps-to-your-form",
+  "permalink": "/docs/creating-forms/three-steps-to-your-form",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/21. creating-forms/three-steps-to-your-form.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to MkDocs",
+    "permalink": "/docs/creating-forms/general-information"
+  },
+  "next": {
+    "title": "폼 에디터",
+    "permalink": "/docs/category/폼-에디터"
+  }
+}

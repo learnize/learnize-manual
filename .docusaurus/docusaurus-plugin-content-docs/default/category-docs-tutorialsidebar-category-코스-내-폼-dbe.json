@@ -1,0 +1,16 @@
+{
+  "title": "코스 내 폼",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/코스-내-폼",
+  "permalink": "/docs/category/코스-내-폼",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to MkDocs",
+      "permalink": "/docs/creating-forms/form-editor/question-rules"
+    },
+    "next": {
+      "title": "Welcome to MkDocs",
+      "permalink": "/docs/creating-forms/forms-in-courses/overview"
+    }
+  }
+}

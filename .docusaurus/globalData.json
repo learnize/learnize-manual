@@ -11,513 +11,508 @@
           "mainDocId": "introduction/about-learnize",
           "docs": [
             {
-              "id": "authoring/authoring1",
-              "path": "/docs/authoring/authoring1",
+              "id": "authoring/actions-in-the-authoring-section",
+              "path": "/docs/authoring/actions-in-the-authoring-section",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "authoring/authoring2",
-              "path": "/docs/authoring/authoring2",
+              "id": "authoring/detailed-view-od-learning-resources",
+              "path": "/docs/authoring/detailed-view-od-learning-resources",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "authoring/authoring3",
-              "path": "/docs/authoring/authoring3",
+              "id": "authoring/set-up-info-page",
+              "path": "/docs/authoring/set-up-info-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "authoring/authoring4",
-              "path": "/docs/authoring/authoring4",
+              "id": "authoring/technical-information-on-resources-and-usage",
+              "path": "/docs/authoring/technical-information-on-resources-and-usage",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "authoring/authoring5",
-              "path": "/docs/authoring/authoring5",
+              "id": "authoring/various-types-of-learning-resources",
+              "path": "/docs/authoring/various-types-of-learning-resources",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더 2/course_operation1-5-1",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-1",
+              "id": "course-operation/using-additional-course-features",
+              "path": "/docs/course-operation/using-additional-course-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-2",
+              "id": "course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/assessing-tasks-and-group-tasks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더 2/course_operation1-5-3",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더 2/course_operation1-5-3",
+              "id": "course-operation/using-course-tools/assessment-tool/assessing-tests",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/assessing-tests",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-1",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-1",
+              "id": "course-operation/using-course-tools/assessment-tool/assessment-of-course-modules",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/assessment-of-course-modules",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-2",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-2",
+              "id": "course-operation/using-course-tools/assessment-tool/assessment-of-learners",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/assessment-of-learners",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-3",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-3",
+              "id": "course-operation/using-course-tools/assessment-tool/grading-evaluation-scale",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/grading-evaluation-scale",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-4",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-4",
+              "id": "course-operation/using-course-tools/assessment-tool/overview",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-5",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-5",
+              "id": "course-operation/using-course-tools/assessment-tool/tab-users",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/tab-users",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-6",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-6",
+              "id": "course-operation/using-course-tools/assessment-tool/the-assessment-form",
+              "path": "/docs/course-operation/using-course-tools/assessment-tool/the-assessment-form",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-7",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-7",
+              "id": "course-operation/using-course-tools/course-reminders",
+              "path": "/docs/course-operation/using-course-tools/course-reminders",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/임시 폴더/course_operation1-4-8",
-              "path": "/docs/course-operation/임시 폴더/임시 폴더/course_operation1-4-8",
+              "id": "course-operation/using-course-tools/data-archiving",
+              "path": "/docs/course-operation/using-course-tools/data-archiving",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/course_operation1-1",
-              "path": "/docs/course-operation/임시 폴더/course_operation1-1",
+              "id": "course-operation/using-course-tools/lecture-and-absences/lectures-teacher",
+              "path": "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-teacher",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/course_operation1-2",
-              "path": "/docs/course-operation/임시 폴더/course_operation1-2",
+              "id": "course-operation/using-course-tools/lecture-and-absences/lectures-user",
+              "path": "/docs/course-operation/using-course-tools/lecture-and-absences/lectures-user",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/course_operation1-3",
-              "path": "/docs/course-operation/임시 폴더/course_operation1-3",
+              "id": "course-operation/using-course-tools/lecture-and-absences/overview",
+              "path": "/docs/course-operation/using-course-tools/lecture-and-absences/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/course_operation1-6",
-              "path": "/docs/course-operation/임시 폴더/course_operation1-6",
+              "id": "course-operation/using-course-tools/member-management",
+              "path": "/docs/course-operation/using-course-tools/member-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/course_operation1-7",
-              "path": "/docs/course-operation/임시 폴더/course_operation1-7",
+              "id": "course-operation/using-course-tools/overview",
+              "path": "/docs/course-operation/using-course-tools/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/임시 폴더/course_operation1-8",
-              "path": "/docs/course-operation/임시 폴더/course_operation1-8",
+              "id": "course-operation/using-course-tools/record-of-course-activities",
+              "path": "/docs/course-operation/using-course-tools/record-of-course-activities",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "course-operation/course_operation2",
-              "path": "/docs/course-operation/course_operation2",
+              "id": "course-operation/using-course-tools/storage-folder",
+              "path": "/docs/course-operation/using-course-tools/storage-folder",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "courses-and-catalog/course_and_catalog1",
-              "path": "/docs/courses-and-catalog/course_and_catalog1",
+              "id": "courses-and-catalog/finding-courses",
+              "path": "/docs/courses-and-catalog/finding-courses",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "courses-and-catalog/course_and_catalog2",
-              "path": "/docs/courses-and-catalog/course_and_catalog2",
+              "id": "courses-and-catalog/info-page",
+              "path": "/docs/courses-and-catalog/info-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-blogs/resource_blog1",
-              "path": "/docs/creating-blogs/resource_blog1",
+              "id": "creating-blogs/blog",
+              "path": "/docs/creating-blogs/blog",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-blogs/resource_blog2",
-              "path": "/docs/creating-blogs/resource_blog2",
+              "id": "creating-blogs/fourr-stpes-to-your-blog",
+              "path": "/docs/creating-blogs/fourr-stpes-to-your-blog",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더/course_create4-1",
-              "path": "/docs/creating-courses/임시 폴더/course_create4-1",
+              "id": "creating-courses/access-configuration",
+              "path": "/docs/creating-courses/access-configuration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더/course_create4-2",
-              "path": "/docs/creating-courses/임시 폴더/course_create4-2",
+              "id": "creating-courses/course-of-study/course-of-study",
+              "path": "/docs/creating-courses/course-of-study/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더/course_create4-3",
-              "path": "/docs/creating-courses/임시 폴더/course_create4-3",
+              "id": "creating-courses/course-of-study/courses-of-study",
+              "path": "/docs/creating-courses/course-of-study/courses-of-study",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더/course_create4-4",
-              "path": "/docs/creating-courses/임시 폴더/course_create4-4",
+              "id": "creating-courses/course-of-study/creating-learning-path-courses",
+              "path": "/docs/creating-courses/course-of-study/creating-learning-path-courses",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더2/course_create5-1",
-              "path": "/docs/creating-courses/임시 폴더2/course_create5-1",
+              "id": "creating-courses/course-of-study/overview",
+              "path": "/docs/creating-courses/course-of-study/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더2/course_create5-2",
-              "path": "/docs/creating-courses/임시 폴더2/course_create5-2",
+              "id": "creating-courses/course-settings/design-possibilities-of-courses",
+              "path": "/docs/creating-courses/course-settings/design-possibilities-of-courses",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더2/course_create5-3",
-              "path": "/docs/creating-courses/임시 폴더2/course_create5-3",
+              "id": "creating-courses/course-settings/lti-access",
+              "path": "/docs/creating-courses/course-settings/lti-access",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더3/course_create7-1",
-              "path": "/docs/creating-courses/임시 폴더3/course_create7-1",
+              "id": "creating-courses/course-settings/overview",
+              "path": "/docs/creating-courses/course-settings/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더3/course_create7-2",
-              "path": "/docs/creating-courses/임시 폴더3/course_create7-2",
+              "id": "creating-courses/general-configuration/access-restrictions",
+              "path": "/docs/creating-courses/general-configuration/access-restrictions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/임시 폴더3/course_create7-3",
-              "path": "/docs/creating-courses/임시 폴더3/course_create7-3",
+              "id": "creating-courses/general-configuration/deleting-moving-and-copying-course-elements",
+              "path": "/docs/creating-courses/general-configuration/deleting-moving-and-copying-course-elements",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/course_create1",
-              "path": "/docs/creating-courses/course_create1",
+              "id": "creating-courses/general-configuration/overview",
+              "path": "/docs/creating-courses/general-configuration/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/course_create2",
-              "path": "/docs/creating-courses/course_create2",
+              "id": "creating-courses/general-information",
+              "path": "/docs/creating-courses/general-information",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/course_create3",
-              "path": "/docs/creating-courses/course_create3",
+              "id": "creating-courses/in-five-steps-to-your-course-with-the-course-editor",
+              "path": "/docs/creating-courses/in-five-steps-to-your-course-with-the-course-editor",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/course_create6",
-              "path": "/docs/creating-courses/course_create6",
+              "id": "creating-courses/just-a-few-clicks-and-the-course-wizard",
+              "path": "/docs/creating-courses/just-a-few-clicks-and-the-course-wizard",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-courses/course_create8",
-              "path": "/docs/creating-courses/course_create8",
+              "id": "creating-courses/using-additional-course-editor-tools",
+              "path": "/docs/creating-courses/using-additional-course-editor-tools",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-cp-learning-content/resource_cp1",
-              "path": "/docs/creating-cp-learning-content/resource_cp1",
+              "id": "creating-cp-learning-content/cp-editor",
+              "path": "/docs/creating-cp-learning-content/cp-editor",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-cp-learning-content/resource_cp2",
-              "path": "/docs/creating-cp-learning-content/resource_cp2",
+              "id": "creating-cp-learning-content/in-five-steps-to-your-content-package",
+              "path": "/docs/creating-cp-learning-content/in-five-steps-to-your-content-package",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더 copy/forms4-1",
-              "path": "/docs/creating-forms/임시 폴더 copy/forms4-1",
+              "id": "creating-forms/form-editor/overview",
+              "path": "/docs/creating-forms/form-editor/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더 copy/forms4-2",
-              "path": "/docs/creating-forms/임시 폴더 copy/forms4-2",
+              "id": "creating-forms/form-editor/question-rules",
+              "path": "/docs/creating-forms/form-editor/question-rules",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더 copy/forms4-3",
-              "path": "/docs/creating-forms/임시 폴더 copy/forms4-3",
+              "id": "creating-forms/form-editor/rubric",
+              "path": "/docs/creating-forms/form-editor/rubric",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더 copy/forms4-4",
-              "path": "/docs/creating-forms/임시 폴더 copy/forms4-4",
+              "id": "creating-forms/forms-in-courses/ePortfolio-template",
+              "path": "/docs/creating-forms/forms-in-courses/ePortfolio-template",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더 copy/forms4-5",
-              "path": "/docs/creating-forms/임시 폴더 copy/forms4-5",
+              "id": "creating-forms/forms-in-courses/forms-element",
+              "path": "/docs/creating-forms/forms-in-courses/forms-element",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더/forms3-1",
-              "path": "/docs/creating-forms/임시 폴더/forms3-1",
+              "id": "creating-forms/forms-in-courses/overview",
+              "path": "/docs/creating-forms/forms-in-courses/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더/forms3-2",
-              "path": "/docs/creating-forms/임시 폴더/forms3-2",
+              "id": "creating-forms/forms-in-courses/questionnaires",
+              "path": "/docs/creating-forms/forms-in-courses/questionnaires",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/임시 폴더/forms3-3",
-              "path": "/docs/creating-forms/임시 폴더/forms3-3",
+              "id": "creating-forms/forms-in-courses/rubric-scoring",
+              "path": "/docs/creating-forms/forms-in-courses/rubric-scoring",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/forms1",
-              "path": "/docs/creating-forms/forms1",
+              "id": "creating-forms/general-information",
+              "path": "/docs/creating-forms/general-information",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-forms/forms2",
-              "path": "/docs/creating-forms/forms2",
+              "id": "creating-forms/three-steps-to-your-form",
+              "path": "/docs/creating-forms/three-steps-to-your-form",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-podcasts/resource_podcast1",
-              "path": "/docs/creating-podcasts/resource_podcast1",
+              "id": "creating-podcasts/four-steps-to-your-podcast",
+              "path": "/docs/creating-podcasts/four-steps-to-your-podcast",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-podcasts/resource_podcast2",
-              "path": "/docs/creating-podcasts/resource_podcast2",
+              "id": "creating-podcasts/podcast",
+              "path": "/docs/creating-podcasts/podcast",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더 copy/portfolio7-1",
-              "path": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-1",
+              "id": "creating-portfolios/competences-tags",
+              "path": "/docs/creating-portfolios/competences-tags",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더 copy/portfolio7-2",
-              "path": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-2",
+              "id": "creating-portfolios/componenets-of-the-portfolio/media-center",
+              "path": "/docs/creating-portfolios/componenets-of-the-portfolio/media-center",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더 copy/portfolio7-3",
-              "path": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-3",
+              "id": "creating-portfolios/componenets-of-the-portfolio/my-entries",
+              "path": "/docs/creating-portfolios/componenets-of-the-portfolio/my-entries",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더 copy/portfolio7-4",
-              "path": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-4",
+              "id": "creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders",
+              "path": "/docs/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더 copy/portfolio7-5",
-              "path": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-5",
+              "id": "creating-portfolios/componenets-of-the-portfolio/overview",
+              "path": "/docs/creating-portfolios/componenets-of-the-portfolio/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더 copy/portfolio7-6",
-              "path": "/docs/creating-portfolios/임시 폴더 copy/portfolio7-6",
+              "id": "creating-portfolios/componenets-of-the-portfolio/shared-by-me",
+              "path": "/docs/creating-portfolios/componenets-of-the-portfolio/shared-by-me",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더/portfolio2-1",
-              "path": "/docs/creating-portfolios/임시 폴더/portfolio2-1",
+              "id": "creating-portfolios/componenets-of-the-portfolio/shared-with-me",
+              "path": "/docs/creating-portfolios/componenets-of-the-portfolio/shared-with-me",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더/portfolio2-2",
-              "path": "/docs/creating-portfolios/임시 폴더/portfolio2-2",
+              "id": "creating-portfolios/general-information",
+              "path": "/docs/creating-portfolios/general-information",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더/portfolio2-3",
-              "path": "/docs/creating-portfolios/임시 폴더/portfolio2-3",
+              "id": "creating-portfolios/multiple-use-of-entries",
+              "path": "/docs/creating-portfolios/multiple-use-of-entries",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더/portfolio2-4",
-              "path": "/docs/creating-portfolios/임시 폴더/portfolio2-4",
+              "id": "creating-portfolios/process-of-an-assessment-portfolio/creating-portfolio-tasks",
+              "path": "/docs/creating-portfolios/process-of-an-assessment-portfolio/creating-portfolio-tasks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더/portfolio2-5",
-              "path": "/docs/creating-portfolios/임시 폴더/portfolio2-5",
+              "id": "creating-portfolios/process-of-an-assessment-portfolio/overview",
+              "path": "/docs/creating-portfolios/process-of-an-assessment-portfolio/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/임시 폴더/portfolio2-6",
-              "path": "/docs/creating-portfolios/임시 폴더/portfolio2-6",
+              "id": "creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading",
+              "path": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-assignment-grading",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/portfolio1",
-              "path": "/docs/creating-portfolios/portfolio1",
+              "id": "creating-portfolios/process-of-an-assessment-portfolio/portfolio-task",
+              "path": "/docs/creating-portfolios/process-of-an-assessment-portfolio/portfolio-task",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/portfolio3",
-              "path": "/docs/creating-portfolios/portfolio3",
+              "id": "creating-portfolios/process-of-an-assessment-portfolio/template-administration",
+              "path": "/docs/creating-portfolios/process-of-an-assessment-portfolio/template-administration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/portfolio4",
-              "path": "/docs/creating-portfolios/portfolio4",
+              "id": "creating-portfolios/process-of-an-assessment-portfolio/template-creation",
+              "path": "/docs/creating-portfolios/process-of-an-assessment-portfolio/template-creation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/portfolio5",
-              "path": "/docs/creating-portfolios/portfolio5",
+              "id": "creating-portfolios/the-portfolio-editor",
+              "path": "/docs/creating-portfolios/the-portfolio-editor",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-portfolios/portfolio6",
-              "path": "/docs/creating-portfolios/portfolio6",
+              "id": "creating-portfolios/three-steps-to-your-portfolio-binder",
+              "path": "/docs/creating-portfolios/three-steps-to-your-portfolio-binder",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tasks/task1",
-              "path": "/docs/creating-tasks/task1",
+              "id": "creating-tasks/assess-tasks",
+              "path": "/docs/creating-tasks/assess-tasks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tasks/task2",
-              "path": "/docs/creating-tasks/task2",
+              "id": "creating-tasks/task-further-configuration",
+              "path": "/docs/creating-tasks/task-further-configuration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tasks/task3",
-              "path": "/docs/creating-tasks/task3",
+              "id": "creating-tasks/three-steps-to-your-task",
+              "path": "/docs/creating-tasks/three-steps-to-your-task",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/임시 폴더/tests3-1",
-              "path": "/docs/creating-tests/임시 폴더/tests3-1",
+              "id": "creating-tests/changing-from-version",
+              "path": "/docs/creating-tests/changing-from-version",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/임시 폴더/tests3-2",
-              "path": "/docs/creating-tests/임시 폴더/tests3-2",
+              "id": "creating-tests/four-steps-to-your-test",
+              "path": "/docs/creating-tests/four-steps-to-your-test",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/임시 폴더/tests3-3",
-              "path": "/docs/creating-tests/임시 폴더/tests3-3",
+              "id": "creating-tests/general-information",
+              "path": "/docs/creating-tests/general-information",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/임시 폴더/tests3-4",
-              "path": "/docs/creating-tests/임시 폴더/tests3-4",
+              "id": "creating-tests/qti-2.1/configure-tests",
+              "path": "/docs/creating-tests/qti-2.1/configure-tests",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/tests1",
-              "path": "/docs/creating-tests/tests1",
+              "id": "creating-tests/qti-2.1/confiture-test-questions",
+              "path": "/docs/creating-tests/qti-2.1/confiture-test-questions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/tests2",
-              "path": "/docs/creating-tests/tests2",
+              "id": "creating-tests/qti-2.1/overview",
+              "path": "/docs/creating-tests/qti-2.1/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/tests4",
-              "path": "/docs/creating-tests/tests4",
+              "id": "creating-tests/qti-2.1/test-question-types",
+              "path": "/docs/creating-tests/qti-2.1/test-question-types",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/tests5",
-              "path": "/docs/creating-tests/tests5",
+              "id": "creating-tests/test-settings",
+              "path": "/docs/creating-tests/test-settings",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-tests/tests6",
-              "path": "/docs/creating-tests/tests6",
+              "id": "creating-tests/tests-at-course-level",
+              "path": "/docs/creating-tests/tests-at-course-level",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-videos/resource_video1",
-              "path": "/docs/creating-videos/resource_video1",
+              "id": "creating-videos/course-element-video",
+              "path": "/docs/creating-videos/course-element-video",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-videos/resource_video2",
-              "path": "/docs/creating-videos/resource_video2",
+              "id": "creating-videos/learning-resource-video",
+              "path": "/docs/creating-videos/learning-resource-video",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-videos/resource_video3",
-              "path": "/docs/creating-videos/resource_video3",
+              "id": "creating-videos/single-page-add-edit-video",
+              "path": "/docs/creating-videos/single-page-add-edit-video",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-videos/resource_video4",
-              "path": "/docs/creating-videos/resource_video4",
+              "id": "creating-videos/video-upload",
+              "path": "/docs/creating-videos/video-upload",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "creating-wikis/resource_wiki1",
-              "path": "/docs/creating-wikis/resource_wiki1",
+              "id": "creating-wikis/four-steps-to-your-wiki",
+              "path": "/docs/creating-wikis/four-steps-to-your-wiki",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "curriculum-management/curriculum_management1",
-              "path": "/docs/curriculum-management/curriculum_management1",
+              "id": "curriculum-management/curriculum-management",
+              "path": "/docs/curriculum-management/curriculum-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "e-assessment/e_assessment1",
-              "path": "/docs/e-assessment/e_assessment1",
+              "id": "e-assessment/assessment-mode",
+              "path": "/docs/e-assessment/assessment-mode",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "e-assessment/e_assessment2",
-              "path": "/docs/e-assessment/e_assessment2",
+              "id": "e-assessment/coaching",
+              "path": "/docs/e-assessment/coaching",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "e-assessment/e_assessment3",
-              "path": "/docs/e-assessment/e_assessment3",
+              "id": "e-assessment/performance-assessment",
+              "path": "/docs/e-assessment/performance-assessment",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "group/group1",
-              "path": "/docs/group/group1",
+              "id": "group/create-groups",
+              "path": "/docs/group/create-groups",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "group/group2",
-              "path": "/docs/group/group2",
+              "id": "group/group-administration",
+              "path": "/docs/group/group-administration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "group/group3",
-              "path": "/docs/group/group3",
+              "id": "group/group-management",
+              "path": "/docs/group/group-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "group/group4",
-              "path": "/docs/group/group4",
+              "id": "group/lti-access",
+              "path": "/docs/group/lti-access",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "group/group5",
-              "path": "/docs/group/group5",
+              "id": "group/using-group-tools",
+              "path": "/docs/group/using-group-tools",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how-to/how1",
-              "path": "/docs/how-to/how1",
+              "id": "how-to/create-a-bulk-assessment",
+              "path": "/docs/how-to/create-a-bulk-assessment",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how-to/how2",
-              "path": "/docs/how-to/how2",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "how-to/how3",
-              "path": "/docs/how-to/how3",
+              "id": "how-to/customize-the-course-design",
+              "path": "/docs/how-to/customize-the-course-design",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -551,53 +546,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/learning_activities_in_course2",
-              "path": "/docs/learning-activities/learning_activities_in_course2",
+              "id": "learning-activities/additional-course-features",
+              "path": "/docs/learning-activities/additional-course-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/learning_activities_in_course3",
-              "path": "/docs/learning-activities/learning_activities_in_course3",
+              "id": "learning-activities/course-problems-and-error-messages",
+              "path": "/docs/learning-activities/course-problems-and-error-messages",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/learning_activities_in_course4",
-              "path": "/docs/learning-activities/learning_activities_in_course4",
+              "id": "learning-activities/exams",
+              "path": "/docs/learning-activities/exams",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-1",
-              "path": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-1",
+              "id": "learning-activities/working-with-course-elements/overview",
+              "path": "/docs/learning-activities/working-with-course-elements/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-2",
-              "path": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-2",
+              "id": "learning-activities/working-with-course-elements/working-with-forums",
+              "path": "/docs/learning-activities/working-with-course-elements/working-with-forums",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-3",
-              "path": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-3",
+              "id": "learning-activities/working-with-course-elements/working-with-tasks",
+              "path": "/docs/learning-activities/working-with-course-elements/working-with-tasks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-4",
-              "path": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-4",
+              "id": "learning-activities/working-with-course-elements/working-with-tests",
+              "path": "/docs/learning-activities/working-with-course-elements/working-with-tests",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-5",
-              "path": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-5",
+              "id": "learning-activities/working-with-course-elements/working-with-topic",
+              "path": "/docs/learning-activities/working-with-course-elements/working-with-topic",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-activities/working-with-course-elements/learning_activities_in_course1-6",
-              "path": "/docs/learning-activities/working-with-course-elements/learning_activities_in_course1-6",
+              "id": "learning-activities/working-with-course-elements/working-with-wiki",
+              "path": "/docs/learning-activities/working-with-course-elements/working-with-wiki",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "managing-topics/topic_assignment1",
-              "path": "/docs/managing-topics/topic_assignment1",
+              "id": "managing-topics/three-step-to-create-and-manage-topics",
+              "path": "/docs/managing-topics/three-step-to-create-and-manage-topics",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -656,38 +651,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank1",
-              "path": "/docs/question-bank/question_bank1",
+              "id": "question-bank/administration",
+              "path": "/docs/question-bank/administration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank2",
-              "path": "/docs/question-bank/question_bank2",
+              "id": "question-bank/data-management",
+              "path": "/docs/question-bank/data-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank3",
-              "path": "/docs/question-bank/question_bank3",
+              "id": "question-bank/item-detailed-view",
+              "path": "/docs/question-bank/item-detailed-view",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank4",
-              "path": "/docs/question-bank/question_bank4",
+              "id": "question-bank/possible-operations",
+              "path": "/docs/question-bank/possible-operations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank5",
-              "path": "/docs/question-bank/question_bank5",
+              "id": "question-bank/review-process",
+              "path": "/docs/question-bank/review-process",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank6",
-              "path": "/docs/question-bank/question_bank6",
+              "id": "question-bank/search",
+              "path": "/docs/question-bank/search",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "question-bank/question_bank7",
-              "path": "/docs/question-bank/question_bank7",
+              "id": "question-bank/sharing-options",
+              "path": "/docs/question-bank/sharing-options",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -701,103 +696,68 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "supported-technologies/supported_tech1",
-              "path": "/docs/supported-technologies/supported_tech1",
+              "id": "supported-technologies/using-webdav",
+              "path": "/docs/supported-technologies/using-webdav",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 2/course_element2-1",
-              "path": "/docs/types-of-course-element/임시 폴더 2/course_element2-1",
+              "id": "types-of-course-element/assessment/course-element-assessment",
+              "path": "/docs/types-of-course-element/assessment/course-element-assessment",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 2/course_element2-2",
-              "path": "/docs/types-of-course-element/임시 폴더 2/course_element2-2",
+              "id": "types-of-course-element/assessment/course-element-checklist",
+              "path": "/docs/types-of-course-element/assessment/course-element-checklist",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 2/course_element2-3",
-              "path": "/docs/types-of-course-element/임시 폴더 2/course_element2-3",
+              "id": "types-of-course-element/assessment/overview",
+              "path": "/docs/types-of-course-element/assessment/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-1",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-1",
+              "id": "types-of-course-element/communication-and-organisation/bbb-frequently-asked-question",
+              "path": "/docs/types-of-course-element/communication-and-organisation/bbb-frequently-asked-question",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-2",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-2",
+              "id": "types-of-course-element/communication-and-organisation/course-element-adobe-connect",
+              "path": "/docs/types-of-course-element/communication-and-organisation/course-element-adobe-connect",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-3",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-3",
+              "id": "types-of-course-element/communication-and-organisation/course-element-bigbluebutton",
+              "path": "/docs/types-of-course-element/communication-and-organisation/course-element-bigbluebutton",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-4",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-4",
+              "id": "types-of-course-element/communication-and-organisation/course-element-gotomeetings",
+              "path": "/docs/types-of-course-element/communication-and-organisation/course-element-gotomeetings",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-5",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-5",
+              "id": "types-of-course-element/communication-and-organisation/course-element-microsoft-teams",
+              "path": "/docs/types-of-course-element/communication-and-organisation/course-element-microsoft-teams",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-6",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-6",
+              "id": "types-of-course-element/communication-and-organisation/course-element-opennmettings",
+              "path": "/docs/types-of-course-element/communication-and-organisation/course-element-opennmettings",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-7",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-7",
+              "id": "types-of-course-element/communication-and-organisation/course-element-vitero",
+              "path": "/docs/types-of-course-element/communication-and-organisation/course-element-vitero",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-8",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-8",
+              "id": "types-of-course-element/communication-and-organisation/overview",
+              "path": "/docs/types-of-course-element/communication-and-organisation/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "types-of-course-element/임시 폴더 3/course_element3-9",
-              "path": "/docs/types-of-course-element/임시 폴더 3/course_element3-9",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-1",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-1",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-2",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-2",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-3",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-3",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-4",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-4",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-5",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-5",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-6",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-6",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "types-of-course-element/임시 폴더/course_element1-7",
-              "path": "/docs/types-of-course-element/임시 폴더/course_element1-7",
+              "id": "types-of-course-element/communication-and-organisation/virtual-classrooms",
+              "path": "/docs/types-of-course-element/communication-and-organisation/virtual-classrooms",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -808,6 +768,41 @@
             {
               "id": "types-of-course-element/course_element5",
               "path": "/docs/types-of-course-element/course_element5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/course-element-card2brain",
+              "path": "/docs/types-of-course-element/knowledge-transfer/course-element-card2brain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/course-element-folder",
+              "path": "/docs/types-of-course-element/knowledge-transfer/course-element-folder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/course-element-mediasite",
+              "path": "/docs/types-of-course-element/knowledge-transfer/course-element-mediasite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/course-element-scorn",
+              "path": "/docs/types-of-course-element/knowledge-transfer/course-element-scorn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/course-element-single-page",
+              "path": "/docs/types-of-course-element/knowledge-transfer/course-element-single-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/course-element-structure",
+              "path": "/docs/types-of-course-element/knowledge-transfer/course-element-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types-of-course-element/knowledge-transfer/overview",
+              "path": "/docs/types-of-course-element/knowledge-transfer/overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -871,13 +866,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-제작-2",
-              "path": "/docs/category/코스-제작-2",
+              "id": "/category/과정-요소의-일반-구성",
+              "path": "/docs/category/과정-요소의-일반-구성",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-제작-3",
-              "path": "/docs/category/코스-제작-3",
+              "id": "/category/코스-설정",
+              "path": "/docs/category/코스-설정",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -886,18 +881,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-요소-타입-1",
-              "path": "/docs/category/코스-요소-타입-1",
+              "id": "/category/지식-이전",
+              "path": "/docs/category/지식-이전",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-요소-타입-2",
-              "path": "/docs/category/코스-요소-타입-2",
+              "id": "/category/평가",
+              "path": "/docs/category/평가",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-요소-타입-3",
-              "path": "/docs/category/코스-요소-타입-3",
+              "id": "/category/커뮤니케이션과-조직",
+              "path": "/docs/category/커뮤니케이션과-조직",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -906,18 +901,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-운영-1",
-              "path": "/docs/category/코스-운영-1",
+              "id": "/category/코스-도구-사용",
+              "path": "/docs/category/코스-도구-사용",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-운영-2",
-              "path": "/docs/category/코스-운영-2",
+              "id": "/category/평가-도구",
+              "path": "/docs/category/평가-도구",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/코스-운영-3",
-              "path": "/docs/category/코스-운영-3",
+              "id": "/category/강의와-결석",
+              "path": "/docs/category/강의와-결석",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -966,13 +961,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/포트폴리오-제작-1",
-              "path": "/docs/category/포트폴리오-제작-1",
+              "id": "/category/포트폴리오의-요소",
+              "path": "/docs/category/포트폴리오의-요소",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/포트폴리오-제작-2",
-              "path": "/docs/category/포트폴리오-제작-2",
+              "id": "/category/포트폴리오-평가-프로세스",
+              "path": "/docs/category/포트폴리오-평가-프로세스",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -986,13 +981,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/폼-제작-1",
-              "path": "/docs/category/폼-제작-1",
+              "id": "/category/폼-에디터",
+              "path": "/docs/category/폼-에디터",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/폼-제작-2",
-              "path": "/docs/category/폼-제작-2",
+              "id": "/category/코스-내-폼",
+              "path": "/docs/category/코스-내-폼",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1001,8 +996,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/테스트-제작-1",
-              "path": "/docs/category/테스트-제작-1",
+              "id": "/category/시험-에디터-qti-21",
+              "path": "/docs/category/시험-에디터-qti-21",
               "sidebar": "tutorialSidebar"
             },
             {

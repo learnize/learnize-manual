@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders",
+  "id": "creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders",
+  "title": "내 포트폴리오 바인더",
+  "description": "개인 메뉴에서 모든 사용자는 자신의 포트폴리오 폴더에 대한 \"내 바인더로\" 링크를 통해 자신의 포트폴리오에 액세스할 수 있습니다.",
+  "source": "@site/docs/19. creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders.md",
+  "sourceDirName": "19. creating-portfolios/componenets-of-the-portfolio",
+  "slug": "/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders",
+  "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/19. creating-portfolios/componenets-of-the-portfolio/my-portfolio-binders.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "포트폴리오 구성 요소",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/overview"
+  },
+  "next": {
+    "title": "내 항목",
+    "permalink": "/docs/creating-portfolios/componenets-of-the-portfolio/my-entries"
+  }
+}

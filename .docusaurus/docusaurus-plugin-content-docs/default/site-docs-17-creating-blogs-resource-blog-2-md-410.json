@@ -8,14 +8,14 @@
   "slug": "/creating-blogs/resource_blog2",
   "permalink": "/docs/creating-blogs/resource_blog2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/17. creating-blogs/resource_blog2.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/17. creating-blogs/resource_blog2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "블로그를 위한 4단계",
-    "permalink": "/docs/creating-blogs/resource_blog1"
+    "permalink": "/docs/creating-blogs/fourr-stpes-to-your-blog"
   },
   "next": {
     "title": "테스크 제작",

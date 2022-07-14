@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-tests/test-settings",
+  "id": "creating-tests/test-settings",
+  "title": "테스트 설정",
+  "description": "시험 관리",
+  "source": "@site/docs/22. creating-tests/test-settings.md",
+  "sourceDirName": "22. creating-tests",
+  "slug": "/creating-tests/test-settings",
+  "permalink": "/docs/creating-tests/test-settings",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22. creating-tests/test-settings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "test-question-types",
+    "permalink": "/docs/creating-tests/qti-2.1/test-question-types"
+  },
+  "next": {
+    "title": "코스 수준의 테스트",
+    "permalink": "/docs/creating-tests/tests-at-course-level"
+  }
+}

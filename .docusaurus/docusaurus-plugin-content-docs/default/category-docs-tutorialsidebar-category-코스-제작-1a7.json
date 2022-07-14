@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "리소스 및 사용에 대한 기술 정보",
-      "permalink": "/docs/authoring/authoring5"
+      "permalink": "/docs/authoring/technical-information-on-resources-and-usage"
     },
     "next": {
-      "title": "코스 제작",
-      "permalink": "/docs/category/코스-제작-1"
+      "title": "일반 정보",
+      "permalink": "/docs/creating-courses/general-information"
     }
   }
 }

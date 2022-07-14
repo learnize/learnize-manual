@@ -1,0 +1,27 @@
+{
+  "unversionedId": "e-assessment/coaching",
+  "id": "e-assessment/coaching",
+  "title": "코칭",
+  "description": "코칭 도구는 시험의 교차 과정 수정 및 교차 과정 결석 관리뿐만 아니라 과정, 참가자 및 그룹의 교차 과정 구성 및 관리에 사용됩니다.",
+  "source": "@site/docs/12. e-assessment/coaching.md",
+  "sourceDirName": "12. e-assessment",
+  "slug": "/e-assessment/coaching",
+  "permalink": "/docs/e-assessment/coaching",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12. e-assessment/coaching.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "성능 평가",
+    "permalink": "/docs/e-assessment/performance-assessment"
+  },
+  "next": {
+    "title": "CP 학습 컨텐츠 제작",
+    "permalink": "/docs/category/cp-학습-컨텐츠-제작"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/assessment/course-element-checklist",
+  "id": "types-of-course-element/assessment/course-element-checklist",
+  "title": "코스 요소: 체크리스트",
+  "description": "http://docs.learnize.co.kr/manualuser/courseelements/assets/checklist.png",
+  "source": "@site/docs/9. types-of-course-element/assessment/course-element-checklist.md",
+  "sourceDirName": "9. types-of-course-element/assessment",
+  "slug": "/types-of-course-element/assessment/course-element-checklist",
+  "permalink": "/docs/types-of-course-element/assessment/course-element-checklist",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/assessment/course-element-checklist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "과정 요소: 평가",
+    "permalink": "/docs/types-of-course-element/assessment/course-element-assessment"
+  },
+  "next": {
+    "title": "커뮤니케이션과 조직",
+    "permalink": "/docs/category/커뮤니케이션과-조직"
+  }
+}

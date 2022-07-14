@@ -1,0 +1,27 @@
+{
+  "unversionedId": "types-of-course-element/knowledge-transfer/course-element-scorn",
+  "id": "types-of-course-element/knowledge-transfer/course-element-scorn",
+  "title": "코스 요소: SCORM 학습 콘텐츠",
+  "description": "http://docs.learnize.co.kr/manualuser/courseelements/assets/scorm.png",
+  "source": "@site/docs/9. types-of-course-element/knowledge-transfer/course-element-scorn.md",
+  "sourceDirName": "9. types-of-course-element/knowledge-transfer",
+  "slug": "/types-of-course-element/knowledge-transfer/course-element-scorn",
+  "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-scorn",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/knowledge-transfer/course-element-scorn.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "과정 요소: 단일 페이지",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-single-page"
+  },
+  "next": {
+    "title": "과정 요소: card2brain Flashcards",
+    "permalink": "/docs/types-of-course-element/knowledge-transfer/course-element-card2brain"
+  }
+}

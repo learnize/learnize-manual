@@ -1,0 +1,24 @@
+{
+  "unversionedId": "types-of-course-element/communication-and-organisation/course_element3-4",
+  "id": "types-of-course-element/communication-and-organisation/course_element3-4",
+  "title": "코스 요소 BigBlueButton",
+  "description": "소프트웨어 유형 | OpenSource GNU LGPL(Lesser General Public License), 서버 호스팅 필요---|---통합 유형|",
+  "source": "@site/docs/9. types-of-course-element/communication-and-organisation/course_element3-4.md",
+  "sourceDirName": "9. types-of-course-element/communication-and-organisation",
+  "slug": "/types-of-course-element/communication-and-organisation/course_element3-4",
+  "permalink": "/docs/types-of-course-element/communication-and-organisation/course_element3-4",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. types-of-course-element/communication-and-organisation/course_element3-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 Adobe Connect",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course-element-adobe-connect"
+  },
+  "next": {
+    "title": "자주 묻는 질문 - BigBlueButton",
+    "permalink": "/docs/types-of-course-element/communication-and-organisation/course_element3-5"
+  }
+}

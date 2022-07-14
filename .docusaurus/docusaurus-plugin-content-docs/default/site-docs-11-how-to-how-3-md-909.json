@@ -8,14 +8,14 @@
   "slug": "/how-to/how3",
   "permalink": "/docs/how-to/how3",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. how-to/how3.md",
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. how-to/how3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "... CSS를 사용하여 코스 디자인 사용자 지정(전문가)",
-    "permalink": "/docs/how-to/how2"
+    "permalink": "/docs/how-to/customize-the-course-design"
   },
   "next": {
     "title": "전자 평가",

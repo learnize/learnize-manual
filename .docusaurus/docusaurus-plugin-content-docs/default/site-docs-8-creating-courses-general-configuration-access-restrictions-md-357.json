@@ -1,0 +1,27 @@
+{
+  "unversionedId": "creating-courses/general-configuration/access-restrictions",
+  "id": "creating-courses/general-configuration/access-restrictions",
+  "title": "전문가 모드에서 액세스 제한",
+  "description": "전문가 규칙 소개",
+  "source": "@site/docs/8. creating-courses/general-configuration/access-restrictions.md",
+  "sourceDirName": "8. creating-courses/general-configuration",
+  "slug": "/creating-courses/general-configuration/access-restrictions",
+  "permalink": "/docs/creating-courses/general-configuration/access-restrictions",
+  "draft": false,
+  "editUrl": "http://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. creating-courses/general-configuration/access-restrictions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "코스 요소 삭제, 이동 및 복사",
+    "permalink": "/docs/creating-courses/general-configuration/deleting-moving-and-copying-course-elements"
+  },
+  "next": {
+    "title": "코스 편집기 도구",
+    "permalink": "/docs/creating-courses/using-additional-course-editor-tools"
+  }
+}
